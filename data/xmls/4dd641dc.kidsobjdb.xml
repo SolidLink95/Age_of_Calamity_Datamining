@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x4d089cda">
+    <Object version="0" name="0x4dd641dc" type="TypeInfo::Object::Script::Code">
+        <Column name="ByteCode" type="uint8">
+            <Rows binary="0x4dd641dc_ByteCode.bin" />
+        </Column>
+        <Column name="DebugInfo" type="uint8" />
+        <Column name="ReferredScriptCode" type="uint32" />
+        <Column name="ReferredHostFunction" type="uint32">
+            <Row value="0xc071a2ef" />
+            <Row value="0xba7718ef" />
+            <Row value="0x23bf40bb" />
+            <Row value="0xfa7f61c6" />
+            <Row value="0xf2ac10b6" />
+            <Row value="0xecda662a" />
+            <Row value="0xddb565ce" />
+            <Row value="0xd8398f6a" />
+            <Row value="0xd836e51d" />
+            <Row value="0x89ff2c81" />
+            <Row value="0x88eec50c" />
+            <Row value="0x74e45d6e" />
+            <Row value="0x65078101" />
+            <Row value="0x3bcd48c9" />
+            <Row value="0x3137a03c" />
+            <Row value="0x2cdf79df" />
+            <Row value="0x20646d91" />
+            <Row value="0x197cf94c" />
+            <Row value="0x10e0e762" />
+            <Row value="0x071b45e8" />
+        </Column>
+        <Column name="EvaluatorParameters" type="uint8">
+            <Row value="0xff" />
+            <Row value="0x10" />
+            <Row value="0x10" />
+            <Row value="0xff" />
+            <Row value="0x20" />
+            <Row value="0x04" />
+            <Row value="0x7f" />
+            <Row value="0x00" />
+        </Column>
+        <Column name="ReferredObjectHashArray" type="uint32" />
+    </Object>
+</KidsObjDB>

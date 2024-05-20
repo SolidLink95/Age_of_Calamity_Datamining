@@ -1,0 +1,2092 @@
+[2021-11-28T15:49:53][FileList]Loading filelist for unknown-rdb
+[2021-11-28T15:49:53][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T15:49:53][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 02099e8c
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 1209e604
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -732, -86, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 0, -240, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 14d3dad6
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 4bff9907
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 165dcec9
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -512, -166, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 220, -320, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 1b2265a6
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -72, 154, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 660, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 1f764e6b
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -732, -6, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 0, -160, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 29fa163b
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 52, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 54, 0, 48, 0, 49, 0, 48, 0, 45, 49, 0, 48, 0, 50, 0, 50, 0, 10, 0, 48, 0, 49, 52, 0, 49, 0, 52, 0, 48, 0, 45, 52, 0, 48, 0, 50, 0, 50, 0, 10, 0, 48, 0, 53, 48, 0, 49, 0, 49, 56, 0, 48, 0, 45, 49, 56, 0, 48, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 48, 0, 53, 0, 48, 0, 45, 53, 0, 48, 46, 53, 0, 49, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 3b4704a1
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -732, 154, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 50, 50
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: KTID 29fa163b
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: KTID af60f40a, KTID d8b5494b, KTID 02099e8c
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: NULL
+Float32 LocalPosition: 0, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 445f8443
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -72, -6, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 660, -160, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 48b36d08
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -732, -166, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 0, -320, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 4d7803e5
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -292, 154, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 440, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 51cbecaa
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -72, 74, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 660, -80, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 57ffbf20
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -402, 210, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 0,15
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: KTID 4bff9907
+Float32 SizeXY: 850, 2
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: KTID 1ac4ca3a
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: KTID c0994cdc
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: NULL
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: NULL
+Float32 LocalPosition: -402, 208, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: KTID ccd47c77, KTID 14d3dad6, KTID 5cd33935
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,45454544
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 5cd33935
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 4bff9907
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 76b52282
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -292, -6, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 440, -160, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 7b090b47
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -72, -86, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 660, -240, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 7fcda224
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -512, 154, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 220, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 84218ae9
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -292, 74, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 440, -80, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID ad5ea986
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -292, -86, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 440, -240, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID af60f40a
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 52, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 54, 0, 45, 55, 48, 50, 0, 52, 0, 48, 0, 45, 52, 0, 48, 0, 50, 0, 50, 0, 10, 0, 48, 0, 49, 52, 0, 45, 55, 51, 50, 0, 48, 46, 56, 53, 51, 50, 49, 57, 49, 50, 48, 56, 49, 51, 54, 54, 57, 0, 48, 0, 45, 49, 0, 48, 0, 49, 0, 50, 0, 10, 0, 48, 0, 53, 48, 0, 45, 55, 51, 50, 0, 51, 46, 50, 54, 57, 54, 50, 52, 49, 56, 51, 57, 50, 51, 52, 56, 0, 50, 46, 49, 53, 52, 50, 55, 56, 48, 57, 57, 53, 49, 53, 52, 49, 0, 45, 49, 57, 46, 48, 48, 53, 57, 50, 49, 53, 50, 55, 56, 48, 57, 54, 0, 45, 49, 50, 46, 53, 50, 50, 53, 53, 50, 53, 48, 51, 48, 54, 51, 56, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 45, 55, 48, 50, 0, 50, 51, 0, 48, 0, 45, 51, 46, 51, 55, 53, 57, 54, 48, 50, 50, 49, 50, 56, 53, 54, 50, 0, 45, 50, 46, 50, 48, 49, 55, 49, 51, 49, 56, 55, 55, 57, 52, 57, 55, 0, 49, 0, 51, 0, 10, 0, 10
+
+KTID: KTID b1b2924b
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -72, -166, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 660, -320, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID b2234063
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -732, 154, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 0, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID b6772928
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -512, 74, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 220, -80, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID c0994cdc
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 52, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 48, 0, 48, 0, 52, 0, 48, 46, 48, 55, 53, 0, 45, 52, 0, 48, 0, 49, 0, 50, 0, 10, 0, 48, 0, 56, 0, 48, 46, 49, 0, 49, 0, 48, 0, 45, 49, 0, 48, 0, 49, 0, 51, 0, 10, 0, 48, 0, 53, 48, 0, 48, 46, 49, 0, 50, 49, 0, 48, 0, 45, 50, 49, 0, 48, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 48, 0, 53, 0, 48, 0, 45, 53, 0, 48, 46, 48, 55, 53, 0, 49, 0, 51, 0, 10, 0, 10
+
+KTID: KTID ccd47c77
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 4bff9907
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID d8b5494b
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID dfb447c5
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -512, -86, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 220, -240, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID e408308a
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -292, -166, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 440, -320, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID e8ccc767
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -732, 74, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 0, -80, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID ed20b02c
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: -512, -6, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 200, 60
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 3b4704a1
+Float32 LocalPosition: 220, -160, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+

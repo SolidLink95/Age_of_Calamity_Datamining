@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xf8681337">
+    <Object version="0" name="0x07a7fc34" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x6b603886" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x07eae39b" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x7154c8ed" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x0a549b69" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x3528d2bb" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x177cf02c" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0xfeddb47e" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x24c9fe6b" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0xaa1413bd" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x3f3f616d" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x1eff54bf" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x49688482" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x74f292d4" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x50019456" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x9db88ea8" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x603acf18" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x41f3e76a" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7999a1e0" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x15d77232" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7e567730" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0xe451f782" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x8bc65c3e" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x65caee90" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x978f4cea" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0xef9e733c" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb204afec" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x6489b43e" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xc64b50b8" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0xbeb8c90a" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xcce60a7f" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x40bccbd1" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xcd162401" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x0a844353" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xe62d8ba4" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x0cd757f6" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xeb5c2e95" type="TypeInfo::Object::3D::Placeable::Effect::WorldPQ">
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0xe6b079e7" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="-1" />
+        </Column>
+        <Column name="FlagAboutUpdate" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalMinMax" type="float">
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="-100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+            <Row value="100.0" />
+        </Column>
+    </Object>
+</KidsObjDB>

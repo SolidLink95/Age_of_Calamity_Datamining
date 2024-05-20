@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x6d8e6ea3">
+    <Object version="0" name="0x1bfe9d3f" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0xe8359fc3" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x277555af" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0xcfce1953" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x295175fc" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x32f63b66" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x30088182" type="TypeInfo::Object::3D::Displayset::Effect">
+        <Column name="KTGLEffectDataResourceHash" type="uint32">
+            <Row value="0x8d51ee29" />
+        </Column>
+        <Column name="KTGLEffectMeshDataResourceHash" type="uint32">
+            <Row value="0x61023f68" />
+        </Column>
+        <Column name="KTGLShaderObjectHash" type="uint32">
+            <Row value="0xf8097008" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xbd2d4a25" />
+        </Column>
+        <Column name="KTGLEffectSystemID" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x3f7311dc" type="TypeInfo::Object::3D::Displayset::Effect">
+        <Column name="KTGLEffectDataResourceHash" type="uint32">
+            <Row value="0xff815303" />
+        </Column>
+        <Column name="KTGLEffectMeshDataResourceHash" type="uint32">
+            <Row value="0x61023f68" />
+        </Column>
+        <Column name="KTGLShaderObjectHash" type="uint32">
+            <Row value="0xf8097008" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xbd2d4a25" />
+        </Column>
+        <Column name="KTGLEffectSystemID" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x40d51290" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x5d02bc52" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x44500967" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0xa7720e9b" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4c45a641" type="TypeInfo::Object::3D::Displayset::Effect">
+        <Column name="KTGLEffectDataResourceHash" type="uint32">
+            <Row value="0x9fea47a8" />
+        </Column>
+        <Column name="KTGLEffectMeshDataResourceHash" type="uint32">
+            <Row value="0x61023f68" />
+        </Column>
+        <Column name="KTGLShaderObjectHash" type="uint32">
+            <Row value="0xf8097008" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xbd2d4a25" />
+        </Column>
+        <Column name="KTGLEffectSystemID" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5c45eaf5" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x1392c34d" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6ccde629" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0xb9449199" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x85934b43" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0xba11213f" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x8862d873" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x25832e0f" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x89103851" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x6fdb5a71" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x94ba4e33" type="TypeInfo::Object::3D::Displayset::Effect">
+        <Column name="KTGLEffectDataResourceHash" type="uint32">
+            <Row value="0xf3a9b21a" />
+        </Column>
+        <Column name="KTGLEffectMeshDataResourceHash" type="uint32">
+            <Row value="0x61023f68" />
+        </Column>
+        <Column name="KTGLShaderObjectHash" type="uint32">
+            <Row value="0xf8097008" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xbd2d4a25" />
+        </Column>
+        <Column name="KTGLEffectSystemID" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x9529f0e1" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0xf4604fe1" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x9ec8d40a" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x0533e398" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa180a72b" type="TypeInfo::Object::3D::Displayset::Effect">
+        <Column name="KTGLEffectDataResourceHash" type="uint32">
+            <Row value="0x37577112" />
+        </Column>
+        <Column name="KTGLEffectMeshDataResourceHash" type="uint32">
+            <Row value="0x61023f68" />
+        </Column>
+        <Column name="KTGLShaderObjectHash" type="uint32">
+            <Row value="0xf8097008" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xbd2d4a25" />
+        </Column>
+        <Column name="KTGLEffectSystemID" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb2815329" type="TypeInfo::Object::3D::Displayset::Effect">
+        <Column name="KTGLEffectDataResourceHash" type="uint32">
+            <Row value="0xce5aa690" />
+        </Column>
+        <Column name="KTGLEffectMeshDataResourceHash" type="uint32">
+            <Row value="0x61023f68" />
+        </Column>
+        <Column name="KTGLShaderObjectHash" type="uint32">
+            <Row value="0xf8097008" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xbd2d4a25" />
+        </Column>
+        <Column name="KTGLEffectSystemID" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xba3d098e" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x2f60ed94" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xbd2d4a25" type="TypeInfo::Object::Render::State::3D::Textures">
+        <Column name="TextureBindTableCSVFileResourceHash" type="uint32">
+            <Row value="0x1aafa450" />
+        </Column>
+        <Column name="TextureObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xbea72146" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0xfdf8fedc" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xc0af098b" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x58e079f7" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xc2597b45" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x2fa3e8fd" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xc6149c22" type="TypeInfo::Object::3D::Displayset::Effect">
+        <Column name="KTGLEffectDataResourceHash" type="uint32">
+            <Row value="0xdc4790c9" />
+        </Column>
+        <Column name="KTGLEffectMeshDataResourceHash" type="uint32">
+            <Row value="0x61023f68" />
+        </Column>
+        <Column name="KTGLShaderObjectHash" type="uint32">
+            <Row value="0xf8097008" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xbd2d4a25" />
+        </Column>
+        <Column name="KTGLEffectSystemID" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd3078b53" type="TypeInfo::Object::3D::Displayset::Effect">
+        <Column name="KTGLEffectDataResourceHash" type="uint32">
+            <Row value="0xfd1c973a" />
+        </Column>
+        <Column name="KTGLEffectMeshDataResourceHash" type="uint32">
+            <Row value="0x61023f68" />
+        </Column>
+        <Column name="KTGLShaderObjectHash" type="uint32">
+            <Row value="0xf8097008" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xbd2d4a25" />
+        </Column>
+        <Column name="KTGLEffectSystemID" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd77f2830" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0xa3ef72b2" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd8ee9adb" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0xbcc17ea7" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xde73905b" type="TypeInfo::Object::3D::Displayset::Effect">
+        <Column name="KTGLEffectDataResourceHash" type="uint32">
+            <Row value="0xede2b642" />
+        </Column>
+        <Column name="KTGLEffectMeshDataResourceHash" type="uint32">
+            <Row value="0x61023f68" />
+        </Column>
+        <Column name="KTGLShaderObjectHash" type="uint32">
+            <Row value="0xf8097008" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xbd2d4a25" />
+        </Column>
+        <Column name="KTGLEffectSystemID" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SourceLifeSpan" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceMass" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAirResistance" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceCharge" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceSpeed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceRed" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceGreen" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceBlue" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceAlpha" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="SourceUser0" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="SourceUser1" type="float">
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf12e69e0" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x7b793b02" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+</KidsObjDB>

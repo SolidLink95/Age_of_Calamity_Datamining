@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x2aaa4304">
+    <Object version="0" name="0x002032bd" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x351e344a" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x01c79ee1" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x7c16daa6" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x020c291c" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xfcb1f24b" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x07078783" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x4a068544" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x072783a8" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xdcdb833f" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x0738c687" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xa2a144c0" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x0bff630a" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xed54af1d" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x0df5dfb4" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xe08d82b3" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x0f4e10a8" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x3808163f" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x1081d311" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xa0b49476" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x12934fc5" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x541f7442" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x1499e644" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x13f98623" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x14a31aa8" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xa7df4c3f" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x1b742074" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x75e4f9f3" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x1c96dcc5" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x428f0742" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x1e7c14fc" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x3acc926b" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x21b2fede" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xf3c6c3c9" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x24ba811f" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xc7835128" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x2685fbae" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x451178f9" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x2e48285b" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xfcbd536c" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x2f04b1be" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x4eacfce9" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x2f136956" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x436b2c51" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x2f7135ca" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xa1b1d45d" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x300560f8" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xa67b27ef" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x3351c3b4" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xe75c1eb3" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x349b371c" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x052da44b" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x3daad9cf" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x0bb13678" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x40482e3e" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x49eed069" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x41025962" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x5de517c5" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x49056b5d" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xa7d4bfaa" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4a38b384" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xf14fc0e3" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4b8ff955" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x25adb4b2" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x533b904d" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xfc2a40ba" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5597ccb5" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x92059d52" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x57adb83f" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xaa906e08" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5888295c" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xda6fda0b" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5a819271" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xb5fc1116" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5d0de6da" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x94693d4d" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5dee453b" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xf9b7628c" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5f7c780b" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x4d02a1bc" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6243cf44" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xbbc03d23" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6447f991" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x7683fdf6" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x65c02277" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xc408eed0" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6b396dcd" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x1cb5533a" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7031b16b" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x5216e45c" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x71d65412" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x33a29b15" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x72161be1" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xf1a17da6" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7af09c97" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x1097a8b0" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7b202db0" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x920a5637" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7daf88e5" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x2d72cf22" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7e203b83" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x94ca5144" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7e273284" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x5d09a1e3" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7ed651e1" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x69bd07a6" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x8cc78f80" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x7462c667" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x8e812b52" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xd2790bd5" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x91723b3b" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xa7a72c8c" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x92fec9e1" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x23278fa6" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x9309add7" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x933a1f70" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x950c1b36" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x5422c671" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x984ff6a4" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xae9451c3" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x99a39d22" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x53b06c05" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x99f03e77" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xaf2e52d0" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa14aa6bb" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x7b12710c" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa1557396" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x782f4a11" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa18c5d3c" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x659b322b" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa197d5d0" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xa050a217" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa1c9341f" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xb5297e28" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa28a5bf6" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xe97a3db1" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa2b84c82" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x5b88f8a5" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa67ee1f8" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xe95946ef" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa9302d96" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xfaded011" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa96ca47c" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xb2b232eb" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xaa157384" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x2cab00e3" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xac246aab" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x0f80b31c" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb31b68e2" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xf3723845" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb334cad1" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x98eab4b6" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb4bf5d1d" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x8af625ea" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb922dd16" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x39f65091" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xbca5da95" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x2d055b72" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xbd346fac" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x2401b5bb" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xbfc9bb07" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x1e48a040" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xc1180350" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x20fb6497" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xc3984b0b" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xd3afaebc" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xc6be5424" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x427ee443" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xca44c695" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x41adef72" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xcc85e42f" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xb3d94818" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xcdabbab7" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x183e3e90" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xcf0c0449" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x2f22ae3e" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd1483b52" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x8b8bfbd5" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd35bfa73" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x93907854" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd3cbd569" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x0339711e" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd43349b1" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x1037a1d6" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd4485395" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x301d8272" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd4539e1c" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xa3a69d4b" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd8f0d316" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x6fdc1a91" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd94e3bcc" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x78785d9b" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xe3dd122a" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x804a53fd" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xe5ef0c8a" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xaa21759d" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xe7cd8022" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x89896905" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xea5f94c3" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xb62b8004" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xec75ddce" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x1f59cad9" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf2e2bdbe" type="TypeInfo::Object::Animation::Data::Camera::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xca6a70e9" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf3da6115" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x9d0264f2" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf3e88d47" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xc3a4f600" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf67d30b0" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x3c843337" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf68f888e" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xf9de1819" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf747eced" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xc5ac281a" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf8a45322" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0x155b7605" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf98aac17" type="TypeInfo::Object::Animation::Data::Model::G1A">
+        <Column name="G1AFileResourceHash" type="uint32">
+            <Row value="0xd143c930" />
+        </Column>
+        <Column name="OptionFlag" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+</KidsObjDB>

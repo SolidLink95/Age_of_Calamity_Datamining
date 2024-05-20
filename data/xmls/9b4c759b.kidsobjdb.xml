@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xf6eeea82">
+    <Object version="0" name="0x0110c3d9" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x0251f415" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x0396b3fb" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0x04d7e437" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="5.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x061ca41d" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="20.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x0e6d5813" parent_object_file="0x1ff79934" parent_object="0xa257e04f">
+        <Column name="WorldPosition" type="float">
+            <Row value="-7381.96484" />
+            <Row value="6161.82617" />
+            <Row value="-37218.4297" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="-0.0748937204" />
+            <Row value="-0.964117229" />
+            <Row value="-0.0255141892" />
+            <Row value="-0.2534132" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.400000006" />
+            <Row value="0.400000006" />
+            <Row value="0.400000006" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x0f1c4e24" parent_object_file="0x1ff79934" parent_object="0x9a0a1c51">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="534.433594" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.481415302" />
+            <Row value="0.0" />
+            <Row value="0.87649262" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x1addd3d2" parent_object_file="0x1ff79934" parent_object="0xa257e04f">
+        <Column name="WorldPosition" type="float">
+            <Row value="-8331.32617" />
+            <Row value="6126.20703" />
+            <Row value="-37359.2305" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.117202498" />
+            <Row value="0.0" />
+            <Row value="0.993107975" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.5" />
+            <Row value="1.5" />
+            <Row value="1.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x1d891035" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="23459.5508" />
+            <Row value="-125.480499" />
+            <Row value="-23781.6895" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x20976dd8" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x21d89e14" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x231d5dfa" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0x245e8e36" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="5.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0436193906" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.999048173" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x25a34e1c" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="20.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x274e4f91" parent_object_file="0x1ff79934" parent_object="0xa257e04f">
+        <Column name="WorldPosition" type="float">
+            <Row value="-13911.2305" />
+            <Row value="7002.48193" />
+            <Row value="-41589.7695" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="-0.0455842204" />
+            <Row value="-0.653956115" />
+            <Row value="0.0111402702" />
+            <Row value="-0.755075574" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.5" />
+            <Row value="1.5" />
+            <Row value="1.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x28293e3e" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x29f98bf4" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="25699.9609" />
+            <Row value="35.3818398" />
+            <Row value="-25395.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="5.0" />
+            <Row value="5.0" />
+            <Row value="5.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x366a07b3" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="28786.8496" />
+            <Row value="10120.04" />
+            <Row value="-32394.8906" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x36bf16c4" parent_object_file="0x1ff79934" parent_object="0x5b4069c4">
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.707106829" />
+            <Row value="0.0" />
+            <Row value="0.707106829" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x38b17d16" parent_object_file="0x1ff79934" parent_object="0xf1714c51">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x3b5028e0" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="29532.6094" />
+            <Row value="6972.84814" />
+            <Row value="-21995.9902" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x3fcbcaf4" parent_object_file="0x1ff79934" parent_object="0x2246f9dc">
+        <Column name="WorldPosition" type="float">
+            <Row value="37.1796913" />
+            <Row value="40.8125" />
+            <Row value="514.953125" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="-4.32515783e-008" />
+            <Row value="0.999944985" />
+            <Row value="-4.41663914e-008" />
+            <Row value="-0.0104641998" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.300000012" />
+            <Row value="0.300000012" />
+            <Row value="0.300000012" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x401e17d7" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x42a407f9" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0x42da8372" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="30612.5293" />
+            <Row value="13328.7197" />
+            <Row value="-27267.7207" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="4.0" />
+            <Row value="4.0" />
+            <Row value="4.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4529f81b" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0x47afe83d" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4c9fc2ce" parent_object_file="0x1ff79934" parent_object="0xa257e04f">
+        <Column name="WorldPosition" type="float">
+            <Row value="-15637.9199" />
+            <Row value="2648.5769" />
+            <Row value="-40613.8008" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0337618403" />
+            <Row value="0.959273219" />
+            <Row value="0.000437514187" />
+            <Row value="-0.280454904" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="6.0" />
+            <Row value="6.0" />
+            <Row value="6.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4f4aff31" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="37473.3594" />
+            <Row value="10844.5596" />
+            <Row value="-21685.2109" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="3.0" />
+            <Row value="3.0" />
+            <Row value="3.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x514993a4" parent_object_file="0x1ff79934" parent_object="0x3d058b1b">
+        <Column name="WorldPosition" type="float">
+            <Row value="110.0" />
+            <Row value="-25.0" />
+            <Row value="507.085907" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.00163669197" />
+            <Row value="-0.99935931" />
+            <Row value="-0.0265268404" />
+            <Row value="0.0239517391" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.300000012" />
+            <Row value="0.300000012" />
+            <Row value="0.300000012" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x536179f2" parent_object_file="0x1ff79934" parent_object="0x3d058b1b">
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0701942369" />
+            <Row value="0.703614116" />
+            <Row value="-0.0701942369" />
+            <Row value="0.703614116" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.899999976" />
+            <Row value="0.899999976" />
+            <Row value="0.899999976" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5788b19a" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="26448.1191" />
+            <Row value="5339.26904" />
+            <Row value="-27858.2598" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="3.0" />
+            <Row value="3.0" />
+            <Row value="3.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x59103e8d" parent_object_file="0x1ff79934" parent_object="0xa257e04f">
+        <Column name="WorldPosition" type="float">
+            <Row value="-43.3046913" />
+            <Row value="-62.9033203" />
+            <Row value="-1160.90601" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.987390518" />
+            <Row value="0.0" />
+            <Row value="0.158303395" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.300000012" />
+            <Row value="0.300000012" />
+            <Row value="0.300000012" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5bbb7af0" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="30612.5293" />
+            <Row value="14574.79" />
+            <Row value="-21898.5391" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="4.0" />
+            <Row value="4.0" />
+            <Row value="4.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5fa4c1d6" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x622ab1f8" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0x63f92d59" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="29533.6992" />
+            <Row value="6355.76416" />
+            <Row value="-21048.7402" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x64b0a21a" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0x652c5d16" parent_object_file="0x1ff79934" parent_object="0x2655526d">
+        <Column name="WorldPosition" type="float">
+            <Row value="-11328.1299" />
+            <Row value="-287.514587" />
+            <Row value="4639.06299" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6580ba4c" parent_object_file="0x1ff79934" parent_object="0xa257e04f">
+        <Column name="WorldPosition" type="float">
+            <Row value="-9134.81641" />
+            <Row value="6657.11084" />
+            <Row value="-38139.8516" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0337618403" />
+            <Row value="0.959273219" />
+            <Row value="0.000437514187" />
+            <Row value="-0.280454904" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x65fadb97" parent_object_file="0x1ff79934" parent_object="0x2655526d">
+        <Column name="WorldPosition" type="float">
+            <Row value="5337.68018" />
+            <Row value="-287.514587" />
+            <Row value="-930.335876" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x66c95a18" parent_object_file="0x1ff79934" parent_object="0x2655526d">
+        <Column name="WorldPosition" type="float">
+            <Row value="-4333.35889" />
+            <Row value="-287.514587" />
+            <Row value="-5545.44482" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6736923c" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7069a918" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="30612.5293" />
+            <Row value="4406.58398" />
+            <Row value="-19345.8496" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x71f1360b" parent_object_file="0x1ff79934" parent_object="0xa257e04f">
+        <Column name="WorldPosition" type="float">
+            <Row value="-1103.78894" />
+            <Row value="15.24512" />
+            <Row value="-29653.25" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="-4.37113883e-008" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.20000005" />
+            <Row value="2.20000005" />
+            <Row value="2.20000005" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x745d1358" parent_object_file="0x1ff79934" parent_object="0x2480244e">
+        <Column name="WorldPosition" type="float">
+            <Row value="3010.09399" />
+            <Row value="203.607407" />
+            <Row value="-3711.38306" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.94350332" />
+            <Row value="0.0" />
+            <Row value="0.33136341" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="3.5" />
+            <Row value="3.5" />
+            <Row value="3.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7cda24d7" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="27891.7109" />
+            <Row value="10060.6797" />
+            <Row value="-24874.6309" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7f2b6bd5" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x81b15bf7" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0x84374c19" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0x86bd3c3b" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+            <Row value="1.20000005" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x894aa096" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="26918.9492" />
+            <Row value="5614.66797" />
+            <Row value="-26901.9609" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x9229fba0" parent_object_file="0x1ff79934" parent_object="0xc8631179">
+        <Column name="WorldPosition" type="float">
+            <Row value="103.078102" />
+            <Row value="-40.0341797" />
+            <Row value="507.085907" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="-0.336425185" />
+            <Row value="0.939673305" />
+            <Row value="0.0189905204" />
+            <Row value="-0.058918979" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.300000012" />
+            <Row value="0.300000012" />
+            <Row value="0.300000012" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x95bb1c55" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="39955.4609" />
+            <Row value="10697.5703" />
+            <Row value="-21154.5703" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x9c2c25b2" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="5.0" />
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x9eb215d4" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa13805f6" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="20.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa22b9814" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="30365.3906" />
+            <Row value="14273.8896" />
+            <Row value="-22617.5898" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa3bdf618" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0xa643e63a" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="5.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xae9c13d3" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="28661.4297" />
+            <Row value="8617.89063" />
+            <Row value="-32567.7695" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb1968751" parent_object_file="0x1ff79934" parent_object="0x202f9c50">
+        <Column name="WorldPosition" type="float">
+            <Row value="-10092.2402" />
+            <Row value="6718.27686" />
+            <Row value="-38284.3398" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="-0.00297323498" />
+            <Row value="0.525468826" />
+            <Row value="0.0468314886" />
+            <Row value="-0.849517882" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.699999988" />
+            <Row value="0.699999988" />
+            <Row value="0.699999988" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb837b004" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="5.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xbb0c8f92" parent_object_file="0x1ff79934" parent_object="0xdc131592">
+        <Column name="WorldPosition" type="float">
+            <Row value="39955.4609" />
+            <Row value="10697.5703" />
+            <Row value="-21154.5703" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xbbb2cfb1" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="5.0" />
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xbe070310" parent_object_file="0x1ff79934" parent_object="0x202f9c50">
+        <Column name="WorldPosition" type="float">
+            <Row value="-13744.3496" />
+            <Row value="6082.65723" />
+            <Row value="-35888.5781" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="-0.149423793" />
+            <Row value="0.474607408" />
+            <Row value="-0.0313966498" />
+            <Row value="-0.866853416" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xbe38bfd3" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xc0beaff5" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="20.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xc2036fdb" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xc344a017" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0xc5ca9039" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="5.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xcafdd684" parent_object_file="0x1ff79934" parent_object="0x3b5befea" />
+    <Object version="0" name="0xddbf69d2" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xe04559f4" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="20.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xe18a19da" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldScale" type="float">
+            <Row value="0.5" />
+            <Row value="0.5" />
+            <Row value="0.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xe2cb4a16" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0xe41009fc" parent_object_file="0x1ff79934" parent_object="0x2e832122" />
+    <Object version="0" name="0xe5513a38" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="5.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xe7a8fe4b" parent_object_file="0x1ff79934" parent_object="0x2480244e">
+        <Column name="WorldPosition" type="float">
+            <Row value="42.53125" />
+            <Row value="203.607407" />
+            <Row value="164.359406" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.987390518" />
+            <Row value="0.0" />
+            <Row value="0.158303395" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.300000012" />
+            <Row value="0.300000012" />
+            <Row value="0.300000012" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf24463e4" parent_object_file="0x1ff79934" parent_object="0xf1714c51">
+        <Column name="WorldPosition" type="float">
+            <Row value="1349.39099" />
+            <Row value="413.979492" />
+            <Row value="3462.06299" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2.0" />
+            <Row value="2.0" />
+            <Row value="2.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf4197a0a" parent_object_file="0x1ff79934" parent_object="0x2480244e">
+        <Column name="WorldPosition" type="float">
+            <Row value="-2391.75806" />
+            <Row value="203.607407" />
+            <Row value="1995.828" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.362825394" />
+            <Row value="0.0" />
+            <Row value="0.931857228" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="3.5" />
+            <Row value="3.5" />
+            <Row value="3.5" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xffcc03f3" parent_object_file="0x1ff79934" parent_object="0x2e832122">
+        <Column name="WorldPosition" type="float">
+            <Row value="20.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+    </Object>
+</KidsObjDB>

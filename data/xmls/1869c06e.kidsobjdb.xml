@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xff82c530">
+    <Object version="0" name="0x1869c06e" type="TypeInfo::Object::Script::Code">
+        <Column name="ByteCode" type="uint8">
+            <Rows binary="0x1869c06e_ByteCode.bin" />
+        </Column>
+        <Column name="DebugInfo" type="uint8" />
+        <Column name="ReferredScriptCode" type="uint32" />
+        <Column name="ReferredHostFunction" type="uint32">
+            <Row value="0xc937acd9" />
+            <Row value="0xc1bc4f94" />
+            <Row value="0x3945c335" />
+            <Row value="0x0adaa6c8" />
+            <Row value="0x6cdd2097" />
+            <Row value="0x446acc32" />
+            <Row value="0x5f4ef912" />
+            <Row value="0x2fa04195" />
+            <Row value="0x80b9f25f" />
+            <Row value="0x78a31296" />
+            <Row value="0x2713d1c8" />
+            <Row value="0x1f05eb7d" />
+            <Row value="0x020a6f05" />
+            <Row value="0x920c4d63" />
+            <Row value="0x64085f0c" />
+            <Row value="0x52342770" />
+            <Row value="0x24cb179a" />
+            <Row value="0x068f627e" />
+            <Row value="0xd8764512" />
+            <Row value="0xbcae6167" />
+            <Row value="0x9f2a30e1" />
+            <Row value="0x4c6fe49c" />
+            <Row value="0x396756ee" />
+            <Row value="0x201377ad" />
+            <Row value="0x1993c14b" />
+            <Row value="0x169db32e" />
+            <Row value="0xcc545342" />
+            <Row value="0x651187ab" />
+        </Column>
+        <Column name="EvaluatorParameters" type="uint8">
+            <Row value="0x14" />
+            <Row value="0x10" />
+            <Row value="0x10" />
+            <Row value="0x04" />
+            <Row value="0x20" />
+            <Row value="0x04" />
+            <Row value="0x20" />
+            <Row value="0x00" />
+        </Column>
+        <Column name="ReferredObjectHashArray" type="uint32" />
+    </Object>
+</KidsObjDB>

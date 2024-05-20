@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xab0be15f">
+    <Object version="0" name="FE4ResourceStaticTexture［decal_rfl_array］" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0xaba9d60c" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x13925f4e" type="TypeInfo::Object::Render::State::3D::Textures">
+        <Column name="TextureBindTableCSVFileResourceHash" type="uint32">
+            <Row value="0xa4cfdb28" />
+        </Column>
+        <Column name="TextureObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="FE4ResourceStaticTexture［decal_alb_array］" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x3046570d" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x31775465" type="TypeInfo::Object::Render::State::3D::Textures">
+        <Column name="TextureBindTableCSVFileResourceHash" type="uint32">
+            <Row value="0xb82f6cb1" />
+        </Column>
+        <Column name="TextureObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x41948a8f" type="TypeInfo::Object::Render::State::3D::Textures">
+        <Column name="TextureBindTableCSVFileResourceHash" type="uint32">
+            <Row value="0xb3c37a47" />
+        </Column>
+        <Column name="TextureObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x640b3499" type="TypeInfo::Object::Render::State::3D::Textures">
+        <Column name="TextureBindTableCSVFileResourceHash" type="uint32">
+            <Row value="0x594f47fd" />
+        </Column>
+        <Column name="TextureObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7e9d92d7" type="TypeInfo::Object::Render::State::3D::Textures">
+        <Column name="TextureBindTableCSVFileResourceHash" type="uint32">
+            <Row value="0xd64a9cff" />
+        </Column>
+        <Column name="TextureObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="FE4ResourceStaticTexture［decal_nml_array］" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0xfbcefa97" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="FE4ResourceStaticTexture［decal_emi_array］" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x7abd6f63" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="FE4ResourceStaticTexture［decal_occ_array］" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x7373fd55" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+</KidsObjDB>

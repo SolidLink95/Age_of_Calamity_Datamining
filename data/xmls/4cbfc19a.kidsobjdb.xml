@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x013e81c1">
+    <Object version="0" name="0xb9d244d8" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4Location［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="92776.2891" />
+            <Row value="10196.1113" />
+            <Row value="80577.6953" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="9099.24023" />
+            <Row value="9867.68848" />
+            <Row value="10756.2754" />
+        </Column>
+        <Column name="LocationIndex" type="uint32">
+            <Row value="0x00000003" />
+        </Column>
+        <Column name="Priority" type="uint32">
+            <Row value="0x00000080" />
+        </Column>
+    </Object>
+</KidsObjDB>

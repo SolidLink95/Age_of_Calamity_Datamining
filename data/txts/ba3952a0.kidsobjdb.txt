@@ -1,0 +1,35 @@
+[2021-11-28T16:09:59][FileList]Loading filelist for unknown-rdb
+[2021-11-28T16:09:59][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T16:09:59][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 065f3472
+TypeInfo: TypeInfo::Object::3D::Displayset::StreamWaterRiver
+Parent: NULL
+UInt32 KTGLShaderObjectHash: KTID b49f32d3
+UInt32 TexturesRenderStateObjectHash: KTID 2415f7db
+Float32 PositionArray: 0, 0, 0, 1, 0, 0, 0, 1, 0
+Float32 Color: 1, 1, 1, 1
+
+KTID: KTID 91808670
+TypeInfo: TypeInfo::Object::Render::State::3D::Textures
+Parent: NULL
+UInt32 TextureBindTableCSVFileResourceHash: KTID 1206c4c6
+UInt32 TextureObjectNameHash: NULL
+
+KTID: KTID cfda58f1
+TypeInfo: TypeInfo::Object::Render::Texture::Static
+Parent: NULL
+UInt32 KTGLTexContextResourceHash: KTID d00d5e5c
+Int32 TID: 0
+
+KTID: KTID f3b91b9e
+TypeInfo: TypeInfo::Object::Render::State::3D::Textures
+Parent: NULL
+UInt32 TextureBindTableCSVFileResourceHash: KTID 0cdd5cd8
+UInt32 TextureObjectNameHash: NULL
+
+KTID: KTID fe7ee15f
+TypeInfo: TypeInfo::Object::Render::Texture::Static
+Parent: NULL
+UInt32 KTGLTexContextResourceHash: KTID f14040ae
+Int32 TID: 0
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xa4886f95">
+    <Object version="0" name="0x4cee801e" parent_object_file="0xfc587ec7" parent_object="0x72272ee0">
+        <Column name="WorldPosition" type="float">
+            <Row value="51306.0" />
+            <Row value="5914.0" />
+            <Row value="52507.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1000.0" />
+            <Row value="60.0" />
+            <Row value="1000.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf268ebd7" parent_object_file="0xfc587ec7" parent_object="0x6d1d3314">
+        <Column name="WorldPosition" type="float">
+            <Row value="27769.0" />
+            <Row value="4646.0" />
+            <Row value="69971.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.559193015" />
+            <Row value="0.0" />
+            <Row value="0.829037726" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1000.0" />
+            <Row value="30.0" />
+            <Row value="1000.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf991ce18" parent_object_file="0xfc587ec7" parent_object="0x6d1d3314">
+        <Column name="WorldPosition" type="float">
+            <Row value="25297.0" />
+            <Row value="4676.0" />
+            <Row value="65595.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.559192955" />
+            <Row value="0.0" />
+            <Row value="0.829037607" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1000.0" />
+            <Row value="30.0" />
+            <Row value="1000.0" />
+        </Column>
+    </Object>
+</KidsObjDB>

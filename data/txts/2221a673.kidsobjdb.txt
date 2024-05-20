@@ -1,0 +1,36 @@
+[2021-11-28T15:53:21][FileList]Loading filelist for unknown-rdb
+[2021-11-28T15:53:21][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T15:53:21][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 3c9dc464
+TypeInfo: TypeInfo::Object::MotorStageSetting
+Parent: NULL
+UInt32 ObjectDatabaseNameHashArray: KTID 3098299a, KTID 6504db6b, KTID 1117adec, KTID b157c8a0, KTID ebbe87db, KTID 452918f6, KTID dd3b83c8, KTID 4bd0b9a5, KTID b9c152df, KTID 28e31026, KTID 7e9aff65, KTID b8e19478, KTID a9628ffb, KTID e4f0c3f9, KTID 1543df87, KTID a7f5260b, KTID 50431d17, KTID bd077b03, KTID a3d1fa40, KTID 3b55adf7
+UInt32 DefaultEnviromnentNameHashArray: KTID 26d53e23
+UInt32 OctreeObjectNameHash: KTID d8ad1d07
+UInt32 OccluderUnitObjectNameHash: KTID 0715103c
+UInt32 StaticTerrainObjectNameHash: KTID 666f0056
+UInt32 FieldStageNameHash: KTID 431ed9a8
+UInt32 ResourceKeeperObjectNameHash: KTID e0bd965b
+UInt32 MotorSettingObjectDatabaseResourceNameHash: KTID 53360a4c
+UInt32 AutomatonContextObjectDefineNameHash: KTID 5404ff0e
+UInt32 SetModelObjectDatabaseResourceNameHash: KTID bd2b511e
+UInt32 VisibilitySetObjectNameHash: KTID 920be544
+UInt32 ObjectDatabaseTypeFlagArray: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, KTID 00000001, NULL, NULL, NULL, NULL
+UInt32 SoundObjectDatabaseNameHash: KTID 28e31026
+UInt32 LandscapeObjectNameHash: NULL
+Byte KTID 4aa0ab5a: NULL
+UInt32 KTID 1424ad27: KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001
+UInt32 KTID fd01b611: KTID 7ed2c3a0
+UInt32 KTID 4143b3e9: KTID ba55d6c8
+
+KTID: KTID 920be544
+TypeInfo: TypeInfo::Object::MotorStageVisibilitySet
+Parent: NULL
+UInt32 ElementNumArray: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 ObjectNameHashArray: NULL
+
+KTID: KTID e0bd965b
+TypeInfo: TypeInfo::Object::ResourceKeeper
+Parent: NULL
+UInt32 ResourceNameHashArray: KTID bd2b511e, KTID 3a2d96c0, KTID 765eb03f, KTID 95cb442d, KTID 53360a4c, KTID 9d683d24
+

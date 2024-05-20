@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="kids.ce1chain.ActionSequence.mud.ndb">
+    <Object version="0" name="kids.ce1chain.ActionSequence.mud" type="TypeInfo::Object::Script::Code">
+        <Column name="ByteCode" type="uint8">
+            <Rows binary="kids.ce1chain.ActionSequence.mud_ByteCode.bin" />
+        </Column>
+        <Column name="DebugInfo" type="uint8" />
+        <Column name="ReferredScriptCode" type="uint32" />
+        <Column name="ReferredHostFunction" type="uint32">
+            <Row value="0x3591fc1e" />
+            <Row value="0x486c8f02" />
+            <Row value="0x1427641e" />
+            <Row value="0xc2e1b266" />
+            <Row value="0x8997c2f2" />
+            <Row value="0x4c6fe49c" />
+            <Row value="0x1325f528" />
+        </Column>
+        <Column name="EvaluatorParameters" type="uint8">
+            <Row value="0x40" />
+            <Row value="0x20" />
+            <Row value="0x10" />
+            <Row value="0x40" />
+            <Row value="0x20" />
+            <Row value="0x04" />
+            <Row value="0x7f" />
+            <Row value="0x00" />
+        </Column>
+        <Column name="ReferredObjectHashArray" type="uint32" />
+    </Object>
+</KidsObjDB>

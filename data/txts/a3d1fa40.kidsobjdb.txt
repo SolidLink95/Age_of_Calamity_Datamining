@@ -1,0 +1,53 @@
+[2021-11-28T16:07:49][FileList]Loading filelist for unknown-rdb
+[2021-11-28T16:07:49][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T16:07:49][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 0715103c
+TypeInfo: TypeInfo::Object::3D::OccluderUnit
+Parent: NULL
+UInt32 NameHashArray: KTID eb2adf50, KTID 7f694eef
+
+KTID: KTID a19e8d8d
+TypeInfo: TypeInfo::Object::Empty
+Parent: NULL
+Int32 LitState: 1
+
+KTID: KTID b68f1481
+TypeInfo: TypeInfo::Object::Container::List::Array
+Parent: NULL
+UInt32 ArrayMaxLength: KTID 00000010
+UInt32 ArrayExtendLength: KTID 00000010
+UInt32 NodeObjectNameHashArray: KTID 01d40045, KTID 8f0eb1c6, KTID 1c496347, KTID a98414c8, KTID 36bec649, KTID c3f977ca, KTID 6ba98c4d, KTID 5134294b, KTID de6edacc
+
+KTID: KTID c0b746db
+TypeInfo: TypeInfo::Object::Container::List::Array
+Parent: NULL
+UInt32 ArrayMaxLength: KTID 00000010
+UInt32 ArrayExtendLength: KTID 00000010
+UInt32 NodeObjectNameHashArray: NULL
+
+KTID: KTID d8ad1d07
+TypeInfo: TypeInfo::Object::3D::Placeable::Octree
+Parent: NULL
+UInt32 Placeables: KTID eb2adf50, KTID 7f694eef, KTID 1133b143, KTID 9e6e62c4, KTID 2dcf3811, KTID 53bdfda1, KTID 934b2aaf, KTID 02c6a5fb, KTID 3178101a, KTID 60297a39, KTID 8edae458, KTID bd8c4e77, KTID ec3db896, KTID 1aef22b5, KTID 49a08cd4, KTID 7851f6f3, KTID a7036112, KTID 4651c3bc, KTID 75032ddb, KTID a3b497fa, KTID d2660219, KTID bc3e339a, KTID 75b5c139, KTID a4672b58, KTID 64f1205d, KTID 65bf9ede, KTID 668e1d5f, KTID d7e03b9b, KTID e8acf7fb, KTID d301df08, KTID e4c23bf9, KTID c083b7ba, KTID fbd1b15f, KTID 018ad8e0, KTID f206c1ae, KTID 37a8044d, KTID 7d4946ec, KTID c2ea898b, KTID 088bcc2a, KTID 4e2d0ec9, KTID 93ce5168, KTID f7d906c1, KTID 8ba33961, KTID 2fc9e1e0, KTID 67babcff, KTID edfe5040, KTID 38fbef15, KTID ebc68755, KTID 23b76274, KTID 5ba83d93, KTID 939918b2, KTID cb89f3d1, KTID 037acef0, KTID 3b6baa0f, KTID 735c852e, KTID ab4d604d, KTID e33e3b6c, KTID 20ff7b49, KTID 58f05668, KTID 90e13187, KTID c8d20ca6, KTID 00c2e7c5, KTID 38b3c2e4, KTID 70a49e03, KTID a8957922, KTID 0cbf2775, KTID d4ce4c56, KTID 6ba528a9, KTID 52cfb025, KTID 39fa37a1, KTID f1e6a522, KTID a9d312a3, KTID 61bf8024, KTID 19abeda5, KTID e11f4eea, KTID 990bbc6b, KTID 50f829ec, KTID 08e4976d, KTID 01d40045, KTID 8f0eb1c6, KTID 1c496347, KTID a98414c8, KTID 36bec649, KTID c3f977ca, KTID 6ba98c4d, KTID 5134294b, KTID de6edacc, KTID 666f0056
+Int32 Types: 16, 16, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 512, 512, 512, 512, 512, 512, 512, 512, 512, 8
+Float32 WorldPosition: -25600, -25600, -25600
+Float32 WorldScale: 512000, 512000, 512000
+UInt32 MaxPlaceables: KTID 000000d8
+UInt32 Mask: KTID ffffff8f
+Float32 ScaleBias: 1
+UInt32 OctreeUpdatedContainerObjectHash: KTID 1eb0a3a7
+UInt32 EnableShadowVolumeClip: KTID 00000001
+UInt32 EnableEffectLocalMinMax: NULL
+
+KTID: KTID d90c9ac8
+TypeInfo: TypeInfo::Object::Container::List::Array
+Parent: NULL
+UInt32 ArrayMaxLength: KTID 00000010
+UInt32 ArrayExtendLength: KTID 00000010
+UInt32 NodeObjectNameHashArray: KTID d8ad1d07
+
+KTID: KTID f27fb2b4
+TypeInfo: TypeInfo::Object::Folder
+Parent: NULL
+UInt32 ObjectNameHashArray: KTID 666f0056, KTID dfcef55f, KTID 362d1397
+

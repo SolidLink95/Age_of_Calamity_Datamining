@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x9a4c9e0c">
+    <Object version="0" name="0x71e8b6a0" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4StatisticalRiver［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="25879.0039" />
+            <Row value="-1227.74194" />
+            <Row value="88463.7344" />
+        </Column>
+        <Column name="Amplitude" type="float">
+            <Row value="200.0" />
+        </Column>
+        <Column name="Gravity" type="float">
+            <Row value="980.0" />
+        </Column>
+        <Column name="Albedo" type="float">
+            <Row value="0.057" />
+            <Row value="0.26699999" />
+            <Row value="0.312999994" />
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflectance" type="float">
+            <Row value="0.0199999996" />
+            <Row value="0.0199999996" />
+            <Row value="0.0199999996" />
+        </Column>
+        <Column name="NormalMapTexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xad454c5a" />
+        </Column>
+        <Column name="NormalMapNoiseTextureRenderStateObjectHash" type="uint32">
+            <Row value="0x5e034506" />
+        </Column>
+        <Column name="DiffuseTransparency" type="float">
+            <Row value="0.959999979" />
+        </Column>
+        <Column name="NodeArray" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="38307.8398" />
+            <Row value="-63.4140625" />
+            <Row value="0.0" />
+            <Row value="-11344.7891" />
+            <Row value="38307.8398" />
+            <Row value="-174.5" />
+            <Row value="0.0" />
+            <Row value="-20040.3203" />
+            <Row value="38307.8398" />
+            <Row value="-689.464844" />
+            <Row value="0.0" />
+            <Row value="-40349.5156" />
+            <Row value="38307.8398" />
+        </Column>
+        <Column name="0xaf7457bd" type="float">
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+        </Column>
+    </Object>
+</KidsObjDB>

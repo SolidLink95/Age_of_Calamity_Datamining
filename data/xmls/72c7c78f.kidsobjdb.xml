@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x0c498e76">
+    <Object version="0" name="0x29d6c2c6" type="TypeInfo::Object::Render::Texture::StaticForSLE">
+        <Column name="Width" type="int32">
+            <Row value="128" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="128" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Usage" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="InitColorResourceObjNameHash" type="uint32">
+            <Row value="0x26efc155" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x2f1cf1dd" type="TypeInfo::Object::Render::Texture::StaticForSLE">
+        <Column name="Width" type="int32">
+            <Row value="148" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="36" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Usage" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="InitColorResourceObjNameHash" type="uint32">
+            <Row value="0xd86e689e" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5e4e139b" type="TypeInfo::Object::Render::Texture::StaticForSLE">
+        <Column name="Width" type="int32">
+            <Row value="124" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="8" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Usage" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="InitColorResourceObjNameHash" type="uint32">
+            <Row value="0x1402ada0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6a7a9856" type="TypeInfo::Object::Render::State::3D::Textures">
+        <Column name="TextureBindTableCSVFileResourceHash" type="uint32">
+            <Row value="0x18d3e676" />
+        </Column>
+        <Column name="TextureObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x76c5ef0b" type="TypeInfo::Object::Render::Texture::StaticForSLE">
+        <Column name="Width" type="int32">
+            <Row value="132" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="16" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Usage" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="InitColorResourceObjNameHash" type="uint32">
+            <Row value="0x225a7830" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x8233b441" type="TypeInfo::Object::Render::Texture::StaticForSLE">
+        <Column name="Width" type="int32">
+            <Row value="52" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="52" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Usage" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="InitColorResourceObjNameHash" type="uint32">
+            <Row value="0xb9e584ba" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb996a754" type="TypeInfo::Object::Render::Texture::StaticForSLE">
+        <Column name="Width" type="int32">
+            <Row value="64" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="64" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Usage" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="InitColorResourceObjNameHash" type="uint32">
+            <Row value="0x99ce8587" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xe279b89a" type="TypeInfo::Object::Render::Texture::StaticForSLE">
+        <Column name="Width" type="int32">
+            <Row value="100" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="100" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Usage" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="InitColorResourceObjNameHash" type="uint32">
+            <Row value="0x00a15001" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf4aa22f8" type="TypeInfo::Object::Render::Texture::StaticForSLE">
+        <Column name="Width" type="int32">
+            <Row value="128" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="8" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Usage" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="InitColorResourceObjNameHash" type="uint32">
+            <Row value="0x4e8ab063" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf8c28992" type="TypeInfo::Object::Render::Texture::StaticForSLE">
+        <Column name="Width" type="int32">
+            <Row value="128" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="128" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Usage" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="InitColorResourceObjNameHash" type="uint32">
+            <Row value="0x2e8c5a09" />
+        </Column>
+    </Object>
+</KidsObjDB>

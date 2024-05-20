@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x90e0af5d">
+    <Object version="0" name="0x816d51bd" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4Location［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="67811.8438" />
+            <Row value="14391.792" />
+            <Row value="62008.125" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.0392430387" />
+            <Row value="0.0" />
+            <Row value="0.99922967" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="7311.27881" />
+            <Row value="2721.74927" />
+            <Row value="7060.09619" />
+        </Column>
+        <Column name="LocationIndex" type="uint32">
+            <Row value="0x00000003" />
+        </Column>
+        <Column name="Priority" type="uint32">
+            <Row value="0x00000080" />
+        </Column>
+        <Column name="FadeLength" type="float">
+            <Row value="2000.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x81e3b7bc" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4Location［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="74272.1172" />
+            <Row value="11118.1514" />
+            <Row value="54897.293" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.0392430387" />
+            <Row value="0.0" />
+            <Row value="0.99922967" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="22939.1602" />
+            <Row value="10423.4404" />
+            <Row value="22602.2441" />
+        </Column>
+        <Column name="LocationIndex" type="uint32">
+            <Row value="0x00000003" />
+        </Column>
+        <Column name="Priority" type="uint32">
+            <Row value="0x00000080" />
+        </Column>
+        <Column name="FadeLength" type="float">
+            <Row value="2000.0" />
+        </Column>
+    </Object>
+</KidsObjDB>

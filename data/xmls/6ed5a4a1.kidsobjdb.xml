@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xd4844288">
+    <Object version="0" name="EM3TimelineResourceKeeper［基本］" type="TypeInfo::Object::ResourceKeeper">
+        <Column name="ResourceNameHashArray" type="uint32">
+            <Row value="0xe238c9b0" />
+            <Row value="0x894c894f" />
+            <Row value="0xd28e95db" />
+            <Row value="0x51bd3918" />
+            <Row value="0x8ab9bb9b" />
+            <Row value="0x3d159b75" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x8654d431" type="TypeInfo::Object::MotorEventSetting">
+        <Column name="ObjectDatabaseNameHashArray" type="uint32">
+            <Row value="0xac9b5108" />
+            <Row value="0xf392c055" />
+            <Row value="0x04a165b6" />
+            <Row value="0xe6334469" />
+            <Row value="0x6dcd52db" />
+            <Row value="0x1dd18794" />
+            <Row value="0xd6891094" />
+            <Row value="0x55b7b3d1" />
+            <Row value="0x3d159b75" />
+        </Column>
+        <Column name="DefaultStageKeyHashArray" type="uint32">
+            <Row value="0x84ea2152" />
+        </Column>
+        <Column name="DefaultEnvironmentKeyHash" type="uint32">
+            <Row value="0x79c8f0f1" />
+        </Column>
+        <Column name="TriggerObjectNameHash" type="uint32">
+            <Row value="0xf62021e8" />
+        </Column>
+        <Column name="0x1feb495e" type="uint32">
+            <Row value="0xf62021e8" />
+        </Column>
+    </Object>
+</KidsObjDB>

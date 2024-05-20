@@ -1,0 +1,76 @@
+[2021-11-28T16:02:35][FileList]Loading filelist for unknown-rdb
+[2021-11-28T16:02:35][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T16:02:35][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 228c17b5
+TypeInfo: TypeInfo::Object::Sound::ReverbSetting
+Parent: NULL
+UInt32 DefaultPresetNameHash: KTID 4a050832
+Float32 DefaultVolume: 1
+Int32 DefaultFadeTime: 0
+
+KTID: KTID 4a050832
+TypeInfo: TypeInfo::Object::Sound::ReverbPreset
+Parent: NULL
+Float32 Room: -10000
+Float32 RoomHF: 0
+Float32 DecayTime: 1
+Float32 DecayHFRatio: 0,5
+Float32 Reflections: -10000
+Float32 ReflectionsDelay: 0,02
+Float32 Reverb: -10000
+Float32 ReverbDelay: 0,04
+Float32 Diffusion: 100
+Float32 Density: 100
+Float32 HFReference: 5000
+
+KTID: KTID 7b67f454
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 90f5edf6
+Float32 WorldScale: 50, 1, 50
+Float32 WorldPosition: 20780,05, 4630, 73205,1
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 608,4357, -50, 1046,727, 789,7058, -50, 989,4483, 392,0359, -50, 755,2827, 151,6572, -50, 431,5442, 144,4891, -50, -416,6002, -53,50194, -50, -1023,289, -167,6131, -50, -979,4784, -50, -50, -50, -50, -50, 50, -19,11293, -50, 533,3456
+UInt32 BankObjectNameHash: KTID 9f329e28
+UInt32 ProgId: KTID cae01463
+Float32 Level: 0,94666666
+Float32 Tune: -500
+
+KTID: KTID 8a1664d3
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 90f5edf6
+Float32 WorldScale: 20, 0,23537, 50
+Float32 WorldPosition: 41154, 4328,455, 96951,85
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 50, -50, 50, 50, -50, -50, -50, -50, -50, -226,5888, -50, -17,98391, -371,4949, -50, -68,86375, -619,3593, -50, -70,86938, -271,2801, -50, 168,2202, 689,0162, -50, 596,8815, 333,2592, -50, 341,154, 548,9708, -50, 230,6381, 479,8381, -50, 207,1885, 120,4768, -50, 295,7246, -155,4582, -50, 125,6017
+UInt32 BankObjectNameHash: KTID 9f329e28
+UInt32 ProgId: KTID cae01463
+Float32 Tune: -200
+
+KTID: KTID 8b2895d9
+TypeInfo: TypeInfo::Object::Sound::AmbientSetting
+Parent: NULL
+UInt32 BankObjectNameHash0: KTID 9f329e28
+UInt32 ProgId0: KTID 69fe83e4
+Byte UseAmbientOcc0: 0
+Byte UseSmoothOcc0: 0
+UInt32 OccRegionIndexArray0: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 BankObjectNameHash1: NULL
+UInt32 ProgId1: NULL
+Byte UseAmbientOcc1: 0
+Byte UseSmoothOcc1: 0
+UInt32 OccRegionIndexArray1: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 BankObjectNameHash2: NULL
+UInt32 ProgId2: NULL
+Byte UseAmbientOcc2: 0
+Byte UseSmoothOcc2: 0
+UInt32 OccRegionIndexArray2: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 BankObjectNameHash3: NULL
+UInt32 ProgId3: NULL
+Byte UseAmbientOcc3: 0
+Byte UseSmoothOcc3: 0
+UInt32 OccRegionIndexArray3: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray0: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray1: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray2: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray3: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+

@@ -1,0 +1,113 @@
+[2021-11-28T16:17:57][FileList]Loading filelist for unknown-rdb
+[2021-11-28T16:17:57][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T16:17:57][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 0ec665a2
+TypeInfo: TypeInfo::Object::3D::Placeable::Light::HDRI
+Parent: NULL
+Float32 WorldQuaternion: 0,01902812, 0,9725791, -0,08503565, 0,2156312
+Float32 LightColor: 5, 3,775, 3,25
+Float32 WorldQuaternion2: 0, 1, 0, 0
+Float32 LightColor2: 0, 0, 0
+Float32 WorldQuaternion3: 0, 1, 0, 0
+Float32 LightColor3: 0, 0, 0
+Float32 WorldQuaternion4: 0, 1, 0, 0
+Float32 LightColor4: 0, 0, 0
+Byte CasterPlane: 255
+UInt32 MaxPrimitiveNum: KTID 00000100
+UInt32 GroupMask: KTID 00000007
+UInt32 GroupMaskMain: KTID 00000080
+UInt32 MaxShadowCasterNum: KTID 00000040
+UInt32 AmbientSpecularMapObjectNameHash: NULL
+UInt32 AmbientDiffuseMapObjectNameHash: NULL
+Byte Extensions: 0, 2, 2, 0, 0, 2, 0, 0
+Float32 EV: 0
+Float32 ShadowSlopeBias: 0,01
+UInt32 SceneColorRange: KTID 00000001
+Float32 LumiMax: 1
+Float32 AmbientMapsRotation: 0
+Byte ReceiveShadowType: 2
+UInt32 ShadowSampleNum: KTID 00000004
+Float32 ShadowLightSize: 0
+UInt32 HdrLut: KTID 0290662d
+UInt32 EyeTwinkleCubeArrayTexture: NULL
+Float32 EyeTwinkle_globalScale: 1
+Float32 EyeTwinkle_globalExponentScale: 1
+UInt32 IRim_Indices: NULL
+Byte IRim_rmModes: NULL
+Float32 IRim_rmScaleSharps: NULL
+Byte IRim_rmTargets: NULL
+Bool IRim_rmExtIndices: NULL
+Float32 IRim_tkEmiParams: NULL
+Float32 IRim_tkEmiCurveParams: NULL
+Float32 IRim_rflScalerMainAndSubs: NULL
+Float32 IRim_rflScalerLocalAndAmbients: NULL
+Float32 IRim_trsScalers: NULL
+Float32 FXAAEdgeThreshold: 0,05
+Float32 FXAAEdgeThresholdMin: 0,05
+Float32 FXAAEdgeSharpness: 8
+Float32 FXAAPixelRange: 0,1
+UInt32 FXAAEnable: KTID 00000001
+Int32 FXAAType: 2
+Float32 FXAAQualityEdgeThreshold: 0,166
+Float32 FXAAQualityEdgeThresholdMin: 0,0833
+Float32 FXAAQualitySubpixSharpness: 0,75
+Int32 FXAAQualityLevel: 2
+Int32 FXAAQualityPerformance: 3
+UInt32 IndexedRampTexture: KTID 76b39ca6
+Float32 Ramp_RampCoef: 0,7
+Float32 Ramp_SubLightRampCoef: 0
+Float32 Ramp_RampUScaler: 120
+Float32 Ramp_SubLightRampUScaler: 0
+Float32 Ramp_RampUBias: 1
+Float32 Ramp_SubLightRampUBias: 1
+Float32 Ramp_ShadowFade: 0
+Float32 Ramp_OccThresForIRShadow: 0,6
+Float32 Ramp_IRShadowFade: 1
+Float32 Ramp_LocalLightDiffuser: 0
+Float32 Ramp_LocalLightScale: 1
+Float32 Ramp_AOFade: 0
+Float32 Ramp_RampURangeMin: 0
+Float32 Ramp_RampURangeMax: 1
+Float32 OutlineIntensityMin: 0
+Float32 OutlineIntensityMax: 0
+Float32 OutlineZDecayRatio: 0
+Float32 OutlineThicknessConstantRatio: 0
+Float32 OutlineZScale: 0
+Float32 Ramp_RimScales: 2, 0
+Float32 Ramp_RimSharpnesses: 2,5, 0
+Float32 Ramp_RimColorScales: 0,2, 0,2, 0,2, 0, 0, 0
+Byte Ramp_RimDirectionType: 0
+Float32 ToonEdge2Thickness: 0
+Float32 ToonEdge2Color: 0, 0, 0, 1
+Float32 SilhouetteFade: 0
+Float32 AmbientColor: 0,63, 0,7, 0,7
+UInt32 IndexedRampHairHighlightTexture: NULL
+Float32 Ramp_HairHighlightThreshold: 0
+Float32 Ramp_HairHighlightReflectionRatio: 0
+Float32 Ramp_HairHighlightColorScale: 0, 0, 0
+Float32 Ramp_HairHighlightLightElevationRatio: 1
+Float32 Ramp_HairHighlightLightAzimuthRatio: 1
+UInt32 OutlineColorTexture: NULL
+Float32 OutlineColorScale: 1, 1, 1
+Float32 Rim_rmGScale3: 0,01, 0,01, 0,01
+Float32 BloomWeight: 1
+Float32 LensSimulationBloomThreshold: 1,4
+Float32 LensSimulationBloomThresholdSoftKnee: 0,5
+Float32 LensSimulationBloomRadius: 4,5
+Byte OutlineCalcMode: 0
+Float32 OutlineThicknessNear: 0
+Float32 OutlineThicknessFar: 0
+Float32 OutlineFadeMinThickness: 0
+Float32 KTID ae31c48a: 0,002
+Float32 KTID 03343bee: 30
+Float32 KTID 87158306: 0,6
+Float32 KTID 7080c2a7: 0,1, 0,1, 0,1, 1
+Float32 KTID eaa499bc: 0,3
+Float32 KTID 3adb7b29: 6
+Float32 KTID ea7002a3: 0,004
+Float32 KTID 80e02807: 30
+Float32 KTID 89e01adb: 5
+Float32 KTID 25c8efc4: 0
+Float32 LumiThreshold: 0,85
+Byte PostEffectModule: 1
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x5dc8b384">
+    <Object version="0" name="0x1a225821" type="TypeInfo::Object::Folder">
+        <Column name="ObjectNameHashArray" type="uint32">
+            <Row value="0xcebfc7c9" />
+            <Row value="0x5463ca20" />
+            <Row value="0x070260e8" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x2966ba75" type="TypeInfo::Object::Container::List::Array">
+        <Column name="ArrayMaxLength" type="uint32">
+            <Row value="0x00000010" />
+        </Column>
+        <Column name="ArrayExtendLength" type="uint32">
+            <Row value="0x00000010" />
+        </Column>
+        <Column name="NodeObjectNameHashArray" type="uint32">
+            <Row value="0xcc72bdf4" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x31478b69" type="TypeInfo::Object::3D::OccluderUnit">
+        <Column name="NameHashArray" type="uint32" />
+    </Object>
+    <Object version="0" name="0x3f1b2e34" type="TypeInfo::Object::Container::List::Array">
+        <Column name="ArrayMaxLength" type="uint32">
+            <Row value="0x00000010" />
+        </Column>
+        <Column name="ArrayExtendLength" type="uint32">
+            <Row value="0x00000010" />
+        </Column>
+        <Column name="NodeObjectNameHashArray" type="uint32">
+            <Row value="0x1f454afc" />
+            <Row value="0x207b9ddb" />
+            <Row value="0x21b1f0ba" />
+            <Row value="0x22e84399" />
+            <Row value="0x241e9678" />
+            <Row value="0x2554e957" />
+            <Row value="0x268b3c36" />
+            <Row value="0x27c18f15" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x63082f48" type="TypeInfo::Object::Container::List::Array">
+        <Column name="ArrayMaxLength" type="uint32">
+            <Row value="0x00000010" />
+        </Column>
+        <Column name="ArrayExtendLength" type="uint32">
+            <Row value="0x00000010" />
+        </Column>
+        <Column name="NodeObjectNameHashArray" type="uint32" />
+    </Object>
+    <Object version="0" name="0xbdbb7800" type="TypeInfo::Object::Empty">
+        <Column name="LitState" type="int32">
+            <Row value="1" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xcc72bdf4" type="TypeInfo::Object::3D::Placeable::Octree">
+        <Column name="Placeables" type="uint32">
+            <Row value="0x54ec37c3" />
+            <Row value="0x24e9cb52" />
+            <Row value="0x0d49cbfe" />
+            <Row value="0xcfab768c" />
+            <Row value="0x1f454afc" />
+            <Row value="0x207b9ddb" />
+            <Row value="0x21b1f0ba" />
+            <Row value="0x22e84399" />
+            <Row value="0x241e9678" />
+            <Row value="0x2554e957" />
+            <Row value="0x268b3c36" />
+            <Row value="0x27c18f15" />
+            <Row value="0xcebfc7c9" />
+        </Column>
+        <Column name="Types" type="int32">
+            <Row value="1" />
+            <Row value="1" />
+            <Row value="1" />
+            <Row value="1" />
+            <Row value="512" />
+            <Row value="512" />
+            <Row value="512" />
+            <Row value="512" />
+            <Row value="512" />
+            <Row value="512" />
+            <Row value="512" />
+            <Row value="512" />
+            <Row value="8" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="-25600.0" />
+            <Row value="-25600.0" />
+            <Row value="-25600.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="512000.0" />
+            <Row value="512000.0" />
+            <Row value="512000.0" />
+        </Column>
+        <Column name="MaxPlaceables" type="uint32">
+            <Row value="0x0000008d" />
+        </Column>
+        <Column name="Mask" type="uint32">
+            <Row value="0xffffff8f" />
+        </Column>
+        <Column name="ScaleBias" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="OctreeUpdatedContainerObjectHash" type="uint32">
+            <Row value="FE4OctreeUpdatedContainer［基本］" />
+        </Column>
+        <Column name="EnableShadowVolumeClip" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="EnableEffectLocalMinMax" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+</KidsObjDB>

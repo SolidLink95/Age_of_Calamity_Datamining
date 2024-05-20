@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x0a5617e5">
+    <Object version="0" name="0x7da837e7" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4StatisticalRiver［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="-43235.1953" />
+            <Row value="4700.0" />
+            <Row value="-75056.0" />
+        </Column>
+        <Column name="RefractionTransparencyHalfReductionLength" type="float">
+            <Row value="5000.0" />
+        </Column>
+        <Column name="SurfaceWindX" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="Amplitude" type="float">
+            <Row value="150.0" />
+        </Column>
+        <Column name="SmallWavesSupressLength" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="NormalTextureSpeedX" type="float">
+            <Row value="-100.0" />
+        </Column>
+        <Column name="NormalTextureSpeedZ" type="float">
+            <Row value="60.0" />
+        </Column>
+        <Column name="NormalTextureScaleX" type="float">
+            <Row value="350.0" />
+        </Column>
+        <Column name="NormalTextureScaleZ" type="float">
+            <Row value="40.0" />
+        </Column>
+        <Column name="NormalTextureSizeU" type="float">
+            <Row value="2.5" />
+        </Column>
+        <Column name="NormalTextureSizeV" type="float">
+            <Row value="1.5" />
+        </Column>
+        <Column name="Albedo" type="float">
+            <Row value="0.00805031415" />
+            <Row value="0.0161670819" />
+            <Row value="0.0199999996" />
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflectance" type="float">
+            <Row value="0.0470709242" />
+            <Row value="0.0927830189" />
+            <Row value="0.22012578" />
+        </Column>
+        <Column name="NormalMapTexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xad454c5a" />
+        </Column>
+        <Column name="NormalMapNoiseTextureRenderStateObjectHash" type="uint32">
+            <Row value="0x5e034506" />
+        </Column>
+        <Column name="LinearRoughness" type="float">
+            <Row value="0.100000001" />
+        </Column>
+        <Column name="DiffuseTransparency" type="float">
+            <Row value="0.100000001" />
+        </Column>
+        <Column name="NormalMapNoiseSizeX" type="float">
+            <Row value="17000.0" />
+        </Column>
+        <Column name="NodeArray" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="46656.0273" />
+            <Row value="57965.7188" />
+            <Row value="-1600.0" />
+            <Row value="65053.207" />
+            <Row value="46656.0273" />
+            <Row value="60006.7148" />
+            <Row value="0.0" />
+            <Row value="101158.891" />
+            <Row value="65318.4375" />
+            <Row value="57720.1211" />
+            <Row value="0.0" />
+            <Row value="127332.188" />
+            <Row value="54432.0273" />
+            <Row value="60501.6719" />
+            <Row value="0.0" />
+            <Row value="144075.016" />
+            <Row value="70502.4375" />
+            <Row value="58172.1016" />
+            <Row value="-499.79541" />
+            <Row value="162502.656" />
+            <Row value="34560.0195" />
+            <Row value="72575.2656" />
+            <Row value="-449.479004" />
+            <Row value="184975.641" />
+            <Row value="41472.0273" />
+            <Row value="96236.125" />
+            <Row value="-190.574707" />
+            <Row value="201124.75" />
+            <Row value="34560.0195" />
+            <Row value="121541.359" />
+            <Row value="4317.40137" />
+            <Row value="207201.953" />
+            <Row value="34560.0195" />
+            <Row value="145838.469" />
+            <Row value="4300.0" />
+            <Row value="208060.641" />
+            <Row value="34560.0195" />
+            <Row value="178035.781" />
+            <Row value="4300.0" />
+            <Row value="206472.75" />
+            <Row value="34560.0195" />
+        </Column>
+        <Column name="0xaf7457bd" type="float">
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x8e5e04a8" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4StatisticalRiver［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="40600.0" />
+            <Row value="4200.0" />
+            <Row value="97400.0" />
+        </Column>
+        <Column name="RefractionTransparencyHalfReductionLength" type="float">
+            <Row value="5000.0" />
+        </Column>
+        <Column name="SurfaceWindX" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="Amplitude" type="float">
+            <Row value="150.0" />
+        </Column>
+        <Column name="SmallWavesSupressLength" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="NormalTextureSpeedX" type="float">
+            <Row value="-450.0" />
+        </Column>
+        <Column name="NormalTextureSpeedZ" type="float">
+            <Row value="50.0" />
+        </Column>
+        <Column name="NormalTextureScaleX" type="float">
+            <Row value="150.0" />
+        </Column>
+        <Column name="NormalTextureScaleZ" type="float">
+            <Row value="40.0" />
+        </Column>
+        <Column name="NormalTextureSizeU" type="float">
+            <Row value="2.5" />
+        </Column>
+        <Column name="NormalTextureSizeV" type="float">
+            <Row value="6.0" />
+        </Column>
+        <Column name="Albedo" type="float">
+            <Row value="0.0301886797" />
+            <Row value="0.0942684263" />
+            <Row value="0.200000003" />
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflectance" type="float">
+            <Row value="0.0820754692" />
+            <Row value="0.133339062" />
+            <Row value="0.150000006" />
+        </Column>
+        <Column name="NormalMapTexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xad454c5a" />
+        </Column>
+        <Column name="NormalMapNoiseTextureRenderStateObjectHash" type="uint32">
+            <Row value="0x5e034506" />
+        </Column>
+        <Column name="LinearRoughness" type="float">
+            <Row value="0.100000001" />
+        </Column>
+        <Column name="DiffuseTransparency" type="float">
+            <Row value="0.949999988" />
+        </Column>
+        <Column name="NormalMapNoiseSizeX" type="float">
+            <Row value="17000.0" />
+        </Column>
+        <Column name="NodeArray" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="17020.0" />
+            <Row value="13097.293" />
+            <Row value="450.0" />
+            <Row value="-3668.70313" />
+            <Row value="7800.00195" />
+            <Row value="22332.7656" />
+            <Row value="1826.12305" />
+            <Row value="-8178.38281" />
+            <Row value="7800.00195" />
+            <Row value="29014.2344" />
+            <Row value="3100.0" />
+            <Row value="-13045.2188" />
+            <Row value="7800.00195" />
+            <Row value="36055.7031" />
+            <Row value="2900.0" />
+            <Row value="-19282.4375" />
+            <Row value="10140.001" />
+            <Row value="54072.3594" />
+            <Row value="3600.0" />
+            <Row value="-21816.8359" />
+            <Row value="15600.0029" />
+            <Row value="67657.375" />
+            <Row value="6800.0" />
+            <Row value="-25766.2656" />
+            <Row value="7800.00195" />
+            <Row value="73072.1406" />
+            <Row value="7100.0" />
+            <Row value="-27272.5313" />
+            <Row value="7800.00195" />
+            <Row value="79167.8984" />
+            <Row value="8500.0" />
+            <Row value="-25277.1172" />
+            <Row value="7800.00195" />
+            <Row value="82641.0625" />
+            <Row value="8600.0" />
+            <Row value="-21163.0625" />
+            <Row value="7800.00195" />
+            <Row value="82966.4922" />
+            <Row value="8100.0" />
+            <Row value="-14619.3281" />
+            <Row value="7800.00195" />
+            <Row value="84062.7422" />
+            <Row value="8100.0" />
+            <Row value="-9853.79688" />
+            <Row value="7800.00195" />
+            <Row value="85292.1328" />
+            <Row value="8100.0" />
+            <Row value="-4828.72656" />
+            <Row value="7800.00195" />
+        </Column>
+        <Column name="0xaf7457bd" type="float">
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x9f13d169" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4StatisticalRiver［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="16230.0" />
+            <Row value="5050.0" />
+            <Row value="119430.0" />
+        </Column>
+        <Column name="RefractionTransparencyHalfReductionLength" type="float">
+            <Row value="5000.0" />
+        </Column>
+        <Column name="SurfaceWindX" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="Amplitude" type="float">
+            <Row value="150.0" />
+        </Column>
+        <Column name="SmallWavesSupressLength" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="NormalTextureSpeedX" type="float">
+            <Row value="-100.0" />
+        </Column>
+        <Column name="NormalTextureSpeedZ" type="float">
+            <Row value="60.0" />
+        </Column>
+        <Column name="NormalTextureScaleX" type="float">
+            <Row value="350.0" />
+        </Column>
+        <Column name="NormalTextureScaleZ" type="float">
+            <Row value="40.0" />
+        </Column>
+        <Column name="NormalTextureSizeU" type="float">
+            <Row value="2.5" />
+        </Column>
+        <Column name="NormalTextureSizeV" type="float">
+            <Row value="1.5" />
+        </Column>
+        <Column name="Albedo" type="float">
+            <Row value="0.00805031415" />
+            <Row value="0.0161670819" />
+            <Row value="0.0199999996" />
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflectance" type="float">
+            <Row value="0.0470709242" />
+            <Row value="0.0927830189" />
+            <Row value="0.22012578" />
+        </Column>
+        <Column name="NormalMapTexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xad454c5a" />
+        </Column>
+        <Column name="NormalMapNoiseTextureRenderStateObjectHash" type="uint32">
+            <Row value="0x5e034506" />
+        </Column>
+        <Column name="NormalMapNoiseSizeX" type="float">
+            <Row value="17000.0" />
+        </Column>
+        <Column name="NodeArray" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="12348.7891" />
+            <Row value="-11050.0" />
+            <Row value="0.0" />
+            <Row value="4160.0" />
+            <Row value="21566.9238" />
+            <Row value="-29300.0" />
+            <Row value="1510.0" />
+            <Row value="2910.0" />
+            <Row value="38966.25" />
+            <Row value="-47280.0" />
+            <Row value="1630.0" />
+            <Row value="18540.0" />
+            <Row value="24815.373" />
+        </Column>
+        <Column name="0xaf7457bd" type="float">
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xafc99e2a" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4StatisticalRiver［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="52470.0" />
+            <Row value="16430.0" />
+            <Row value="1920.0" />
+        </Column>
+        <Column name="RefractionTransparencyHalfReductionLength" type="float">
+            <Row value="5000.0" />
+        </Column>
+        <Column name="SurfaceWindX" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="Amplitude" type="float">
+            <Row value="150.0" />
+        </Column>
+        <Column name="SmallWavesSupressLength" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="NormalTextureSpeedX" type="float">
+            <Row value="-450.0" />
+        </Column>
+        <Column name="NormalTextureSpeedZ" type="float">
+            <Row value="50.0" />
+        </Column>
+        <Column name="NormalTextureScaleX" type="float">
+            <Row value="150.0" />
+        </Column>
+        <Column name="NormalTextureScaleZ" type="float">
+            <Row value="40.0" />
+        </Column>
+        <Column name="NormalTextureSizeU" type="float">
+            <Row value="2.5" />
+        </Column>
+        <Column name="NormalTextureSizeV" type="float">
+            <Row value="6.0" />
+        </Column>
+        <Column name="Albedo" type="float">
+            <Row value="0.0301886797" />
+            <Row value="0.0942684263" />
+            <Row value="0.200000003" />
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflectance" type="float">
+            <Row value="0.0820754692" />
+            <Row value="0.133339062" />
+            <Row value="0.150000006" />
+        </Column>
+        <Column name="NormalMapTexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xad454c5a" />
+        </Column>
+        <Column name="NormalMapNoiseTextureRenderStateObjectHash" type="uint32">
+            <Row value="0x5e034506" />
+        </Column>
+        <Column name="DiffuseTransparency" type="float">
+            <Row value="0.949999988" />
+        </Column>
+        <Column name="NormalMapNoiseSizeX" type="float">
+            <Row value="17000.0" />
+        </Column>
+        <Column name="NodeArray" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="10133.7256" />
+            <Row value="10100.0" />
+            <Row value="0.0" />
+            <Row value="630.0" />
+            <Row value="10133.7256" />
+            <Row value="20757.9844" />
+            <Row value="0.0" />
+            <Row value="-16.0351563" />
+            <Row value="12563.0029" />
+            <Row value="35770.0" />
+            <Row value="0.0" />
+            <Row value="-8010.0" />
+            <Row value="25287.8633" />
+            <Row value="47881.0547" />
+            <Row value="0.0" />
+            <Row value="-20164.5566" />
+            <Row value="10133.7256" />
+            <Row value="64273.3594" />
+            <Row value="0.0" />
+            <Row value="-33379.7266" />
+            <Row value="18040.5254" />
+            <Row value="80258.6094" />
+            <Row value="0.0" />
+            <Row value="-42852.0" />
+            <Row value="10133.7256" />
+        </Column>
+        <Column name="0xaf7457bd" type="float">
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+        </Column>
+    </Object>
+</KidsObjDB>

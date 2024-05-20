@@ -1,0 +1,89 @@
+[2021-11-28T16:06:52][FileList]Loading filelist for unknown-rdb
+[2021-11-28T16:06:52][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T16:06:52][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 1ac4ca3a
+TypeInfo: TypeInfo::Object::Render::Texture::StaticForSLE
+Parent: NULL
+Int32 Width: 4
+Int32 Height: 4
+Float32 MipLodBias: 0
+Byte LevelNum: 1
+Byte MinMipLevel: 0
+Byte PixelFormat: 1
+Byte ColorSpace: 1
+Byte Usage: 0
+Byte AddressU: 3
+Byte AddressV: 3
+Byte MagFilter: 0
+Byte MinFilter: 0
+Byte MipFilter: 2
+Byte AnisoSampleNum: 0
+Byte LocationHint: 0
+UInt32 InitColorResourceObjNameHash: KTID aba716dc
+
+KTID: KTID 5e1bef3d
+TypeInfo: TypeInfo::Object::Render::Texture::StaticForSLE
+Parent: NULL
+Int32 Width: 128
+Int32 Height: 128
+Float32 MipLodBias: 0
+Byte LevelNum: 1
+Byte MinMipLevel: 0
+Byte PixelFormat: 1
+Byte ColorSpace: 1
+Byte Usage: 0
+Byte AddressU: 0
+Byte AddressV: 0
+Byte MagFilter: 1
+Byte MinFilter: 1
+Byte MipFilter: 2
+Byte AnisoSampleNum: 0
+Byte LocationHint: 0
+UInt32 InitColorResourceObjNameHash: KTID 25c32ef9
+
+KTID: KTID 9ba55b11
+TypeInfo: TypeInfo::Object::Render::State::3D::Textures
+Parent: NULL
+UInt32 TextureBindTableCSVFileResourceHash: KTID d20f155b
+UInt32 TextureObjectNameHash: NULL
+
+KTID: KTID bed1a87c
+TypeInfo: TypeInfo::Object::Render::Texture::StaticForSLE
+Parent: NULL
+Int32 Width: 512
+Int32 Height: 512
+Float32 MipLodBias: 0
+Byte LevelNum: 1
+Byte MinMipLevel: 0
+Byte PixelFormat: 1
+Byte ColorSpace: 1
+Byte Usage: 0
+Byte AddressU: 0
+Byte AddressV: 0
+Byte MagFilter: 1
+Byte MinFilter: 1
+Byte MipFilter: 2
+Byte AnisoSampleNum: 0
+Byte LocationHint: 0
+UInt32 InitColorResourceObjNameHash: KTID 6123795a
+
+KTID: KTID e228a7e3
+TypeInfo: TypeInfo::Object::Render::Texture::StaticForSLE
+Parent: NULL
+Int32 Width: 256
+Int32 Height: 256
+Float32 MipLodBias: 0
+Byte LevelNum: 1
+Byte MinMipLevel: 0
+Byte PixelFormat: 1
+Byte ColorSpace: 1
+Byte Usage: 0
+Byte AddressU: 0
+Byte AddressV: 0
+Byte MagFilter: 1
+Byte MinFilter: 1
+Byte MipFilter: 2
+Byte AnisoSampleNum: 0
+Byte LocationHint: 0
+UInt32 InitColorResourceObjNameHash: KTID ea26ec93
+

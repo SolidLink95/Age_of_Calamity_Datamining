@@ -1,0 +1,75 @@
+[2021-11-28T16:01:06][FileList]Loading filelist for unknown-rdb
+[2021-11-28T16:01:06][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T16:01:06][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 4a050832
+TypeInfo: TypeInfo::Object::Sound::ReverbPreset
+Parent: NULL
+Float32 Room: -10000
+Float32 RoomHF: 0
+Float32 DecayTime: 1
+Float32 DecayHFRatio: 0,5
+Float32 Reflections: -10000
+Float32 ReflectionsDelay: 0,02
+Float32 Reverb: -10000
+Float32 ReverbDelay: 0,04
+Float32 Diffusion: 100
+Float32 Density: 100
+Float32 HFReference: 5000
+
+KTID: KTID 6777e44e
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 90f5edf6
+Float32 WorldScale: 10, 1, 10
+Float32 WorldPosition: 37060,67, 5400, 76753,42
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 702,8074, -50, 667,0906, 659,1836, -50, 585,7938, 732,6547, -50, -113,0609, -50, -50, -50, -144,6586, -50, 139,3571, -100,5524, -50, 475,3351, -96,78751, -50, 669,5758, 98,00551, -50, 838,5617
+UInt32 BankObjectNameHash: KTID 9f329e28
+UInt32 ProgId: KTID 00891fff
+
+KTID: KTID 81e8dd6d
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 90f5edf6
+Float32 WorldScale: 50, 1, 50
+Float32 WorldPosition: 91000,14, 3450, 47683,11
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 160,8222, -50, 63,00016, 334,6423, -50, -65,07446, 210,3561, -50, -229,0542, 8,914844, -50, -197,2741, 1,861718, -50, -222,5569, 37,69078, -50, -309,126, -104,9178, -50, -300,1162, -155,9398, -50, -42,76164, -125,5234, -50, 50,68742, 58,71172, -50, 76,26766
+UInt32 BankObjectNameHash: KTID 9f329e28
+UInt32 ProgId: KTID 00891fff
+Float32 Level: 0,84
+Float32 Tune: -400
+
+KTID: KTID 97d3b5de
+TypeInfo: TypeInfo::Object::Sound::ReverbSetting
+Parent: NULL
+UInt32 DefaultPresetNameHash: KTID 4a050832
+Float32 DefaultVolume: 1
+Int32 DefaultFadeTime: 0
+
+KTID: KTID bed4bcd0
+TypeInfo: TypeInfo::Object::Sound::AmbientSetting
+Parent: NULL
+UInt32 BankObjectNameHash0: KTID 9f329e28
+UInt32 ProgId0: KTID 69fe83e4
+Byte UseAmbientOcc0: 0
+Byte UseSmoothOcc0: 0
+UInt32 OccRegionIndexArray0: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 BankObjectNameHash1: NULL
+UInt32 ProgId1: NULL
+Byte UseAmbientOcc1: 0
+Byte UseSmoothOcc1: 0
+UInt32 OccRegionIndexArray1: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 BankObjectNameHash2: NULL
+UInt32 ProgId2: NULL
+Byte UseAmbientOcc2: 0
+Byte UseSmoothOcc2: 0
+UInt32 OccRegionIndexArray2: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 BankObjectNameHash3: NULL
+UInt32 ProgId3: NULL
+Byte UseAmbientOcc3: 0
+Byte UseSmoothOcc3: 0
+UInt32 OccRegionIndexArray3: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray0: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray1: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray2: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray3: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+

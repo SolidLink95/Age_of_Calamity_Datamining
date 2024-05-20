@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x5af891cd">
+    <Object version="0" name="0xa2b3a1cf" type="TypeInfo::Object::Script::Code">
+        <Column name="ByteCode" type="uint8">
+            <Rows binary="0xa2b3a1cf_ByteCode.bin" />
+        </Column>
+        <Column name="DebugInfo" type="uint8" />
+        <Column name="ReferredScriptCode" type="uint32" />
+        <Column name="ReferredHostFunction" type="uint32">
+            <Row value="0x2e30722d" />
+            <Row value="0xe528d479" />
+            <Row value="0x4c6fe49c" />
+            <Row value="0xd836e51d" />
+            <Row value="0xaf786810" />
+            <Row value="0x7356298f" />
+            <Row value="0x20646d91" />
+        </Column>
+        <Column name="EvaluatorParameters" type="uint8">
+            <Row value="0xff" />
+            <Row value="0x10" />
+            <Row value="0x10" />
+            <Row value="0xff" />
+            <Row value="0x20" />
+            <Row value="0x04" />
+            <Row value="0x7f" />
+            <Row value="0x00" />
+        </Column>
+        <Column name="ReferredObjectHashArray" type="uint32" />
+    </Object>
+</KidsObjDB>

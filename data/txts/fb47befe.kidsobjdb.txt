@@ -1,0 +1,602 @@
+[2021-11-28T16:17:15][FileList]Loading filelist for unknown-rdb
+[2021-11-28T16:17:15][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T16:17:15][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 0b251279
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 53624,836, 16409,832, -13234,099
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: -3000
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleX: 150
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,2, 0,0914952, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 16893,66, -13901,73, 3454,8691, -23423,152, 3631,0457, -42585,703, 5797,0176, -36430,312, 1412,0757, -54529,387, 4143,756, -21278,977, 1600,806, -44085,895, 2541,416, -5832,8115, 1873,2949, -50043,24, 1270,5879, 12595,715, 2000, -53663,16, 2557,9922, 35161,477, 5055,056, -59841,87, 2999,586, 68663,96, 8726,362, -77840,54, 3652,5684, 82644,445, 6678,7046, -94702,19, 2687,457, 112148,305, 5508,1543, -100680,58, 3939,0215, 134741,77, 4655,82, -101511,73, 2601,5938, 168592,78, 3832,5735, -76056,71, 4465,9863, 173953,06, 2564,8289, -54504,3, 1876,8906, 174493,03, 2564,8289, -32753,328, 1876,8906, 172071,58, 2564,8289
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 1,150535, 0,5668295, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 1, 1, 1
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID 2aaafb95
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 77108,2, 30526,3, 62598,316
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 3000
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleX: 5000
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,1, 0,0457476, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 2169,11, -1811,2734, 0, 63,460938, 743,5566, -3038,9375, 0, 623,83984, 731,1938, -4429,7734, 0, 572,33203, 646,9049, -5175,8203, -25,199219, 407,30078, 575,9116, -5478,5703, -313,0918, 396,7539, 575,9116, -5722,2656, -1517,2832, 410,73438, 575,9116
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 1,150535, 0,5668295, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 1, 1, 1
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID 2c90abfb
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: -6620,8726, 19706,996, 56112,28
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 3000
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleX: 5000
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,2, 0,0914952, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 16658,193, 8317,397, 141,8125, 5604,707, 7969,196, 13041,054, -1568,7617, 18633,96, 8231,742, 11733,897, -1568,7617, 27982,414, 11218,691, 8928,729, -1568,7617, 35252,688, 10968,203, 2413,8892, -1568,7617, 49067,094, 5696,6304, 4236,145, -194,76758, 78931,17, 5696,6304
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 1,150535, 0,5668295, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 1, 1, 1
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID 3b60c856
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 72244,555, 30523,615, 63473,098
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,13, 0,05947188, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 971,36664, 0, 0, 799,0742, 971,36664
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 1,150535, 0,5668295, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 1, 1, 1
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID 4c169517
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 72263,92, 29570,494, 62993,316
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 3000
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleX: 5000
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,1, 0,0457476, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 920,75586, -2503,7266, 0, 70,015625, 920,75586, -2988,2969, -478,09375, 61,265625, 920,75586
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 1,150535, 0,5668295, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 1, 1, 1
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID 5ccc61d8
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 69398,35, 29308,47, 63476,203
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,13, 0,05947188, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 1332,7534, -2603,3594, 0, -222,30469, 2000
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 1,150535, 0,5668295, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 1, 1, 1
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID 6d822e99
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 64365,84, 29012,031, 61578,78
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 5000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,08, 0,03659808, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 7483,882, -6372,9375, 0, 826,66406, 7483,882, -2061,457, 0, -2047,8477, 7483,882, -64,75391, 0, -1752,25, 7483,882
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 1,150535, 0,5668295, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 1, 1, 1
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID 7e37fb5a
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 70340,93, 30178,516, 68531,01
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,06, 0,02744856, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 1097,0144, -1146,3594, 0, 9,03125, 1097,0144
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 0,5, 0,2970664, 0,1
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 0,5, 0,5, 0,5
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID 8eedc81b
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 66312,73, 29665, 59278,246
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 4000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleX: 3000
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,09, 0,04117284, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 139,96571, 92,984375, 0,9863281, -183,58594, 304,6398, 230,51562, 3,9824219, -264,33594, 276,83524, 370,9453, 13,962891, -235,60156, 125,775665
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 1,150535, 0,5668295, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 1, 1, 1
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID 9fa394dc
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 48373,473, 17057,453, 34600,742
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 0
+Float32 NormalTextureScaleX: 150
+Float32 NormalTextureScaleZ: 25
+Float32 NormalTextureSizeU: 5
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,06, 0,02744856, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 100206,21, -19022,96, -204,4707, -76131,23, 124928,914
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 0,5, 0,2970664, 0,1
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 0,5, 0,5, 0,5
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID b059619d
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 55696,28, 34388,246, 67741,21
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 4000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,08, 0,03659808, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 7722,927, -2944,8203, 0, -7128,8594, 7722,927, -475,09766, 0, -11899,039, 7722,927
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 1,150535, 0,5668295, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 1, 1, 1
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID b79812b4
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 82951,45, 33578,83, 47696,62
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,09, 0,04117284, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 2687,8281, -3712,2656, 0, 19,4375, 2687,8281
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 0,6391864, 0,3149054, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 0,5, 0,5, 0,5
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID c10f2e5e
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 82116,72, 35566,297, 60289,375
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleX: 2000
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,09, 0,04117284, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 1733,1292, 1419,9844, 0, -3277,8594, 3981,4592, 2580,5234, 0, -6022,414, 2223,1204, 1674,9297, 0, 705,2969, 2223,1204, 1786,3984, 0, 1171,9219, 2223,1204, 1786,6875, 0, 1265,3164, 2223,1204, 1615,0703, 0, 959,9375, 2223,1204
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 ShoalingScale: 0
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 1,150535, 0,5668295, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 1, 1, 1
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID c84ddf75
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 79963,18, 33597,586, 49705,023
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,09374734, 0,042887155, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 1009,9669, 884,6719, 0, -153,58203, 1009,9669
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 1,2016704, 0,5920222, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 0,6, 0,6, 0,6
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID d903ac36
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 84368,805, 33537,77, 31338,799
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,08, 0,03659808, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 2000, -782,02344, 0, 1354,8965, 2000
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 0,8, 0,3941328, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 0,5, 0,5, 0,5
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID e9b978f7
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 81647,05, 33492,86, 31036,906
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,08, 0,03659808, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 2000, -357,48438, 72,48828, 1371,0352, 2000
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 0,8, 0,3941328, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 0,6, 0,6, 0,6
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+
+KTID: KTID fa6f45b8
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 9ae740ca
+Float32 WorldPosition: 83062,305, 33508,016, 27975,586
+UInt32 LightGroupID: KTID 00000004
+Float32 RefractionIndex: 1,33
+Float32 RefractionTransparencyHalfReductionLength: 3000
+Float32 Amplitude: 10
+Float32 Gravity: 980
+Float32 NormalTextureSpeedX: 10
+Float32 NormalTextureSpeedZ: -10
+Float32 NormalTextureScaleZ: 25
+Float32 Albedo: 0, 0, 0, 0,5
+Float32 Reflectance: 0,08, 0,03659808, 0
+UInt32 NormalMapTexturesRenderStateObjectHash: KTID ad454c5a
+UInt32 NormalMapNoiseTextureRenderStateObjectHash: KTID 5e034506
+Float32 DiffuseTransparency: 0,96
+Float32 NodeArray: 0, 0, 0, 2247,8281, -121,03125, 0, 1486,8594, 2247,8281
+UInt32 ShaderAccessoryID: KTID 00000001
+UInt32 ShoalingHeightMapHash: KTID 377b2708
+Float32 HeightMapTextureScaleX: 128000
+Float32 HeightMapTextureScaleZ: 128000
+UInt32 BubbleMapHash: KTID 377b2708
+Float32 WaveShoreBubbleBubbleTextureScaleX: 500
+Float32 WaveShoreBubbleBubbleTextureScaleZ: 500
+Float32 WaveShoreBubbleColor: 0,8, 0,3941328, 0
+Float32 WaveShoreBubbleColorA: 0,2
+Float32 WaveShoreBubbleReflectance: 0,6, 0,6, 0,6
+Float32 WaveShoreBubbleGlossinessDumping: 0
+Float32 BubbleShoalingScale: 30
+Float32 WaveShoreBubbleDisplacementScale: 0
+Float32 WaveShoreBubbleNormalScale: 0
+Float32 WaveShoreBubbleNormalThreshold: 1
+Float32 NodeBlendAreaArray: 0, 0,5, 0,4, 0,01, 0, 0,5, 0,4, 0,01
+

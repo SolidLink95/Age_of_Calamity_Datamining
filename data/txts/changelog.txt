@@ -1,0 +1,23 @@
+0.6
+- The package now includes the changelog.
+- Support for kidsobjdb files (Note: kidsobjdb files are converted to .xml). Important: the file master.bin is needed when converting kidsobjdb to xml, otherwhise the xml will be very cryptic.
+- Added the .bat "fid_utility_sort.bat". This .bat is only meaningful for kidsobjdb. It will cause the converted xml to have its objects ordered by name (only the objects will be ordered, not the columns), which
+  is useful when comparing .kidsobjdb of the same kind (like Envs files of stages).
+- Partial support for .oid files (binary .oid files will be converted to .txt, but the reverse conversor is not yet implemented)
+
+0.5
+- Dictionary increased (included remaining Tamaki materials) 
+
+0.4
+- Added a second exe, "fid_utility_full.exe". This one can do a full string crack when converting from binary to text, instead of a crack based on current filename. 
+
+0.3
+- Increased dictionary for the cracking. 
+
+0.2
+- Added support for KTID files.
+- Fixed: mtl files of broken costumes (and also black christmas bass) would fail in the cracking of strings.
+- Instead of using dummy names like "MAT000", "MAT001", etc when failing the crack, it will now use names like "HASH_(hash)", so that the txt to binary can get the proper hash in these cases aswell. 
+
+0.1
+- Initial release

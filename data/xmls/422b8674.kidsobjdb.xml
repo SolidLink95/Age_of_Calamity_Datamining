@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="kids.BaseTool.DefaultPlayer.mud.ndb">
+    <Object version="0" name="kids.BaseTool.DefaultPlayer.mud" type="TypeInfo::Object::Script::Code">
+        <Column name="ByteCode" type="uint8">
+            <Rows binary="kids.BaseTool.DefaultPlayer.mud_ByteCode.bin" />
+        </Column>
+        <Column name="DebugInfo" type="uint8" />
+        <Column name="ReferredScriptCode" type="uint32" />
+        <Column name="ReferredHostFunction" type="uint32">
+            <Row value="0x5e2a4bf3" />
+            <Row value="0xed3374ff" />
+            <Row value="0xd71bc306" />
+            <Row value="0xc42957b8" />
+            <Row value="0xa66b48c6" />
+            <Row value="0x6951620d" />
+            <Row value="0x645d2021" />
+            <Row value="0x4e322d8e" />
+            <Row value="0x2e73bb23" />
+            <Row value="0x1f2af6d4" />
+            <Row value="0x14924329" />
+            <Row value="0xda285ec3" />
+            <Row value="0xe7d3abe3" />
+            <Row value="0xc2fe0bf9" />
+            <Row value="0xa5136662" />
+            <Row value="0x6f8e3f9b" />
+            <Row value="0x5e7cb858" />
+            <Row value="0x52342770" />
+            <Row value="0xc2e1b266" />
+            <Row value="0x9f2a30e1" />
+            <Row value="0x8997c2f2" />
+            <Row value="0x4c6fe49c" />
+            <Row value="0x43190984" />
+            <Row value="0x3bb2abd7" />
+            <Row value="0x1325f528" />
+            <Row value="0x09cf1a10" />
+            <Row value="0xd836e51d" />
+            <Row value="0x8c4ddca1" />
+            <Row value="0x7356298f" />
+            <Row value="0x428217ff" />
+            <Row value="0x20646d91" />
+            <Row value="0x197fc865" />
+        </Column>
+        <Column name="EvaluatorParameters" type="uint8">
+            <Row value="0xff" />
+            <Row value="0x20" />
+            <Row value="0x10" />
+            <Row value="0xff" />
+            <Row value="0x20" />
+            <Row value="0x04" />
+            <Row value="0x7f" />
+            <Row value="0x00" />
+        </Column>
+        <Column name="ReferredObjectHashArray" type="uint32" />
+    </Object>
+</KidsObjDB>

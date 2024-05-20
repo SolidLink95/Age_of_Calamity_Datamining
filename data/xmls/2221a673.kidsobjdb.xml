@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xfb65fb1a">
+    <Object version="0" name="0x3c9dc464" type="TypeInfo::Object::MotorStageSetting">
+        <Column name="ObjectDatabaseNameHashArray" type="uint32">
+            <Row value="0x3098299a" />
+            <Row value="0x6504db6b" />
+            <Row value="0x1117adec" />
+            <Row value="0xb157c8a0" />
+            <Row value="0xebbe87db" />
+            <Row value="0x452918f6" />
+            <Row value="0xdd3b83c8" />
+            <Row value="0x4bd0b9a5" />
+            <Row value="0xb9c152df" />
+            <Row value="0x28e31026" />
+            <Row value="0x7e9aff65" />
+            <Row value="0xb8e19478" />
+            <Row value="0xa9628ffb" />
+            <Row value="0xe4f0c3f9" />
+            <Row value="0x1543df87" />
+            <Row value="0xa7f5260b" />
+            <Row value="0x50431d17" />
+            <Row value="0xbd077b03" />
+            <Row value="0xa3d1fa40" />
+            <Row value="0x3b55adf7" />
+        </Column>
+        <Column name="DefaultEnviromnentNameHashArray" type="uint32">
+            <Row value="0x26d53e23" />
+        </Column>
+        <Column name="OctreeObjectNameHash" type="uint32">
+            <Row value="0xd8ad1d07" />
+        </Column>
+        <Column name="OccluderUnitObjectNameHash" type="uint32">
+            <Row value="0x0715103c" />
+        </Column>
+        <Column name="StaticTerrainObjectNameHash" type="uint32">
+            <Row value="0x666f0056" />
+        </Column>
+        <Column name="FieldStageNameHash" type="uint32">
+            <Row value="0x431ed9a8" />
+        </Column>
+        <Column name="ResourceKeeperObjectNameHash" type="uint32">
+            <Row value="0xe0bd965b" />
+        </Column>
+        <Column name="MotorSettingObjectDatabaseResourceNameHash" type="uint32">
+            <Row value="0x53360a4c" />
+        </Column>
+        <Column name="AutomatonContextObjectDefineNameHash" type="uint32">
+            <Row value="0x5404ff0e" />
+        </Column>
+        <Column name="SetModelObjectDatabaseResourceNameHash" type="uint32">
+            <Row value="0xbd2b511e" />
+        </Column>
+        <Column name="VisibilitySetObjectNameHash" type="uint32">
+            <Row value="0x920be544" />
+        </Column>
+        <Column name="ObjectDatabaseTypeFlagArray" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000001" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SoundObjectDatabaseNameHash" type="uint32">
+            <Row value="0x28e31026" />
+        </Column>
+        <Column name="LandscapeObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="0x4aa0ab5a" type="uint8" />
+        <Column name="0x1424ad27" type="uint32">
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="0xfd01b611" type="uint32">
+            <Row value="0x7ed2c3a0" />
+        </Column>
+        <Column name="0x4143b3e9" type="uint32">
+            <Row value="0xba55d6c8" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x920be544" type="TypeInfo::Object::MotorStageVisibilitySet">
+        <Column name="ElementNumArray" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="ObjectNameHashArray" type="uint32" />
+    </Object>
+    <Object version="0" name="0xe0bd965b" type="TypeInfo::Object::ResourceKeeper">
+        <Column name="ResourceNameHashArray" type="uint32">
+            <Row value="0xbd2b511e" />
+            <Row value="0x3a2d96c0" />
+            <Row value="0x765eb03f" />
+            <Row value="0x95cb442d" />
+            <Row value="0x53360a4c" />
+            <Row value="0x9d683d24" />
+        </Column>
+    </Object>
+</KidsObjDB>

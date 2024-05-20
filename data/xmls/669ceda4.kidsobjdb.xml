@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xd53f76dd">
+    <Object version="0" name="0x40e1eb05" parent_object_file="Field_Common.kidsobjdb" parent_object="0xa3002355">
+        <Column name="WorldScale" type="float">
+            <Row value="26502.6914" />
+            <Row value="9965.03906" />
+            <Row value="16.7769108" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="68774.1641" />
+            <Row value="10469.0732" />
+            <Row value="62404.3242" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.37460658" />
+            <Row value="0.0" />
+            <Row value="0.927183867" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4d5266c4" parent_object_file="Field_Common.kidsobjdb" parent_object="0xa3002355">
+        <Column name="WorldScale" type="float">
+            <Row value="23279.9629" />
+            <Row value="15464.043" />
+            <Row value="10.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="67803.3594" />
+            <Row value="4810.10156" />
+            <Row value="64024.1836" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.309017003" />
+            <Row value="0.0" />
+            <Row value="0.95105654" />
+        </Column>
+    </Object>
+</KidsObjDB>

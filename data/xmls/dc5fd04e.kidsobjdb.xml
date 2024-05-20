@@ -1,0 +1,3650 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x851abbf5">
+    <Object version="0" name="SLETextBoxPane［0001］" type="TypeInfo::Object::3D::Placeable::SpriteText">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="-106.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Transparency" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x1a29d0e4" />
+        </Column>
+        <Column name="SizeXY" type="float">
+            <Row value="1400.0" />
+            <Row value="240.0" />
+        </Column>
+        <Column name="HVAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="VertexColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="AlphaTestCmpType" type="uint32">
+            <Row value="0x00000007" />
+        </Column>
+        <Column name="AlphaBlendOp" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFunc" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFunc" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaBlendOpAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFuncAlpha" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFuncAlpha" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaThreshold" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="BlackColorInterpolationRGBA" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WhiteColorInterpolationRGBA" type="float">
+            <Row value="0.972549021" />
+            <Row value="0.972549021" />
+            <Row value="0.862745106" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldRotationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldScaleFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaThresholdFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TransparencyFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlackColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WhiteColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VisibilityFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="ParentSpriteNameHash" type="uint32">
+            <Row value="SLENullPane［0003］" />
+        </Column>
+        <Column name="LocalPosition" type="float">
+            <Row value="0.0" />
+            <Row value="-106.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="LocalQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LocalScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="G1NResorceNameHash" type="uint32">
+            <Row value="R_G1N［default］" />
+        </Column>
+        <Column name="TextRenderTextureNameHash" type="uint32">
+            <Row value="SLEResorceRenderTargetTexture[SLETextBoxPane［0001］]" />
+        </Column>
+        <Column name="TextDataObjectNameHash" type="uint32">
+            <Row value="SLEResorceTextData[SLETextBoxPane［0001］]" />
+        </Column>
+        <Column name="HVTextAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="UseG1NFontIndex" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UseG1NColorIndex" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TextLineArrangeType" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontSpace" type="float">
+            <Row value="-6.0" />
+            <Row value="10.0" />
+        </Column>
+        <Column name="IsMaintainBaseline" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="AnimationState" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationFrame" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationLoopSectionFrame" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="HVAlignTypeOnParent" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="InfluencedAlpha" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="IsOpaque" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="SaturationScale" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorLT_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorRT_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorLB_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorRB_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="0x0ab5e645" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="0x95bfdbce" type="int32">
+            <Row value="0" />
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLEResorceTextData[SLETextBoxPane［0001］]" type="TypeInfo::Object::Sprite::TextData">
+        <Column name="Text" type="uint16">
+            <Row value="0x3053" />
+            <Row value="0x306e" />
+            <Row value="0x30b2" />
+            <Row value="0x30fc" />
+            <Row value="0x30e0" />
+            <Row value="0x306f" />
+            <Row value="0x30aa" />
+            <Row value="0x30fc" />
+            <Row value="0x30c8" />
+            <Row value="0x30bb" />
+            <Row value="0x30fc" />
+            <Row value="0x30d6" />
+            <Row value="0x306b" />
+            <Row value="0x5bfe" />
+            <Row value="0x5fdc" />
+            <Row value="0x3057" />
+            <Row value="0x3066" />
+            <Row value="0x3044" />
+            <Row value="0x307e" />
+            <Row value="0x3059" />
+            <Row value="0x000d" />
+            <Row value="0x000a" />
+            <Row value="0x6700" />
+            <Row value="0x65b0" />
+            <Row value="0x306e" />
+            <Row value="0x30d7" />
+            <Row value="0x30ec" />
+            <Row value="0x30a4" />
+            <Row value="0x30c7" />
+            <Row value="0x30fc" />
+            <Row value="0x30bf" />
+            <Row value="0x306f" />
+            <Row value="0x3000" />
+            <Row value="0x81ea" />
+            <Row value="0x52d5" />
+            <Row value="0x3067" />
+            <Row value="0x4e0a" />
+            <Row value="0x66f8" />
+            <Row value="0x304d" />
+            <Row value="0x3055" />
+            <Row value="0x308c" />
+            <Row value="0x307e" />
+            <Row value="0x3059" />
+            <Row value="0x000d" />
+            <Row value="0x000a" />
+            <Row value="0x305d" />
+            <Row value="0x306e" />
+            <Row value="0x9593" />
+            <Row value="0x306f" />
+            <Row value="0x30b2" />
+            <Row value="0x30fc" />
+            <Row value="0x30e0" />
+            <Row value="0x3092" />
+            <Row value="0x7d42" />
+            <Row value="0x4e86" />
+            <Row value="0x3057" />
+            <Row value="0x305f" />
+            <Row value="0x308a" />
+            <Row value="0x3000" />
+            <Row value="0x96fb" />
+            <Row value="0x6e90" />
+            <Row value="0x3092" />
+            <Row value="0x5207" />
+            <Row value="0x3063" />
+            <Row value="0x305f" />
+            <Row value="0x308a" />
+            <Row value="0x3057" />
+            <Row value="0x306a" />
+            <Row value="0x3044" />
+            <Row value="0x3067" />
+            <Row value="0x304f" />
+            <Row value="0x3060" />
+            <Row value="0x3055" />
+            <Row value="0x3044" />
+            <Row value="0x0000" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLENullPane［0003］" type="TypeInfo::Object::3D::Placeable::Sprite">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Transparency" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x1a29d0e4" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SizeXY" type="float">
+            <Row value="50.0" />
+            <Row value="50.0" />
+        </Column>
+        <Column name="HVAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="VertexColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="BlackColorInterpolationRGBA" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WhiteColorInterpolationRGBA" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="MainTextureNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendOp" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFunc" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFunc" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaBlendOpAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFuncAlpha" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFuncAlpha" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaThreshold" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="AlphaThresholdFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TransparencyFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="SLEResourceAnimation［SLENullPane［0003］_TransparencyFCurveObject_0］" />
+        </Column>
+        <Column name="SizeXYFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldRotationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldScaleFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlackColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WhiteColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_OfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfMainTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfMainTexture" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture1" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture2" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VisibilityFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="DisplayConfigurationType" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="AnimationState" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationFrame" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaTestCmpType" type="uint32">
+            <Row value="0x00000007" />
+        </Column>
+        <Column name="ParentSpriteNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="LocalQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LocalScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Diffuse" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Ambient" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexturePatternAnimDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationLoopSectionFrame" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="HVAlignTypeOnParent" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="InfluencedAlpha" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="IsOpaque" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SaturationScale" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="IsEnableGammaCorrection" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="GammaCorrectionValue" type="float">
+            <Row value="0.454544991" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture0" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture1" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture2" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="0x0ab5e645" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLENullPane［0008］" type="TypeInfo::Object::3D::Placeable::Sprite">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Transparency" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x1a29d0e4" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SizeXY" type="float">
+            <Row value="50.0" />
+            <Row value="50.0" />
+        </Column>
+        <Column name="HVAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="VertexColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="BlackColorInterpolationRGBA" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WhiteColorInterpolationRGBA" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="MainTextureNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendOp" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFunc" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFunc" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaBlendOpAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFuncAlpha" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFuncAlpha" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaThreshold" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="AlphaThresholdFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TransparencyFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="SLEResourceAnimation［SLENullPane［0008］_TransparencyFCurveObject_0］" />
+        </Column>
+        <Column name="SizeXYFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldRotationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldScaleFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlackColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WhiteColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_OfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfMainTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfMainTexture" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture1" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture2" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VisibilityFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="DisplayConfigurationType" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="AnimationState" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationFrame" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaTestCmpType" type="uint32">
+            <Row value="0x00000007" />
+        </Column>
+        <Column name="ParentSpriteNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="LocalPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="LocalQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LocalScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Diffuse" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Ambient" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexturePatternAnimDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationLoopSectionFrame" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="HVAlignTypeOnParent" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="InfluencedAlpha" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="IsOpaque" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SaturationScale" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="IsEnableGammaCorrection" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="GammaCorrectionValue" type="float">
+            <Row value="0.454544991" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture0" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture1" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture2" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="0x0ab5e645" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLEResourceAnimation［SLENullPane［0003］_TransparencyFCurveObject_0］" type="TypeInfo::Object::Animation::Data::FCurve">
+        <Column name="ByteCode" type="uint8">
+            <Rows binary="SLEResourceAnimation［SLENullPane［0003］_TransparencyFCurveObject_0］_ByteCode.bin" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x28f948b7" type="TypeInfo::Object::Animation::Data::FCurve">
+        <Column name="ByteCode" type="uint8">
+            <Rows binary="0x28f948b7_ByteCode.bin" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLEResourceAnimation［SLENullPane［0004］_TransparencyFCurveObject_0］" type="TypeInfo::Object::Animation::Data::FCurve">
+        <Column name="ByteCode" type="uint8">
+            <Rows binary="SLEResourceAnimation［SLENullPane［0004］_TransparencyFCurveObject_0］_ByteCode.bin" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x491c86b6" type="TypeInfo::Object::3D::Placeable::Sprite">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="130.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.75" />
+            <Row value="0.75" />
+        </Column>
+        <Column name="TexCoordOfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Transparency" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x1a29d0e4" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0x6608b34c" />
+        </Column>
+        <Column name="SizeXY" type="float">
+            <Row value="256.0" />
+            <Row value="128.0" />
+        </Column>
+        <Column name="HVAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="VertexColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="BlackColorInterpolationRGBA" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WhiteColorInterpolationRGBA" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="MainTextureNameHash" type="uint32">
+            <Row value="0x13e1fd5e" />
+        </Column>
+        <Column name="BlendTexture1NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendOp" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFunc" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFunc" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaBlendOpAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFuncAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendDstFuncAlpha" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaThreshold" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="AlphaThresholdFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TransparencyFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SizeXYFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldRotationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldScaleFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlackColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WhiteColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_OfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfMainTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfMainTexture" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture1" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture2" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x28f948b7" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VisibilityFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="DisplayConfigurationType" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationState" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationFrame" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaTestCmpType" type="uint32">
+            <Row value="0x00000007" />
+        </Column>
+        <Column name="ParentSpriteNameHash" type="uint32">
+            <Row value="SLENullPane［0004］" />
+        </Column>
+        <Column name="LocalPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="LocalQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LocalScale" type="float">
+            <Row value="0.75" />
+            <Row value="0.75" />
+        </Column>
+        <Column name="Diffuse" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Ambient" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexturePatternAnimDataObjectNameHash" type="uint32">
+            <Row value="0xa1b66321" />
+            <Row value="0x82382b00" />
+            <Row value="0x62b9f2df" />
+        </Column>
+        <Column name="AnimationLoopSectionFrame" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="HVAlignTypeOnParent" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="InfluencedAlpha" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="IsOpaque" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SaturationScale" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="IsEnableGammaCorrection" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="GammaCorrectionValue" type="float">
+            <Row value="0.454545468" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture0" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture1" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture2" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="0x0ab5e645" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLEResourceAnimation［SLENullPane［0008］_TransparencyFCurveObject_0］" type="TypeInfo::Object::Animation::Data::FCurve">
+        <Column name="ByteCode" type="uint8">
+            <Rows binary="SLEResourceAnimation［SLENullPane［0008］_TransparencyFCurveObject_0］_ByteCode.bin" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLENullPane［0002］" type="TypeInfo::Object::3D::Placeable::Sprite">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="-34.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Transparency" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x1a29d0e4" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SizeXY" type="float">
+            <Row value="980.0" />
+            <Row value="80.0" />
+        </Column>
+        <Column name="HVAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="VertexColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="BlackColorInterpolationRGBA" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WhiteColorInterpolationRGBA" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="MainTextureNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendOp" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFunc" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFunc" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaBlendOpAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFuncAlpha" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFuncAlpha" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaThreshold" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="AlphaThresholdFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TransparencyFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SizeXYFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldRotationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldScaleFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlackColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WhiteColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_OfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfMainTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfMainTexture" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture1" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture2" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VisibilityFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="DisplayConfigurationType" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="AnimationState" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationFrame" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaTestCmpType" type="uint32">
+            <Row value="0x00000007" />
+        </Column>
+        <Column name="ParentSpriteNameHash" type="uint32">
+            <Row value="SLENullPane［0008］" />
+        </Column>
+        <Column name="LocalPosition" type="float">
+            <Row value="0.0" />
+            <Row value="-34.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="LocalQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LocalScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Diffuse" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Ambient" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexturePatternAnimDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationLoopSectionFrame" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="HVAlignTypeOnParent" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="InfluencedAlpha" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="IsOpaque" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SaturationScale" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="IsEnableGammaCorrection" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="GammaCorrectionValue" type="float">
+            <Row value="0.454544991" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture0" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture1" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture2" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="0x0ab5e645" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x62b9f2df" type="TypeInfo::Object::Sprite::TexPatternAnimData">
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0x6608b34c" />
+        </Column>
+        <Column name="StaticTextureObjectHashArray" type="uint32" />
+    </Object>
+    <Object version="0" name="SLENullPane［0001］" type="TypeInfo::Object::3D::Placeable::Sprite">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="86.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Transparency" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x1a29d0e4" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SizeXY" type="float">
+            <Row value="980.0" />
+            <Row value="80.0" />
+        </Column>
+        <Column name="HVAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="VertexColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="BlackColorInterpolationRGBA" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WhiteColorInterpolationRGBA" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="MainTextureNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendOp" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFunc" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFunc" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaBlendOpAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFuncAlpha" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFuncAlpha" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaThreshold" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="AlphaThresholdFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TransparencyFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SizeXYFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldRotationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldScaleFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlackColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WhiteColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_OfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfMainTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfMainTexture" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture1" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture2" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VisibilityFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="DisplayConfigurationType" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="AnimationState" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationFrame" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaTestCmpType" type="uint32">
+            <Row value="0x00000007" />
+        </Column>
+        <Column name="ParentSpriteNameHash" type="uint32">
+            <Row value="SLENullPane［0008］" />
+        </Column>
+        <Column name="LocalPosition" type="float">
+            <Row value="0.0" />
+            <Row value="86.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="LocalQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LocalScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Diffuse" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Ambient" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexturePatternAnimDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationLoopSectionFrame" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="HVAlignTypeOnParent" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="InfluencedAlpha" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="IsOpaque" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SaturationScale" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="IsEnableGammaCorrection" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="GammaCorrectionValue" type="float">
+            <Row value="0.454544991" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture0" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture1" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture2" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="0x0ab5e645" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x82382b00" type="TypeInfo::Object::Sprite::TexPatternAnimData">
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0x6608b34c" />
+        </Column>
+        <Column name="StaticTextureObjectHashArray" type="uint32" />
+    </Object>
+    <Object version="0" name="SLETextBoxPane［0000］" type="TypeInfo::Object::3D::Placeable::SpriteText">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="320.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="0.980000019" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Transparency" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x1a29d0e4" />
+        </Column>
+        <Column name="SizeXY" type="float">
+            <Row value="600.0" />
+            <Row value="80.0" />
+        </Column>
+        <Column name="HVAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="VertexColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="AlphaTestCmpType" type="uint32">
+            <Row value="0x00000007" />
+        </Column>
+        <Column name="AlphaBlendOp" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFunc" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFunc" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaBlendOpAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFuncAlpha" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFuncAlpha" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaThreshold" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="BlackColorInterpolationRGBA" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WhiteColorInterpolationRGBA" type="float">
+            <Row value="0.972549021" />
+            <Row value="0.972549021" />
+            <Row value="0.862745106" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldRotationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldScaleFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaThresholdFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TransparencyFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlackColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WhiteColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VisibilityFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="ParentSpriteNameHash" type="uint32">
+            <Row value="SLENullPane［0008］" />
+        </Column>
+        <Column name="LocalPosition" type="float">
+            <Row value="0.0" />
+            <Row value="320.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="LocalQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LocalScale" type="float">
+            <Row value="0.980000019" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="G1NResorceNameHash" type="uint32">
+            <Row value="R_G1N［default］" />
+        </Column>
+        <Column name="TextRenderTextureNameHash" type="uint32">
+            <Row value="SLEResorceRenderTargetTexture[SLETextBoxPane［0000］]" />
+        </Column>
+        <Column name="TextDataObjectNameHash" type="uint32">
+            <Row value="SLEResorceTextData[SLETextBoxPane［0000］]" />
+        </Column>
+        <Column name="HVTextAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="UseG1NFontIndex" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="UseG1NColorIndex" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TextLineArrangeType" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontSpace" type="float">
+            <Row value="-7.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="IsMaintainBaseline" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="AnimationState" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationFrame" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationLoopSectionFrame" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="HVAlignTypeOnParent" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="InfluencedAlpha" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="IsOpaque" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="SaturationScale" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorLT_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorRT_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorLB_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorRB_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="0x0ab5e645" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="0x95bfdbce" type="int32">
+            <Row value="0" />
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLEResorceTextData[SLETextBoxPane［0000］]" type="TypeInfo::Object::Sprite::TextData">
+        <Column name="Text" type="uint16">
+            <Row value="0x30aa" />
+            <Row value="0x30d7" />
+            <Row value="0x30b7" />
+            <Row value="0x30e7" />
+            <Row value="0x30f3" />
+            <Row value="0x0000" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLETextBoxPane［0002］" type="TypeInfo::Object::3D::Placeable::SpriteText">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="115.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Transparency" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x1a29d0e4" />
+        </Column>
+        <Column name="SizeXY" type="float">
+            <Row value="800.0" />
+            <Row value="60.0" />
+        </Column>
+        <Column name="HVAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="VertexColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="AlphaTestCmpType" type="uint32">
+            <Row value="0x00000007" />
+        </Column>
+        <Column name="AlphaBlendOp" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFunc" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFunc" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaBlendOpAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFuncAlpha" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFuncAlpha" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaThreshold" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="BlackColorInterpolationRGBA" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WhiteColorInterpolationRGBA" type="float">
+            <Row value="0.533333361" />
+            <Row value="0.533333361" />
+            <Row value="0.473118275" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldRotationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldScaleFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaThresholdFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TransparencyFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlackColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WhiteColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VisibilityFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="ParentSpriteNameHash" type="uint32">
+            <Row value="SLENullPane［0003］" />
+        </Column>
+        <Column name="LocalPosition" type="float">
+            <Row value="0.0" />
+            <Row value="115.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="LocalQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LocalScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="G1NResorceNameHash" type="uint32">
+            <Row value="R_G1N［default］" />
+        </Column>
+        <Column name="TextRenderTextureNameHash" type="uint32">
+            <Row value="SLEResorceRenderTargetTexture[SLETextBoxPane［0002］]" />
+        </Column>
+        <Column name="TextDataObjectNameHash" type="uint32">
+            <Row value="SLEResorceTextData[SLETextBoxPane［0002］]" />
+        </Column>
+        <Column name="HVTextAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="UseG1NFontIndex" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UseG1NColorIndex" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TextLineArrangeType" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontScale" type="float">
+            <Row value="0.779999971" />
+            <Row value="0.800000012" />
+        </Column>
+        <Column name="FontSpace" type="float">
+            <Row value="-5.0" />
+            <Row value="10.0" />
+        </Column>
+        <Column name="IsMaintainBaseline" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="AnimationState" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationFrame" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationLoopSectionFrame" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="HVAlignTypeOnParent" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="InfluencedAlpha" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="IsOpaque" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="SaturationScale" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="FontColorLT_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorRT_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorLB_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="FontColorRB_FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="0x0ab5e645" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="0x95bfdbce" type="int32">
+            <Row value="0" />
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLEResorceRenderTargetTexture[SLETextBoxPane［0000］]" type="TypeInfo::Object::Render::Texture::RenderTarget::Plane">
+        <Column name="Width" type="int32">
+            <Row value="600" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="80" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MultiSample" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="OutputColorSpace" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="NoiseParameterObjectNameHash" type="uint32">
+            <Row value="0x000005d0" />
+        </Column>
+        <Column name="NeverInternalCopy" type="uint8">
+            <Row value="0x00" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLEResorceTextData[SLETextBoxPane［0002］]" type="TypeInfo::Object::Sprite::TextData">
+        <Column name="Text" type="uint16">
+            <Row value="0x30bb" />
+            <Row value="0x30fc" />
+            <Row value="0x30d6" />
+            <Row value="0x4e2d" />
+            <Row value="0x0000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xa1b66321" type="TypeInfo::Object::Sprite::TexPatternAnimData">
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0x6608b34c" />
+        </Column>
+        <Column name="StaticTextureObjectHashArray" type="uint32">
+            <Row value="0x13e1fd5e" />
+            <Row value="0x8fdefd21" />
+            <Row value="0xb9335262" />
+            <Row value="0xe287a7a3" />
+            <Row value="0x0bdbfce4" />
+            <Row value="0x35305225" />
+            <Row value="0x5e84a766" />
+            <Row value="0x87d8fca7" />
+            <Row value="0x2dfd7bfd" />
+            <Row value="0x5751d13e" />
+            <Row value="0x80a6267f" />
+            <Row value="0xa9fa7bc0" />
+            <Row value="0xd34ed101" />
+            <Row value="0xfca32642" />
+            <Row value="0x25f77b83" />
+            <Row value="0x4f4bd0c4" />
+            <Row value="0x78a02605" />
+            <Row value="0xa1f47b46" />
+            <Row value="0x4818fa9c" />
+            <Row value="0x716d4fdd" />
+            <Row value="0x9ac1a51e" />
+            <Row value="0xc415fa5f" />
+            <Row value="0xed6a4fa0" />
+            <Row value="0x69674f63" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLENullPane［0000］" type="TypeInfo::Object::3D::Placeable::Sprite">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="206.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Transparency" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x1a29d0e4" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SizeXY" type="float">
+            <Row value="980.0" />
+            <Row value="80.0" />
+        </Column>
+        <Column name="HVAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="VertexColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="BlackColorInterpolationRGBA" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WhiteColorInterpolationRGBA" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="MainTextureNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendOp" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFunc" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFunc" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaBlendOpAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFuncAlpha" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFuncAlpha" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaThreshold" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="AlphaThresholdFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TransparencyFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SizeXYFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldRotationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldScaleFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlackColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WhiteColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_OfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfMainTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfMainTexture" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture1" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture2" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VisibilityFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="DisplayConfigurationType" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="AnimationState" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationFrame" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaTestCmpType" type="uint32">
+            <Row value="0x00000007" />
+        </Column>
+        <Column name="ParentSpriteNameHash" type="uint32">
+            <Row value="SLENullPane［0008］" />
+        </Column>
+        <Column name="LocalPosition" type="float">
+            <Row value="0.0" />
+            <Row value="206.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="LocalQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LocalScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Diffuse" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Ambient" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexturePatternAnimDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationLoopSectionFrame" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="HVAlignTypeOnParent" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="InfluencedAlpha" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="IsOpaque" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SaturationScale" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="IsEnableGammaCorrection" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="GammaCorrectionValue" type="float">
+            <Row value="0.454544991" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture0" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture1" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture2" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="0x0ab5e645" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLEResorceRenderTargetTexture[SLETextBoxPane［0001］]" type="TypeInfo::Object::Render::Texture::RenderTarget::Plane">
+        <Column name="Width" type="int32">
+            <Row value="1400" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="240" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MultiSample" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="OutputColorSpace" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="NoiseParameterObjectNameHash" type="uint32">
+            <Row value="0x000005d0" />
+        </Column>
+        <Column name="NeverInternalCopy" type="uint8">
+            <Row value="0x00" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLENullPane［0004］" type="TypeInfo::Object::3D::Placeable::Sprite">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="130.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexCoordOfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Transparency" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DisplaysetObjectNameHash" type="uint32">
+            <Row value="0x1a29d0e4" />
+        </Column>
+        <Column name="TexturesRenderStateObjectHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SizeXY" type="float">
+            <Row value="50.0" />
+            <Row value="50.0" />
+        </Column>
+        <Column name="HVAlignType" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="VertexColorLT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRT" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorLB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="VertexColorRB" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="BlackColorInterpolationRGBA" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="WhiteColorInterpolationRGBA" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="MainTextureNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2NameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture1BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfColor" type="uint32">
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BlendTexture2BlendModeOfAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendOp" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFunc" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFunc" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaBlendOpAlpha" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaBlendSrcFuncAlpha" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="AlphaBlendDstFuncAlpha" type="uint32">
+            <Row value="0x00000005" />
+        </Column>
+        <Column name="AlphaThreshold" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="AlphaThresholdFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TransparencyFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SizeXYFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldPosFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldRotationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WorldScaleFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRTFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorLBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VertexColorRBFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BlackColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="WhiteColorInterpolationFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_OfMainTexture" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfMainTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfMainTexture" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture1" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture1" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVScaleXY_OfBlendTexture2" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="UVRotation_OfBlendTexture2" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="UVTransXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_MainTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="VisibilityFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="DisplayConfigurationType" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="AnimationState" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationFrame" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AlphaTestCmpType" type="uint32">
+            <Row value="0x00000007" />
+        </Column>
+        <Column name="ParentSpriteNameHash" type="uint32">
+            <Row value="SLENullPane［0003］" />
+        </Column>
+        <Column name="LocalPosition" type="float">
+            <Row value="0.0" />
+            <Row value="130.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="LocalQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LocalScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Diffuse" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="Ambient" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="TexturePatternAnimDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="AnimationLoopSectionFrame" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="HVAlignTypeOnParent" type="uint32">
+            <Row value="0x00000004" />
+        </Column>
+        <Column name="InfluencedAlpha" type="int32">
+            <Row value="1" />
+        </Column>
+        <Column name="IsOpaque" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTexture" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="SaturationScale" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="IsEnableGammaCorrection" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="GammaCorrectionValue" type="float">
+            <Row value="0.454544991" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture0" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture1" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="ContrastCorrectionValueOfTexture2" type="int32">
+            <Row value="0" />
+        </Column>
+        <Column name="0x0ab5e645" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="SLEResorceRenderTargetTexture[SLETextBoxPane［0002］]" type="TypeInfo::Object::Render::Texture::RenderTarget::Plane">
+        <Column name="Width" type="int32">
+            <Row value="800" />
+        </Column>
+        <Column name="Height" type="int32">
+            <Row value="60" />
+        </Column>
+        <Column name="MipLodBias" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="LevelNum" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinMipLevel" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="PixelFormat" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="ColorSpace" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MultiSample" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="AddressU" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="AddressV" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MagFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MinFilter" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="MipFilter" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="AnisoSampleNum" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="LocationHint" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="OutputColorSpace" type="uint8">
+            <Row value="0x02" />
+        </Column>
+        <Column name="NoiseParameterObjectNameHash" type="uint32">
+            <Row value="0x032f6223" />
+        </Column>
+        <Column name="NeverInternalCopy" type="uint8">
+            <Row value="0x00" />
+        </Column>
+    </Object>
+</KidsObjDB>

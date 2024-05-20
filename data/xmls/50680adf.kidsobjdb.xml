@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xeeaa1898">
+    <Object version="0" name="0x137295bb" type="TypeInfo::Object::Sound::ReverbSetting">
+        <Column name="DefaultPresetNameHash" type="uint32">
+            <Row value="0x4a050832" />
+        </Column>
+        <Column name="DefaultVolume" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DefaultFadeTime" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x3339e74e" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterPrism［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="20.0" />
+            <Row value="1.0" />
+            <Row value="20.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="27902.2793" />
+            <Row value="4500.0" />
+            <Row value="27858.5898" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="-183.528793" />
+            <Row value="-50.0" />
+            <Row value="696.390076" />
+            <Row value="223.906906" />
+            <Row value="-50.0" />
+            <Row value="22.14394" />
+            <Row value="-156.726898" />
+            <Row value="-50.0" />
+            <Row value="86.9889679" />
+            <Row value="-301.201202" />
+            <Row value="-50.0" />
+            <Row value="759.317078" />
+            <Row value="-480.790314" />
+            <Row value="-50.0" />
+            <Row value="1117.69995" />
+            <Row value="-281.034698" />
+            <Row value="-50.0" />
+            <Row value="1276.04004" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0x9f329e28" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xcae01463" />
+        </Column>
+        <Column name="Tune" type="float">
+            <Row value="200.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4a050832" type="TypeInfo::Object::Sound::ReverbPreset">
+        <Column name="Room" type="float">
+            <Row value="-10000.0" />
+        </Column>
+        <Column name="RoomHF" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="DecayTime" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DecayHFRatio" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflections" type="float">
+            <Row value="-10000.0" />
+        </Column>
+        <Column name="ReflectionsDelay" type="float">
+            <Row value="0.0199999996" />
+        </Column>
+        <Column name="Reverb" type="float">
+            <Row value="-10000.0" />
+        </Column>
+        <Column name="ReverbDelay" type="float">
+            <Row value="0.0399999991" />
+        </Column>
+        <Column name="Diffusion" type="float">
+            <Row value="100.0" />
+        </Column>
+        <Column name="Density" type="float">
+            <Row value="100.0" />
+        </Column>
+        <Column name="HFReference" type="float">
+            <Row value="5000.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x57786b8d" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterPrism［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="20.0" />
+            <Row value="1.0" />
+            <Row value="20.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="66352.0938" />
+            <Row value="4500.0" />
+            <Row value="45469.8281" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="2223.67603" />
+            <Row value="-50.0" />
+            <Row value="1650.61694" />
+            <Row value="2236.17505" />
+            <Row value="-50.0" />
+            <Row value="978.374817" />
+            <Row value="1739.15698" />
+            <Row value="-50.0" />
+            <Row value="416.947296" />
+            <Row value="1076.96301" />
+            <Row value="-50.0" />
+            <Row value="290.157196" />
+            <Row value="273.848389" />
+            <Row value="-50.0" />
+            <Row value="-142.333405" />
+            <Row value="-13.4052696" />
+            <Row value="-50.0" />
+            <Row value="96.829689" />
+            <Row value="1213.77197" />
+            <Row value="-50.0" />
+            <Row value="575.221497" />
+            <Row value="1923.12903" />
+            <Row value="-50.0" />
+            <Row value="1330.57996" />
+            <Row value="1781.64294" />
+            <Row value="-50.0" />
+            <Row value="1822.46594" />
+            <Row value="-29.1544304" />
+            <Row value="-50.0" />
+            <Row value="1597.78406" />
+            <Row value="-1339.59204" />
+            <Row value="-50.0" />
+            <Row value="2439.85693" />
+            <Row value="-1110.86694" />
+            <Row value="-50.0" />
+            <Row value="3002.32104" />
+            <Row value="-576.361816" />
+            <Row value="-50.0" />
+            <Row value="2291.75806" />
+            <Row value="1636.81897" />
+            <Row value="-50.0" />
+            <Row value="2325.95801" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0x9f329e28" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xcae01463" />
+        </Column>
+        <Column name="Tune" type="float">
+            <Row value="-200.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb711d893" type="TypeInfo::Object::Sound::AmbientSetting">
+        <Column name="BankObjectNameHash0" type="uint32">
+            <Row value="0x9f329e28" />
+        </Column>
+        <Column name="ProgId0" type="uint32">
+            <Row value="0x69fe83e4" />
+        </Column>
+        <Column name="UseAmbientOcc0" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="UseSmoothOcc0" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="OccRegionIndexArray0" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BankObjectNameHash1" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="ProgId1" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UseAmbientOcc1" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="UseSmoothOcc1" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="OccRegionIndexArray1" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BankObjectNameHash2" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="ProgId2" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UseAmbientOcc2" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="UseSmoothOcc2" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="OccRegionIndexArray2" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BankObjectNameHash3" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="ProgId3" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UseAmbientOcc3" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="UseSmoothOcc3" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="OccRegionIndexArray3" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="GateSwitchIndexArray0" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="GateSwitchIndexArray1" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="GateSwitchIndexArray2" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="GateSwitchIndexArray3" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+</KidsObjDB>

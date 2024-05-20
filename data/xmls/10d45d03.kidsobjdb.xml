@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xf01bc23c">
+    <Object version="0" name="0x43b36d99" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="82235.1641" />
+            <Row value="31075.8008" />
+            <Row value="57408.5625" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x44e9c078" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="57903.625" />
+            <Row value="38066.0391" />
+            <Row value="81624.9531" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x46201357" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="62463.043" />
+            <Row value="31136.8438" />
+            <Row value="31999.7012" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x47566636" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="33038.6875" />
+            <Row value="40281.7891" />
+            <Row value="65439.7695" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="52.3952103" />
+            <Row value="269.556" />
+            <Row value="700.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.430000007" />
+            <Row value="0.0" />
+            <Row value="300.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x488cb915" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="33445.4297" />
+            <Row value="40265.4219" />
+            <Row value="64970.3594" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="52.3952103" />
+            <Row value="269.556" />
+            <Row value="700.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.430000007" />
+            <Row value="0.0" />
+            <Row value="300.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x49c30bf4" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="33719.5586" />
+            <Row value="40236.7383" />
+            <Row value="64572.3789" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="52.3952103" />
+            <Row value="269.556" />
+            <Row value="700.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.430000007" />
+            <Row value="0.0" />
+            <Row value="300.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4af95ed3" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="32476.7559" />
+            <Row value="40260.9688" />
+            <Row value="64251.1914" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="108.982018" />
+            <Row value="275.316528" />
+            <Row value="700.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.5" />
+            <Row value="0.0" />
+            <Row value="300.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4c2fb1b2" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="32836.5586" />
+            <Row value="40244.6016" />
+            <Row value="63837.7383" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="108.982018" />
+            <Row value="275.316528" />
+            <Row value="700.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.5" />
+            <Row value="0.0" />
+            <Row value="300.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4d660491" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="85328.7109" />
+            <Row value="31246.3809" />
+            <Row value="65023.9102" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="700.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4e9c5770" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="32147.3203" />
+            <Row value="40263.3906" />
+            <Row value="64650.0742" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="108.982018" />
+            <Row value="275.316528" />
+            <Row value="700.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.5" />
+            <Row value="0.0" />
+            <Row value="300.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6d07c2da" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="84122.7188" />
+            <Row value="31057.3398" />
+            <Row value="53966.9805" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="700.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6e3e15b9" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="90445.75" />
+            <Row value="31251.0508" />
+            <Row value="61112.7539" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6f746898" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="58432.9141" />
+            <Row value="38066.0391" />
+            <Row value="81645.2109" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x70aabb77" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="52698.4609" />
+            <Row value="38665.7695" />
+            <Row value="80336.1328" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x71e10e56" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="89583.9375" />
+            <Row value="33766.2617" />
+            <Row value="91602.3125" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x73176135" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="88511.6719" />
+            <Row value="33757.4961" />
+            <Row value="94940.6094" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x744db414" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="39767.6719" />
+            <Row value="33243.8906" />
+            <Row value="40707.3555" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x758406f3" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="59794.5313" />
+            <Row value="37637.4922" />
+            <Row value="77829.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x76ba59d2" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="59962.0" />
+            <Row value="37661.2383" />
+            <Row value="76734.0" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x77f0acb1" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="89955.7578" />
+            <Row value="33766.2617" />
+            <Row value="91952.9375" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x965c181b" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="39268.082" />
+            <Row value="33243.8906" />
+            <Row value="40931.5156" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x97926afa" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="90445.75" />
+            <Row value="31251.0508" />
+            <Row value="61671.1094" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x98c8bdd9" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4PointLight［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="62078.7266" />
+            <Row value="31136.8438" />
+            <Row value="31738.3105" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="LightColor" type="float">
+            <Row value="800.0" />
+            <Row value="292.595032" />
+            <Row value="40.6078033" />
+        </Column>
+        <Column name="AmbientColor" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="AttAndRange" type="float">
+            <Row value="1.0" />
+            <Row value="6.57894707e-005" />
+            <Row value="0.0" />
+            <Row value="800.0" />
+        </Column>
+        <Column name="GaussAttributes" type="float">
+            <Row value="0.409999996" />
+            <Row value="0.0" />
+            <Row value="500.0" />
+        </Column>
+        <Column name="CurvType" type="uint8">
+            <Row value="0x01" />
+        </Column>
+        <Column name="Fade" type="float">
+            <Row value="1.0" />
+        </Column>
+    </Object>
+</KidsObjDB>

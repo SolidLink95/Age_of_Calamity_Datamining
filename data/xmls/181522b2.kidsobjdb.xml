@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xc0d00e59">
+    <Object version="0" name="0x60cda644" parent_object_file="Field_Common.kidsobjdb" parent_object="0xa3002355">
+        <Column name="WorldScale" type="float">
+            <Row value="27626.4512" />
+            <Row value="9116.93359" />
+            <Row value="10.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="35248.3125" />
+            <Row value="33474.668" />
+            <Row value="42470.3203" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.104528502" />
+            <Row value="0.0" />
+            <Row value="0.994521916" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x894a8582" parent_object_file="Field_Common.kidsobjdb" parent_object="0xa3002355">
+        <Column name="WorldScale" type="float">
+            <Row value="13003.0059" />
+            <Row value="14598.4258" />
+            <Row value="10.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="53049.8008" />
+            <Row value="27305.2266" />
+            <Row value="38014.5039" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.207911849" />
+            <Row value="0.0" />
+            <Row value="0.97814846" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf50c15e3" parent_object_file="Field_Common.kidsobjdb" parent_object="0xa3002355">
+        <Column name="WorldScale" type="float">
+            <Row value="23034.0898" />
+            <Row value="9628.83887" />
+            <Row value="10.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="36607.7773" />
+            <Row value="33854.207" />
+            <Row value="53490.8906" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.766044736" />
+            <Row value="0.0" />
+            <Row value="0.642787993" />
+        </Column>
+    </Object>
+</KidsObjDB>

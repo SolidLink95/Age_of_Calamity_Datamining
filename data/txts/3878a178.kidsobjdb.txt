@@ -1,0 +1,36 @@
+[2021-11-28T15:55:58][FileList]Loading filelist for unknown-rdb
+[2021-11-28T15:55:58][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T15:55:58][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 1ce2c33f
+TypeInfo: TypeInfo::Object::MotorStageSetting
+Parent: NULL
+UInt32 ObjectDatabaseNameHashArray: KTID 46ef249f, KTID 7b5bd670, KTID 276ea8f1, KTID b157c8a0, KTID 021582e0, KTID 5b8013fb, KTID f3927ecd, KTID 6227b4aa, KTID d0184de4, KTID 25b6842d, KTID 3f3a0b2b, KTID 94f1fa6a, KTID 9f31b021, KTID cf388f7d, KTID bfb98b00, KTID fb47befe, KTID 2b9ada8c, KTID 45601ad5, KTID 669a181c, KTID d35e7608, KTID ba28f545, KTID 51aca8fc
+UInt32 DefaultEnviromnentNameHashArray: KTID 1cb220e8
+UInt32 OctreeObjectNameHash: KTID bf32d90c
+UInt32 OccluderUnitObjectNameHash: KTID 51dcf481
+UInt32 StaticTerrainObjectNameHash: KTID 8c1319b1
+UInt32 FieldStageNameHash: KTID 5975d4ad
+UInt32 ResourceKeeperObjectNameHash: KTID c3be4a76
+UInt32 MotorSettingObjectDatabaseResourceNameHash: KTID 698d0551
+UInt32 AutomatonContextObjectDefineNameHash: KTID a1082da9
+UInt32 SetModelObjectDatabaseResourceNameHash: KTID d3824c23
+UInt32 VisibilitySetObjectNameHash: KTID df0f13df
+UInt32 ObjectDatabaseTypeFlagArray: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, KTID 00000001, NULL, NULL, NULL, NULL
+UInt32 SoundObjectDatabaseNameHash: KTID 3f3a0b2b
+UInt32 LandscapeObjectNameHash: NULL
+Byte KTID 4aa0ab5a: NULL
+UInt32 KTID 1424ad27: KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001, KTID 00000001
+UInt32 KTID fd01b611: KTID 9ed4fd65
+UInt32 KTID 4143b3e9: KTID da58108d
+
+KTID: KTID c3be4a76
+TypeInfo: TypeInfo::Object::ResourceKeeper
+Parent: NULL
+UInt32 ResourceNameHashArray: KTID d3824c23, KTID 508491c5, KTID 8cb5ab44, KTID ac223f32, KTID 698d0551, KTID 9d683d24
+
+KTID: KTID df0f13df
+TypeInfo: TypeInfo::Object::MotorStageVisibilitySet
+Parent: NULL
+UInt32 ElementNumArray: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 ObjectNameHashArray: NULL
+

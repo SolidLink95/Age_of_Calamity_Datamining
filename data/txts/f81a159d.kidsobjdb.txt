@@ -1,0 +1,53 @@
+[2021-11-28T16:16:52][FileList]Loading filelist for unknown-rdb
+[2021-11-28T16:16:52][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T16:16:52][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 1a225821
+TypeInfo: TypeInfo::Object::Folder
+Parent: NULL
+UInt32 ObjectNameHashArray: KTID cebfc7c9, KTID 5463ca20, KTID 070260e8
+
+KTID: KTID 2966ba75
+TypeInfo: TypeInfo::Object::Container::List::Array
+Parent: NULL
+UInt32 ArrayMaxLength: KTID 00000010
+UInt32 ArrayExtendLength: KTID 00000010
+UInt32 NodeObjectNameHashArray: KTID cc72bdf4
+
+KTID: KTID 31478b69
+TypeInfo: TypeInfo::Object::3D::OccluderUnit
+Parent: NULL
+UInt32 NameHashArray: NULL
+
+KTID: KTID 3f1b2e34
+TypeInfo: TypeInfo::Object::Container::List::Array
+Parent: NULL
+UInt32 ArrayMaxLength: KTID 00000010
+UInt32 ArrayExtendLength: KTID 00000010
+UInt32 NodeObjectNameHashArray: KTID 1f454afc, KTID 207b9ddb, KTID 21b1f0ba, KTID 22e84399, KTID 241e9678, KTID 2554e957, KTID 268b3c36, KTID 27c18f15
+
+KTID: KTID 63082f48
+TypeInfo: TypeInfo::Object::Container::List::Array
+Parent: NULL
+UInt32 ArrayMaxLength: KTID 00000010
+UInt32 ArrayExtendLength: KTID 00000010
+UInt32 NodeObjectNameHashArray: NULL
+
+KTID: KTID bdbb7800
+TypeInfo: TypeInfo::Object::Empty
+Parent: NULL
+Int32 LitState: 1
+
+KTID: KTID cc72bdf4
+TypeInfo: TypeInfo::Object::3D::Placeable::Octree
+Parent: NULL
+UInt32 Placeables: KTID 54ec37c3, KTID 24e9cb52, KTID 0d49cbfe, KTID cfab768c, KTID 1f454afc, KTID 207b9ddb, KTID 21b1f0ba, KTID 22e84399, KTID 241e9678, KTID 2554e957, KTID 268b3c36, KTID 27c18f15, KTID cebfc7c9
+Int32 Types: 1, 1, 1, 1, 512, 512, 512, 512, 512, 512, 512, 512, 8
+Float32 WorldPosition: -25600, -25600, -25600
+Float32 WorldScale: 512000, 512000, 512000
+UInt32 MaxPlaceables: KTID 0000008d
+UInt32 Mask: KTID ffffff8f
+Float32 ScaleBias: 1
+UInt32 OctreeUpdatedContainerObjectHash: KTID 1eb0a3a7
+UInt32 EnableShadowVolumeClip: KTID 00000001
+UInt32 EnableEffectLocalMinMax: NULL
+

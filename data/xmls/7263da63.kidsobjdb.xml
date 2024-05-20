@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x6f3cb18a">
+    <Object version="0" name="0x018d9cd2" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterLine［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="90170.4688" />
+            <Row value="9612.04785" />
+            <Row value="82427.8047" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="150.281296" />
+            <Row value="-43.182621" />
+            <Row value="-864.6875" />
+            <Row value="-50.0" />
+            <Row value="0.0" />
+            <Row value="-50.0" />
+        </Column>
+        <Column name="SegmentIndexArray" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0xf50239d1" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xd018a269" />
+        </Column>
+        <Column name="Tune" type="float">
+            <Row value="500.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x21c9e4d9" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterLine［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="84498.2344" />
+            <Row value="9084.42773" />
+            <Row value="64759.3281" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="87.0703125" />
+            <Row value="-0.220703095" />
+            <Row value="-42.5585899" />
+            <Row value="-554.218811" />
+            <Row value="-6.49511719" />
+            <Row value="-79.5703125" />
+            <Row value="-639.578125" />
+            <Row value="24.5087891" />
+            <Row value="626.199219" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0xf50239d1" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xd018a269" />
+        </Column>
+        <Column name="Tune" type="float">
+            <Row value="200.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x388b7cd6" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterLine［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="63507.0742" />
+            <Row value="17562.8359" />
+            <Row value="53024.3086" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="167.386703" />
+            <Row value="26.4589806" />
+            <Row value="115.285202" />
+            <Row value="-427.722687" />
+            <Row value="-33.8769493" />
+            <Row value="182.046906" />
+        </Column>
+        <Column name="SegmentIndexArray" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0xf50239d1" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xd018a269" />
+        </Column>
+        <Column name="Tune" type="float">
+            <Row value="400.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4a050832" type="TypeInfo::Object::Sound::ReverbPreset">
+        <Column name="Room" type="float">
+            <Row value="-10000.0" />
+        </Column>
+        <Column name="RoomHF" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="DecayTime" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DecayHFRatio" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflections" type="float">
+            <Row value="-10000.0" />
+        </Column>
+        <Column name="ReflectionsDelay" type="float">
+            <Row value="0.0199999996" />
+        </Column>
+        <Column name="Reverb" type="float">
+            <Row value="-10000.0" />
+        </Column>
+        <Column name="ReverbDelay" type="float">
+            <Row value="0.0399999991" />
+        </Column>
+        <Column name="Diffusion" type="float">
+            <Row value="100.0" />
+        </Column>
+        <Column name="Density" type="float">
+            <Row value="100.0" />
+        </Column>
+        <Column name="HFReference" type="float">
+            <Row value="5000.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4f4d14d3" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterLine［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="85171.0859" />
+            <Row value="9461.57129" />
+            <Row value="85124.5859" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="595.101624" />
+            <Row value="34.4091797" />
+            <Row value="-5.42968798" />
+            <Row value="-85.2343826" />
+            <Row value="10.3984404" />
+            <Row value="-145.0625" />
+        </Column>
+        <Column name="SegmentIndexArray" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0xf50239d1" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xd018a269" />
+        </Column>
+        <Column name="Tune" type="float">
+            <Row value="300.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x660eacd0" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterLine［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="77827.3438" />
+            <Row value="9286.2002" />
+            <Row value="73568.2578" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="-945.679688" />
+            <Row value="38.1035194" />
+            <Row value="237.914093" />
+            <Row value="-94.4453125" />
+            <Row value="7.33300781" />
+            <Row value="-266.039093" />
+        </Column>
+        <Column name="SegmentIndexArray" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0xf50239d1" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xd018a269" />
+        </Column>
+        <Column name="Tune" type="float">
+            <Row value="400.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x864af4d7" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterLine［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="70554.6953" />
+            <Row value="15058.5625" />
+            <Row value="54283.3203" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="810.0" />
+            <Row value="-9.04882813" />
+            <Row value="-46.0976601" />
+            <Row value="291.992188" />
+            <Row value="5.23339796" />
+            <Row value="144.195297" />
+            <Row value="81.2031326" />
+            <Row value="5.99121094" />
+            <Row value="-339.617188" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0xf50239d1" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xd018a269" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x9d0c8cd4" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterLine［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="39326.0703" />
+            <Row value="11324.5371" />
+            <Row value="57669.3789" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="-279.199188" />
+            <Row value="-43.1435509" />
+            <Row value="545.179688" />
+            <Row value="-444.015594" />
+            <Row value="26.1162109" />
+            <Row value="-189.613297" />
+            <Row value="-40.0781288" />
+            <Row value="-16.5634804" />
+            <Row value="181.753906" />
+        </Column>
+        <Column name="SegmentIndexArray" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000002" />
+            <Row value="0x00000001" />
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0xf50239d1" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xd018a269" />
+        </Column>
+        <Column name="Tune" type="float">
+            <Row value="100.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb3ce24d1" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterLine［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="91055.9844" />
+            <Row value="9363.33203" />
+            <Row value="75715.8203" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="-281.742188" />
+            <Row value="36.2412109" />
+            <Row value="87.2890625" />
+            <Row value="-399.953094" />
+            <Row value="30.1748009" />
+            <Row value="841.382813" />
+        </Column>
+        <Column name="SegmentIndexArray" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0xf50239d1" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xd018a269" />
+        </Column>
+        <Column name="Tune" type="float">
+            <Row value="300.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xbf5777b3" type="TypeInfo::Object::Sound::AmbientSetting">
+        <Column name="BankObjectNameHash0" type="uint32">
+            <Row value="0x9f329e28" />
+        </Column>
+        <Column name="ProgId0" type="uint32">
+            <Row value="0x7cefba71" />
+        </Column>
+        <Column name="UseAmbientOcc0" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="UseSmoothOcc0" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="OccRegionIndexArray0" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BankObjectNameHash1" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="ProgId1" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UseAmbientOcc1" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="UseSmoothOcc1" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="OccRegionIndexArray1" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BankObjectNameHash2" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="ProgId2" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UseAmbientOcc2" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="UseSmoothOcc2" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="OccRegionIndexArray2" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="BankObjectNameHash3" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="ProgId3" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="UseAmbientOcc3" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="UseSmoothOcc3" type="uint8">
+            <Row value="0x00" />
+        </Column>
+        <Column name="OccRegionIndexArray3" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="GateSwitchIndexArray0" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="GateSwitchIndexArray1" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="GateSwitchIndexArray2" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="GateSwitchIndexArray3" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd40a6cd8" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterLine［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="78513.25" />
+            <Row value="13288.6094" />
+            <Row value="54802.7852" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="271.578094" />
+            <Row value="-4.94824219" />
+            <Row value="348.308594" />
+            <Row value="379.4375" />
+            <Row value="42.1601601" />
+            <Row value="-278.171906" />
+            <Row value="-50.5390587" />
+            <Row value="2.85644507" />
+            <Row value="-67.3632813" />
+        </Column>
+        <Column name="SegmentIndexArray" type="uint32">
+            <Row value="0x00000000" />
+            <Row value="0x00000002" />
+            <Row value="0x00000001" />
+            <Row value="0x00000002" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0xf50239d1" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xd018a269" />
+        </Column>
+        <Column name="Tune" type="float">
+            <Row value="400.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xea6c929b" type="TypeInfo::Object::Sound::ReverbSetting">
+        <Column name="DefaultPresetNameHash" type="uint32">
+            <Row value="0x4a050832" />
+        </Column>
+        <Column name="DefaultVolume" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="DefaultFadeTime" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xeacc04d5" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4SoundPlaceableEmitterLine［Basic］">
+        <Column name="WorldScale" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WorldPosition" type="float">
+            <Row value="51260.0234" />
+            <Row value="13736.0273" />
+            <Row value="59898.8633" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="PositionArray" type="float">
+            <Row value="50.0" />
+            <Row value="0.0" />
+            <Row value="50.0" />
+            <Row value="-11.0117197" />
+            <Row value="-22.4375" />
+            <Row value="-514.476624" />
+            <Row value="987.867188" />
+            <Row value="-11.8046904" />
+            <Row value="-485.156311" />
+        </Column>
+        <Column name="BankObjectNameHash" type="uint32">
+            <Row value="0xf50239d1" />
+        </Column>
+        <Column name="ProgId" type="uint32">
+            <Row value="0xd018a269" />
+        </Column>
+        <Column name="Tune" type="float">
+            <Row value="300.0" />
+        </Column>
+    </Object>
+</KidsObjDB>

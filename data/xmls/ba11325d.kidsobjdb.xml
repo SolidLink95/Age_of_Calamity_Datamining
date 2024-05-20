@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x6e8ff284">
+    <Object version="0" name="0x04ee57c9" parent_object_file="0xe61b6ab6" parent_object="0x6d1d3314">
+        <Column name="WorldPosition" type="float">
+            <Row value="78738.7266" />
+            <Row value="4511.27686" />
+            <Row value="56568.1758" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.990557253" />
+            <Row value="0.0" />
+            <Row value="0.137097061" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="649.400879" />
+            <Row value="324.700409" />
+            <Row value="649.400879" />
+        </Column>
+        <Column name="AlbedoScaler" type="float">
+            <Row value="0.850000024" />
+        </Column>
+        <Column name="AlbedoOverlayScaler" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.649999976" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x0b91751c" parent_object_file="0xe61b6ab6" parent_object="0x7f1e7aeb">
+        <Column name="WorldPosition" type="float">
+            <Row value="85553.0234" />
+            <Row value="2977.48901" />
+            <Row value="81291.4844" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="-0.0388090685" />
+            <Row value="0.999246418" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2413.43872" />
+            <Row value="275.98587" />
+            <Row value="3160.19702" />
+        </Column>
+        <Column name="NormalThreshold" type="float">
+            <Row value="60.0" />
+        </Column>
+        <Column name="BlendWeight" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.550000012" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x41c35be3" parent_object_file="0xe61b6ab6" parent_object="0x7f1e7aeb">
+        <Column name="WorldPosition" type="float">
+            <Row value="56027.1484" />
+            <Row value="4903.19287" />
+            <Row value="85911.4063" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.748388112" />
+            <Row value="0.0" />
+            <Row value="0.663261116" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="445.727539" />
+            <Row value="275.985901" />
+            <Row value="837.556641" />
+        </Column>
+        <Column name="NormalThreshold" type="float">
+            <Row value="180.0" />
+        </Column>
+        <Column name="BlendWeight" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.550000012" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x50a6a5e4" parent_object_file="0xe61b6ab6" parent_object="0x6d1d3314">
+        <Column name="WorldPosition" type="float">
+            <Row value="37744.1172" />
+            <Row value="7817.12793" />
+            <Row value="53337.1563" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.92458725" />
+            <Row value="0.0" />
+            <Row value="-0.380970776" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="595.414001" />
+            <Row value="297.70697" />
+            <Row value="595.414001" />
+        </Column>
+        <Column name="AlbedoScaler" type="float">
+            <Row value="0.850000024" />
+        </Column>
+        <Column name="AlbedoOverlayScaler" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.649999976" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x5e97a8a2" parent_object_file="0xe61b6ab6" parent_object="0x7f1e7aeb">
+        <Column name="WorldPosition" type="float">
+            <Row value="54742.1992" />
+            <Row value="4897.85742" />
+            <Row value="84851.9766" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.220448092" />
+            <Row value="0.0" />
+            <Row value="0.9753986" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="700.271362" />
+            <Row value="275.985901" />
+            <Row value="1369.09094" />
+        </Column>
+        <Column name="NormalThreshold" type="float">
+            <Row value="180.0" />
+        </Column>
+        <Column name="BlendWeight" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.550000012" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x69e3d786" parent_object_file="0xe61b6ab6" parent_object="0x6d1d3314">
+        <Column name="WorldPosition" type="float">
+            <Row value="51857.3203" />
+            <Row value="4142.84912" />
+            <Row value="86744.3984" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.613100529" />
+            <Row value="0.0" />
+            <Row value="0.79000473" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="655.401184" />
+            <Row value="327.700592" />
+            <Row value="655.401184" />
+        </Column>
+        <Column name="BlendWeight" type="float">
+            <Row value="0.850000024" />
+        </Column>
+        <Column name="AlbedoScaler" type="float">
+            <Row value="0.899999976" />
+        </Column>
+        <Column name="AlbedoOverlayScaler" type="float">
+            <Row value="0.600000024" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6c4aad4b" parent_object_file="0xe61b6ab6" parent_object="0x6d1d3314">
+        <Column name="WorldPosition" type="float">
+            <Row value="74863.3359" />
+            <Row value="4794.24512" />
+            <Row value="43033.6797" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.884384513" />
+            <Row value="0.0" />
+            <Row value="-0.466759831" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="649.400879" />
+            <Row value="324.700409" />
+            <Row value="649.400879" />
+        </Column>
+        <Column name="AlbedoScaler" type="float">
+            <Row value="0.850000024" />
+        </Column>
+        <Column name="AlbedoOverlayScaler" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.649999976" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x7b6bf561" parent_object_file="0xe61b6ab6" parent_object="0x7f1e7aeb">
+        <Column name="WorldPosition" type="float">
+            <Row value="41204.6016" />
+            <Row value="3030.93042" />
+            <Row value="80152.1406" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0252030194" />
+            <Row value="0.750554144" />
+            <Row value="0.0286738519" />
+            <Row value="-0.659703076" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="3902.57349" />
+            <Row value="275.985901" />
+            <Row value="2977.75781" />
+        </Column>
+        <Column name="NormalThreshold" type="float">
+            <Row value="60.0" />
+        </Column>
+        <Column name="BlendWeight" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.550000012" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x9ff8d80c" parent_object_file="0xe61b6ab6" parent_object="0x6d1d3314">
+        <Column name="WorldPosition" type="float">
+            <Row value="77278.7813" />
+            <Row value="5095.35449" />
+            <Row value="67146.5781" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.336105078" />
+            <Row value="0.0" />
+            <Row value="0.941824317" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="576.869446" />
+            <Row value="288.434692" />
+            <Row value="576.869446" />
+        </Column>
+        <Column name="AlbedoScaler" type="float">
+            <Row value="0.850000024" />
+        </Column>
+        <Column name="AlbedoOverlayScaler" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.649999976" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd1402d08" parent_object_file="0xe61b6ab6" parent_object="0x6d1d3314">
+        <Column name="WorldPosition" type="float">
+            <Row value="83865.0469" />
+            <Row value="4495.83301" />
+            <Row value="43918.5156" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="-0.27534619" />
+            <Row value="0.0" />
+            <Row value="0.961345017" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="649.400879" />
+            <Row value="324.700439" />
+            <Row value="649.400879" />
+        </Column>
+        <Column name="AlbedoScaler" type="float">
+            <Row value="0.850000024" />
+        </Column>
+        <Column name="AlbedoOverlayScaler" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.649999976" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd3a702cd" parent_object_file="0xe61b6ab6" parent_object="0x6d1d3314">
+        <Column name="WorldPosition" type="float">
+            <Row value="68565.5078" />
+            <Row value="4482.9209" />
+            <Row value="84807.6328" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="0.0" />
+            <Row value="0.351929933" />
+            <Row value="0.0" />
+            <Row value="0.936026514" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="576.869385" />
+            <Row value="288.434692" />
+            <Row value="576.869385" />
+        </Column>
+        <Column name="AlbedoScaler" type="float">
+            <Row value="0.850000024" />
+        </Column>
+        <Column name="AlbedoOverlayScaler" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.649999976" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xeebd285d" parent_object_file="0xe61b6ab6" parent_object="0x7f1e7aeb">
+        <Column name="WorldPosition" type="float">
+            <Row value="84181.2969" />
+            <Row value="3065.27954" />
+            <Row value="76820.9844" />
+        </Column>
+        <Column name="WorldQuaternion" type="float">
+            <Row value="-0.0326416232" />
+            <Row value="-0.562968552" />
+            <Row value="-0.0207399037" />
+            <Row value="0.825573266" />
+        </Column>
+        <Column name="WorldScale" type="float">
+            <Row value="2860.63403" />
+            <Row value="275.985901" />
+            <Row value="1786.07007" />
+        </Column>
+        <Column name="NormalThreshold" type="float">
+            <Row value="50.0" />
+        </Column>
+        <Column name="BlendWeight" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="GeometryScaler" type="float">
+            <Row value="0.550000012" />
+        </Column>
+    </Object>
+</KidsObjDB>

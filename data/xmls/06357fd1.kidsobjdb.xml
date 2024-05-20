@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0xdf79d478">
+    <Object version="0" name="0x0200e59b" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4StatisticalRiver［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="54976.0" />
+            <Row value="5082.0" />
+            <Row value="109406.0" />
+        </Column>
+        <Column name="Amplitude" type="float">
+            <Row value="30.0" />
+        </Column>
+        <Column name="Gravity" type="float">
+            <Row value="980.0" />
+        </Column>
+        <Column name="GradationTime" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="NormalTextureSpeedX" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="NormalTextureSpeedZ" type="float">
+            <Row value="-10.0" />
+        </Column>
+        <Column name="NormalTextureScaleZ" type="float">
+            <Row value="25.0" />
+        </Column>
+        <Column name="Albedo" type="float">
+            <Row value="0.0" />
+            <Row value="0.0996000022" />
+            <Row value="0.600000024" />
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflectance" type="float">
+            <Row value="0.541000009" />
+            <Row value="0.541000009" />
+            <Row value="0.541000009" />
+        </Column>
+        <Column name="NormalMapTexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xad454c5a" />
+        </Column>
+        <Column name="NormalMapNoiseTextureRenderStateObjectHash" type="uint32">
+            <Row value="0x5e034506" />
+        </Column>
+        <Column name="DiffuseTransparency" type="float">
+            <Row value="0.959999979" />
+        </Column>
+        <Column name="NodeArray" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="3974.32275" />
+            <Row value="-3371.0" />
+            <Row value="316.0" />
+            <Row value="1921.0" />
+            <Row value="3974.32275" />
+        </Column>
+        <Column name="ShaderAccessoryID" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="ShoalingHeightMapHash" type="uint32">
+            <Row value="0x7025b614" />
+        </Column>
+        <Column name="HeightMapTextureScaleX" type="float">
+            <Row value="128000.0" />
+        </Column>
+        <Column name="HeightMapTextureScaleZ" type="float">
+            <Row value="128000.0" />
+        </Column>
+        <Column name="BubbleMapHash" type="uint32">
+            <Row value="0xf069908e" />
+        </Column>
+        <Column name="WaveShoreBubbleColor" type="float">
+            <Row value="8.20634747" />
+            <Row value="10.0" />
+            <Row value="6.5" />
+        </Column>
+        <Column name="WaveShoreBubbleColorA" type="float">
+            <Row value="0.219999999" />
+        </Column>
+        <Column name="WaveShoreBubbleReflectance" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WaveShoreBubbleGlossinessDumping" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="BubbleShoalingScale" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="WaveShoreBubbleDisplacementScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WaveShoreBubbleNormalScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WaveShoreBubbleNormalThreshold" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="29" />
+        </Column>
+        <Column name="0xaf7457bd" type="float">
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x600d68a3" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4StatisticalRiver［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="36739.4688" />
+            <Row value="4457.07129" />
+            <Row value="100076.828" />
+        </Column>
+        <Column name="SurfaceWindX" type="float">
+            <Row value="390.038055" />
+        </Column>
+        <Column name="Amplitude" type="float">
+            <Row value="30.0" />
+        </Column>
+        <Column name="Gravity" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="GradationTime" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="NormalTextureSpeedX" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="NormalTextureSpeedZ" type="float">
+            <Row value="-10.0" />
+        </Column>
+        <Column name="NormalTextureScaleZ" type="float">
+            <Row value="25.0" />
+        </Column>
+        <Column name="Albedo" type="float">
+            <Row value="0.00556399999" />
+            <Row value="0.11624223" />
+            <Row value="0.428000003" />
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflectance" type="float">
+            <Row value="0.326999992" />
+            <Row value="0.299988478" />
+            <Row value="0.292010993" />
+        </Column>
+        <Column name="NormalMapTexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xad454c5a" />
+        </Column>
+        <Column name="NormalMapNoiseTextureRenderStateObjectHash" type="uint32">
+            <Row value="0x5e034506" />
+        </Column>
+        <Column name="DiffuseTransparency" type="float">
+            <Row value="0.959999979" />
+        </Column>
+        <Column name="NodeArray" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="2000.0" />
+            <Row value="-1485.51172" />
+            <Row value="0.0" />
+            <Row value="-1538.57031" />
+            <Row value="2000.0" />
+        </Column>
+        <Column name="ShaderAccessoryID" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="ShoalingHeightMapHash" type="uint32">
+            <Row value="0x7025b614" />
+        </Column>
+        <Column name="HeightMapTextureScaleX" type="float">
+            <Row value="128000.0" />
+        </Column>
+        <Column name="HeightMapTextureScaleZ" type="float">
+            <Row value="128000.0" />
+        </Column>
+        <Column name="BubbleMapHash" type="uint32">
+            <Row value="0xf069908e" />
+        </Column>
+        <Column name="WaveShoreBubbleColor" type="float">
+            <Row value="6.0" />
+            <Row value="5.17995787" />
+            <Row value="3.9000001" />
+        </Column>
+        <Column name="WaveShoreBubbleColorA" type="float">
+            <Row value="0.219999999" />
+        </Column>
+        <Column name="WaveShoreBubbleReflectance" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WaveShoreBubbleGlossinessDumping" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="BubbleShoalingScale" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="WaveShoreBubbleDisplacementScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WaveShoreBubbleNormalScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WaveShoreBubbleNormalThreshold" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="0xaf7457bd" type="float">
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x888a47e1" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4StatisticalRiver［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="35134.0" />
+            <Row value="4570.0" />
+            <Row value="100838.0" />
+        </Column>
+        <Column name="SurfaceWindX" type="float">
+            <Row value="390.038055" />
+        </Column>
+        <Column name="Amplitude" type="float">
+            <Row value="30.0" />
+        </Column>
+        <Column name="Gravity" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="GradationTime" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="NormalTextureSpeedX" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="NormalTextureSpeedZ" type="float">
+            <Row value="-10.0" />
+        </Column>
+        <Column name="NormalTextureScaleZ" type="float">
+            <Row value="25.0" />
+        </Column>
+        <Column name="Albedo" type="float">
+            <Row value="0.00556399999" />
+            <Row value="0.11624223" />
+            <Row value="0.428000003" />
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflectance" type="float">
+            <Row value="0.326999992" />
+            <Row value="0.299988478" />
+            <Row value="0.292010993" />
+        </Column>
+        <Column name="NormalMapTexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xad454c5a" />
+        </Column>
+        <Column name="NormalMapNoiseTextureRenderStateObjectHash" type="uint32">
+            <Row value="0x5e034506" />
+        </Column>
+        <Column name="DiffuseTransparency" type="float">
+            <Row value="0.959999979" />
+        </Column>
+        <Column name="NodeArray" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="1026.26233" />
+            <Row value="-514.0" />
+            <Row value="0.0" />
+            <Row value="-754.0" />
+            <Row value="1026.26233" />
+        </Column>
+        <Column name="ShaderAccessoryID" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="ShoalingHeightMapHash" type="uint32">
+            <Row value="0x7025b614" />
+        </Column>
+        <Column name="HeightMapTextureScaleX" type="float">
+            <Row value="128000.0" />
+        </Column>
+        <Column name="HeightMapTextureScaleZ" type="float">
+            <Row value="128000.0" />
+        </Column>
+        <Column name="BubbleMapHash" type="uint32">
+            <Row value="0xf069908e" />
+        </Column>
+        <Column name="WaveShoreBubbleColor" type="float">
+            <Row value="6.0" />
+            <Row value="5.17995787" />
+            <Row value="3.9000001" />
+        </Column>
+        <Column name="WaveShoreBubbleColorA" type="float">
+            <Row value="0.219999999" />
+        </Column>
+        <Column name="WaveShoreBubbleReflectance" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WaveShoreBubbleGlossinessDumping" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="BubbleShoalingScale" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="WaveShoreBubbleDisplacementScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WaveShoreBubbleNormalScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WaveShoreBubbleNormalThreshold" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="0xaf7457bd" type="float">
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xcbcef904" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4StatisticalRiver［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="84538.9609" />
+            <Row value="1720.0" />
+            <Row value="61180.4688" />
+        </Column>
+        <Column name="Amplitude" type="float">
+            <Row value="30.0" />
+        </Column>
+        <Column name="Gravity" type="float">
+            <Row value="980.0" />
+        </Column>
+        <Column name="GradationTime" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="NormalTextureSpeedX" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="NormalTextureSpeedZ" type="float">
+            <Row value="-10.0" />
+        </Column>
+        <Column name="NormalTextureScaleZ" type="float">
+            <Row value="25.0" />
+        </Column>
+        <Column name="Albedo" type="float">
+            <Row value="0.00556399999" />
+            <Row value="0.11624223" />
+            <Row value="0.428000003" />
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflectance" type="float">
+            <Row value="0.326999992" />
+            <Row value="0.299988478" />
+            <Row value="0.292010993" />
+        </Column>
+        <Column name="NormalMapTexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xad454c5a" />
+        </Column>
+        <Column name="NormalMapNoiseTextureRenderStateObjectHash" type="uint32">
+            <Row value="0x5e034506" />
+        </Column>
+        <Column name="DiffuseTransparency" type="float">
+            <Row value="0.959999979" />
+        </Column>
+        <Column name="NodeArray" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="4776.96826" />
+            <Row value="3388.21094" />
+            <Row value="0.0" />
+            <Row value="375.304688" />
+            <Row value="4508.89063" />
+            <Row value="7021.65625" />
+            <Row value="0.0" />
+            <Row value="1129.37109" />
+            <Row value="6170.61328" />
+        </Column>
+        <Column name="ShaderAccessoryID" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="ShoalingHeightMapHash" type="uint32">
+            <Row value="0x7025b614" />
+        </Column>
+        <Column name="HeightMapTextureScaleX" type="float">
+            <Row value="128000.0" />
+        </Column>
+        <Column name="HeightMapTextureScaleZ" type="float">
+            <Row value="128000.0" />
+        </Column>
+        <Column name="BubbleMapHash" type="uint32">
+            <Row value="0xf069908e" />
+        </Column>
+        <Column name="WaveShoreBubbleColor" type="float">
+            <Row value="6.0" />
+            <Row value="5.17995787" />
+            <Row value="3.9000001" />
+        </Column>
+        <Column name="WaveShoreBubbleColorA" type="float">
+            <Row value="0.219999999" />
+        </Column>
+        <Column name="WaveShoreBubbleReflectance" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WaveShoreBubbleGlossinessDumping" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="BubbleShoalingScale" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="WaveShoreBubbleDisplacementScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WaveShoreBubbleNormalScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WaveShoreBubbleNormalThreshold" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="PreviewVisibilitySet" type="int32">
+            <Row value="29" />
+        </Column>
+        <Column name="0xaf7457bd" type="float">
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf44bd842" parent_object_file="Field_Common.kidsobjdb" parent_object="FE4StatisticalRiver［Basic］">
+        <Column name="WorldPosition" type="float">
+            <Row value="36719.7227" />
+            <Row value="5652.49072" />
+            <Row value="99931.4531" />
+        </Column>
+        <Column name="Amplitude" type="float">
+            <Row value="30.0" />
+        </Column>
+        <Column name="Gravity" type="float">
+            <Row value="980.0" />
+        </Column>
+        <Column name="GradationTime" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="NormalTextureSpeedX" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="NormalTextureSpeedZ" type="float">
+            <Row value="-10.0" />
+        </Column>
+        <Column name="NormalTextureScaleZ" type="float">
+            <Row value="25.0" />
+        </Column>
+        <Column name="Albedo" type="float">
+            <Row value="0.00556399999" />
+            <Row value="0.11624223" />
+            <Row value="0.428000003" />
+            <Row value="0.5" />
+        </Column>
+        <Column name="Reflectance" type="float">
+            <Row value="0.326999992" />
+            <Row value="0.299988478" />
+            <Row value="0.292010993" />
+        </Column>
+        <Column name="NormalMapTexturesRenderStateObjectHash" type="uint32">
+            <Row value="0xad454c5a" />
+        </Column>
+        <Column name="NormalMapNoiseTextureRenderStateObjectHash" type="uint32">
+            <Row value="0x5e034506" />
+        </Column>
+        <Column name="DiffuseTransparency" type="float">
+            <Row value="0.959999979" />
+        </Column>
+        <Column name="NodeArray" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="2272.82495" />
+            <Row value="-1259.64063" />
+            <Row value="0.0" />
+            <Row value="-1343.16406" />
+            <Row value="2272.82495" />
+        </Column>
+        <Column name="ShaderAccessoryID" type="uint32">
+            <Row value="0x00000001" />
+        </Column>
+        <Column name="ShoalingHeightMapHash" type="uint32">
+            <Row value="0x7025b614" />
+        </Column>
+        <Column name="HeightMapTextureScaleX" type="float">
+            <Row value="128000.0" />
+        </Column>
+        <Column name="HeightMapTextureScaleZ" type="float">
+            <Row value="128000.0" />
+        </Column>
+        <Column name="BubbleMapHash" type="uint32">
+            <Row value="0xf069908e" />
+        </Column>
+        <Column name="WaveShoreBubbleColor" type="float">
+            <Row value="6.0" />
+            <Row value="5.17995787" />
+            <Row value="3.9000001" />
+        </Column>
+        <Column name="WaveShoreBubbleColorA" type="float">
+            <Row value="0.219999999" />
+        </Column>
+        <Column name="WaveShoreBubbleReflectance" type="float">
+            <Row value="1.0" />
+            <Row value="1.0" />
+            <Row value="1.0" />
+        </Column>
+        <Column name="WaveShoreBubbleGlossinessDumping" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="BubbleShoalingScale" type="float">
+            <Row value="10.0" />
+        </Column>
+        <Column name="WaveShoreBubbleDisplacementScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WaveShoreBubbleNormalScale" type="float">
+            <Row value="0.0" />
+        </Column>
+        <Column name="WaveShoreBubbleNormalThreshold" type="float">
+            <Row value="1.0" />
+        </Column>
+        <Column name="0xaf7457bd" type="float">
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+            <Row value="0.0" />
+            <Row value="0.5" />
+            <Row value="0.400000006" />
+            <Row value="0.00999999978" />
+        </Column>
+    </Object>
+</KidsObjDB>

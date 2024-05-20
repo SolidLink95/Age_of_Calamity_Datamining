@@ -1,0 +1,1300 @@
+[2021-11-28T15:53:53][FileList]Loading filelist for unknown-rdb
+[2021-11-28T15:53:53][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T15:53:53][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 03a519ee
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 50, 46, 53, 51, 56, 55, 51, 56, 48, 52, 55, 55, 56, 57, 57, 50, 0, 49, 56, 46, 52, 51, 50, 49, 51, 50, 56, 56, 55, 50, 50, 56, 53, 0, 45, 48, 46, 49, 51, 57, 50, 54, 48, 56, 53, 55, 55, 55, 51, 49, 57, 52, 0, 45, 53, 46, 57, 51, 51, 57, 51, 48, 49, 52, 52, 54, 57, 50, 51, 49, 0, 48, 46, 50, 52, 55, 57, 50, 56, 56, 52, 49, 51, 51, 54, 55, 53, 53, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 49, 46, 56, 54, 48, 56, 49, 49, 50, 57, 49, 49, 52, 53, 57, 53, 0, 49, 51, 46, 54, 54, 49, 53, 53, 54, 56, 55, 55, 53, 54, 49, 49, 0, 45, 48, 46, 50, 57, 57, 52, 55, 53, 50, 56, 49, 56, 50, 54, 50, 56, 0, 45, 49, 52, 46, 52, 48, 49, 53, 57, 49, 50, 49, 55, 48, 57, 48, 55, 0, 48, 46, 51, 51, 56, 57, 53, 56, 56, 49, 51, 55, 57, 48, 50, 55, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 57, 50, 54, 55, 54, 55, 53, 0, 49, 53, 46, 53, 50, 56, 56, 53, 55, 56, 53, 48, 49, 55, 51, 51, 0, 45, 48, 46, 50, 54, 48, 53, 57, 49, 56, 51, 54, 55, 48, 53, 56, 53, 56, 0, 45, 53, 46, 52, 49, 50, 50, 49, 56, 52, 55, 48, 56, 51, 54, 51, 54, 0, 48, 46, 51, 50, 55, 55, 55, 53, 57, 52, 52, 52, 49, 50, 54, 52, 52, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 050be868
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 48, 0, 48, 46, 49, 48, 53, 51, 53, 57, 56, 51, 57, 52, 54, 51, 52, 56, 55, 0, 51, 49, 46, 50, 48, 57, 53, 53, 51, 48, 52, 55, 53, 56, 56, 56, 0, 48, 46, 48, 50, 53, 51, 50, 55, 54, 54, 48, 49, 57, 56, 51, 50, 57, 57, 0, 45, 51, 46, 51, 48, 53, 52, 50, 52, 49, 48, 52, 55, 48, 56, 53, 54, 0, 45, 48, 46, 48, 48, 50, 54, 56, 50, 52, 54, 56, 57, 57, 57, 52, 48, 52, 52, 52, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 45, 48, 46, 48, 48, 56, 57, 56, 52, 56, 57, 53, 57, 54, 50, 53, 50, 49, 55, 54, 0, 49, 0, 48, 0, 45, 48, 46, 57, 48, 52, 50, 51, 50, 49, 56, 48, 52, 50, 48, 53, 57, 52, 0, 48, 0, 49, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 05e39840
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 072b85c8
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 0a1af0b4
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: 0, 0, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 0,96, 0,96
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+Float32 SizeXY: 1300, 976
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: KTID 1ac4ca3a
+UInt32 BlendTexture1NameHash: KTID cca53ddc
+UInt32 BlendTexture2NameHash: KTID cca53ddc
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000003
+UInt32 BlendTexture1BlendModeOfAlpha: KTID 00000001
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000003
+UInt32 BlendTexture2BlendModeOfAlpha: KTID 00000001
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000001
+UInt32 AlphaBlendDstFuncAlpha: NULL
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: KTID 6a7664c8
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: KTID e3498094, KTID 5f75a049, KTID 80a0f484, KTID ba766bc3
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: KTID 76dd68fe, KTID f30988b3, KTID 1434dcee, KTID 4e0a542d
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: KTID a8e0de69, KTID dc8f092a
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: KTID 7b2d99cb, KTID aedbc48c
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: KTID f8a88a6a
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: KTID 91e8a36a, KTID c596ce2b
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: KTID 64355ecc, KTID 97e3898d
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: NULL
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 7fcda224
+Float32 LocalPosition: 0, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: KTID 8b606363, KTID d101a602, KTID 16a2e8a1
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,45454547
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 0dd15a98
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 48, 51, 54, 54, 48, 53, 51, 54, 57, 51, 57, 55, 54, 0, 48, 46, 48, 49, 51, 48, 56, 56, 55, 54, 52, 51, 53, 52, 49, 54, 55, 57, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 49, 0, 48, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 10b9c039
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 53, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 0, 52, 46, 53, 48, 49, 52, 53, 52, 57, 48, 53, 55, 50, 52, 54, 50, 0, 48, 46, 51, 49, 53, 51, 57, 53, 49, 56, 51, 50, 56, 49, 51, 54, 56, 0, 45, 53, 0, 48, 0, 49, 0, 51, 0, 10, 0, 48, 0, 49, 51, 50, 0, 49, 0, 49, 53, 0, 48, 0, 45, 50, 50, 46, 50, 50, 53, 53, 53, 48, 53, 48, 55, 52, 51, 51, 55, 0, 48, 0, 50, 0, 49, 0, 10, 0, 48, 0, 50, 49, 52, 0, 49, 0, 52, 54, 0, 48, 0, 45, 52, 54, 0, 48, 0, 50, 0, 49, 0, 10, 0, 48, 0, 51, 57, 56, 0, 49, 0, 57, 50, 0, 48, 0, 45, 57, 50, 0, 48, 0, 49, 0, 49, 0, 10, 0, 48, 0, 52, 48, 48, 0, 48, 0, 49, 0, 48, 0, 45, 49, 0, 48, 46, 53, 0, 49, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 13705c4f
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 0, 54, 46, 51, 48, 50, 55, 51, 53, 53, 54, 50, 51, 49, 48, 48, 56, 0, 45, 48, 46, 48, 48, 48, 56, 48, 49, 54, 48, 53, 50, 57, 56, 49, 55, 48, 54, 50, 57, 0, 45, 53, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 45, 48, 46, 48, 48, 49, 54, 57, 50, 54, 54, 53, 55, 56, 51, 49, 56, 52, 53, 50, 0, 49, 48, 46, 50, 54, 50, 49, 51, 51, 55, 56, 55, 56, 49, 48, 57, 0, 48, 46, 48, 48, 48, 57, 53, 51, 56, 56, 51, 53, 51, 50, 51, 49, 48, 49, 57, 53, 0, 45, 50, 54, 46, 56, 56, 50, 48, 53, 53, 53, 53, 55, 53, 52, 52, 51, 0, 45, 48, 46, 48, 48, 48, 55, 53, 50, 56, 55, 50, 57, 48, 56, 54, 55, 55, 57, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 0, 52, 54, 0, 48, 0, 45, 49, 48, 46, 56, 54, 56, 57, 51, 51, 49, 48, 54, 48, 57, 52, 54, 0, 48, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 1434dcee
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 49, 48, 51, 54, 50, 57, 52, 57, 56, 48, 56, 51, 57, 0, 45, 48, 46, 48, 48, 54, 53, 52, 52, 51, 56, 50, 49, 55, 55, 48, 56, 51, 57, 55, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 56, 46, 55, 55, 52, 55, 57, 56, 57, 50, 55, 54, 49, 51, 57, 50, 0, 45, 48, 46, 48, 49, 51, 48, 56, 56, 55, 54, 52, 51, 53, 52, 49, 54, 55, 57, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 14a26eca
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 45, 48, 46, 49, 53, 57, 51, 54, 48, 49, 50, 50, 51, 56, 53, 57, 50, 52, 0, 49, 57, 46, 57, 52, 49, 53, 52, 50, 49, 53, 55, 56, 50, 49, 56, 0, 48, 46, 48, 51, 50, 52, 56, 56, 53, 52, 50, 55, 52, 55, 53, 50, 55, 54, 0, 45, 51, 46, 51, 48, 53, 52, 50, 52, 49, 48, 52, 55, 48, 56, 53, 54, 0, 50, 46, 55, 55, 53, 53, 53, 55, 53, 54, 49, 53, 54, 50, 56, 57, 69, 45, 49, 55, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 48, 46, 48, 56, 53, 56, 51, 57, 48, 55, 50, 50, 55, 49, 57, 52, 55, 49, 0, 57, 46, 57, 50, 49, 51, 52, 53, 53, 49, 48, 54, 57, 54, 55, 49, 0, 48, 46, 48, 57, 54, 49, 56, 52, 49, 53, 50, 50, 49, 52, 52, 55, 54, 56, 0, 45, 49, 50, 46, 50, 55, 52, 56, 52, 52, 48, 53, 50, 57, 52, 57, 50, 0, 45, 48, 46, 49, 49, 53, 51, 48, 49, 49, 48, 56, 57, 54, 57, 57, 55, 57, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 51, 57, 57, 48, 50, 52, 54, 52, 50, 48, 51, 51, 57, 48, 56, 0, 49, 54, 46, 49, 55, 51, 51, 57, 51, 56, 49, 50, 53, 55, 51, 54, 0, 45, 48, 46, 48, 54, 54, 51, 49, 52, 53, 53, 49, 50, 50, 51, 49, 56, 57, 50, 0, 45, 56, 46, 55, 55, 50, 53, 57, 53, 56, 50, 54, 57, 55, 48, 55, 50, 0, 45, 48, 46, 48, 56, 55, 54, 57, 55, 48, 57, 49, 53, 48, 55, 55, 51, 50, 57, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 14d3dad6
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 16a2e8a1
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 1a9d54ed
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 51, 46, 57, 57, 56, 48, 48, 50, 56, 48, 49, 56, 54, 56, 54, 57, 0, 49, 56, 46, 55, 53, 50, 49, 55, 53, 50, 56, 56, 54, 48, 57, 54, 0, 45, 48, 46, 49, 50, 50, 56, 56, 56, 54, 49, 57, 54, 50, 49, 55, 53, 56, 0, 45, 53, 46, 56, 53, 52, 50, 49, 53, 49, 51, 49, 54, 48, 51, 55, 0, 48, 46, 49, 56, 48, 52, 54, 50, 48, 53, 48, 57, 49, 48, 55, 50, 49, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 50, 46, 53, 57, 56, 52, 50, 56, 51, 54, 55, 54, 54, 54, 49, 55, 0, 49, 48, 46, 48, 48, 52, 51, 51, 48, 57, 52, 49, 51, 56, 53, 57, 0, 45, 48, 46, 53, 52, 48, 48, 48, 57, 52, 49, 48, 48, 52, 57, 56, 56, 50, 0, 45, 49, 50, 46, 48, 53, 49, 53, 51, 52, 55, 50, 50, 51, 54, 57, 53, 0, 48, 46, 55, 52, 54, 52, 49, 48, 48, 52, 56, 54, 49, 48, 48, 53, 56, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 49, 46, 48, 53, 54, 56, 49, 56, 0, 49, 53, 46, 54, 56, 56, 50, 57, 55, 54, 56, 51, 52, 49, 56, 54, 0, 45, 48, 46, 50, 57, 54, 55, 55, 48, 53, 52, 50, 54, 51, 55, 54, 51, 50, 0, 45, 52, 46, 57, 53, 49, 57, 54, 50, 57, 57, 55, 53, 54, 50, 48, 54, 0, 48, 46, 52, 48, 57, 53, 50, 56, 50, 51, 51, 51, 48, 53, 57, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 1d161c6f
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: 0, 0, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 0,96, 0,96
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+Float32 SizeXY: 1300, 976
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: KTID 1ac4ca3a
+UInt32 BlendTexture1NameHash: KTID cca53ddc
+UInt32 BlendTexture2NameHash: KTID cca53ddc
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000003
+UInt32 BlendTexture1BlendModeOfAlpha: KTID 00000001
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000003
+UInt32 BlendTexture2BlendModeOfAlpha: KTID 00000001
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000001
+UInt32 AlphaBlendDstFuncAlpha: NULL
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: KTID 853e36ad
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: KTID fe115279, KTID 7a3d722e, KTID 9b68c669, KTID d53e3da8
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: KTID 91a53ae3, KTID 0dd15a98, KTID 2efcaed3, KTID 68d22612
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: KTID c3a8b04e, KTID f756db0f
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: KTID 95f56bb0, KTID c9a39671
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: KTID 13705c4f
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: KTID acb0754f, KTID e05ea010
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: KTID 7efd30b1, KTID b2ab5b72
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: NULL
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 7fcda224
+Float32 LocalPosition: 0, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: KTID 072b85c8, KTID 4cccc867, KTID 926e0b06
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,45454547
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 212569a8
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 48, 0, 45, 48, 46, 49, 49, 55, 51, 53, 49, 57, 49, 53, 54, 54, 50, 55, 50, 54, 0, 53, 0, 48, 0, 45, 53, 0, 48, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 48, 0, 51, 48, 0, 48, 0, 45, 51, 48, 0, 48, 0, 49, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 258d74ef
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 2637fc24
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 2efcaed3
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 48, 51, 54, 54, 48, 53, 51, 54, 57, 51, 57, 55, 54, 0, 48, 46, 48, 49, 51, 48, 56, 56, 55, 54, 52, 51, 53, 52, 49, 54, 55, 57, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 49, 0, 48, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 31585e8c
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 46, 51, 57, 57, 50, 57, 49, 54, 56, 50, 52, 55, 57, 57, 57, 0, 49, 56, 46, 51, 53, 49, 56, 51, 55, 55, 49, 48, 57, 57, 52, 50, 0, 45, 48, 46, 48, 54, 56, 55, 57, 49, 55, 48, 56, 52, 53, 52, 56, 56, 51, 49, 0, 45, 53, 46, 56, 53, 52, 50, 53, 49, 55, 54, 56, 52, 56, 55, 56, 54, 0, 45, 48, 46, 48, 50, 54, 48, 55, 55, 57, 52, 49, 53, 49, 51, 51, 54, 55, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 48, 46, 51, 54, 52, 54, 53, 49, 55, 55, 55, 48, 52, 56, 55, 56, 51, 0, 49, 48, 46, 57, 55, 56, 56, 56, 49, 48, 51, 57, 50, 56, 48, 53, 0, 48, 0, 45, 50, 48, 46, 56, 53, 51, 49, 50, 52, 55, 49, 48, 51, 51, 54, 57, 0, 48, 46, 48, 50, 51, 49, 51, 50, 50, 53, 55, 55, 55, 49, 53, 56, 53, 57, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 51, 53, 56, 50, 55, 56, 51, 54, 55, 51, 49, 48, 55, 51, 51, 0, 49, 53, 46, 55, 56, 51, 51, 48, 53, 48, 50, 51, 48, 55, 50, 50, 0, 45, 48, 46, 49, 52, 51, 50, 49, 51, 55, 56, 51, 55, 52, 57, 48, 57, 54, 0, 45, 55, 46, 48, 57, 57, 57, 56, 50, 52, 56, 55, 52, 48, 51, 49, 49, 0, 45, 48, 46, 48, 48, 48, 55, 56, 55, 52, 57, 55, 57, 56, 55, 57, 54, 50, 50, 51, 56, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 36f8c10b
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 3bb87f8e
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 51, 46, 56, 51, 49, 52, 51, 51, 56, 55, 53, 53, 56, 55, 50, 51, 0, 50, 52, 0, 45, 48, 46, 51, 48, 50, 53, 57, 49, 50, 52, 55, 57, 50, 52, 48, 53, 52, 0, 45, 50, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 50, 46, 54, 52, 55, 50, 57, 55, 53, 48, 52, 49, 53, 49, 56, 57, 0, 49, 53, 46, 50, 54, 57, 54, 50, 51, 55, 57, 55, 57, 55, 55, 55, 0, 45, 48, 46, 55, 57, 57, 49, 55, 49, 57, 52, 52, 49, 52, 57, 49, 55, 0, 45, 49, 54, 46, 49, 57, 49, 54, 48, 48, 53, 52, 48, 54, 55, 54, 52, 0, 48, 46, 55, 55, 52, 49, 52, 49, 50, 51, 55, 48, 55, 50, 53, 49, 49, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 57, 56, 50, 51, 57, 51, 51, 56, 56, 48, 51, 57, 49, 52, 0, 49, 50, 46, 50, 48, 50, 50, 57, 55, 52, 55, 53, 53, 56, 51, 54, 0, 45, 48, 46, 49, 57, 48, 51, 57, 48, 54, 56, 49, 54, 54, 55, 49, 50, 0, 45, 49, 46, 54, 56, 57, 57, 54, 48, 49, 51, 49, 55, 53, 53, 49, 56, 0, 48, 46, 48, 54, 48, 57, 56, 52, 49, 53, 54, 56, 50, 48, 50, 52, 55, 50, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 4119f973
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: 0, 0, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 0,96, 0,96
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+Float32 SizeXY: 1300, 976
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: KTID 1ac4ca3a
+UInt32 BlendTexture1NameHash: KTID cca53ddc
+UInt32 BlendTexture2NameHash: KTID cca53ddc
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000003
+UInt32 BlendTexture1BlendModeOfAlpha: KTID 00000001
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000003
+UInt32 BlendTexture2BlendModeOfAlpha: KTID 00000001
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000001
+UInt32 AlphaBlendDstFuncAlpha: NULL
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: KTID d637f529
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: KTID 4f0b10f5, KTID cb3730aa, KTID ec6284e5, KTID 2637fc24
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: KTID e29ef95f, KTID 5ecb1914, KTID 7ff66d4f, KTID b9cbe48e
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: KTID 14a26eca, KTID 4850998b
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: KTID e6ef2a2c, KTID 1a9d54ed
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: KTID 646a1acb
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: KTID fdaa33cb, KTID 31585e8c
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: KTID cff6ef2d, KTID 03a519ee
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: NULL
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 7fcda224
+Float32 LocalPosition: 0, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: KTID 70ef6a44, KTID b690ace3, KTID fc31ef82
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,45454547
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 41f9858a
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 52, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 0, 55, 46, 49, 48, 50, 53, 52, 49, 49, 50, 55, 56, 54, 56, 54, 50, 0, 48, 46, 49, 49, 56, 51, 55, 53, 54, 56, 53, 52, 54, 52, 52, 55, 55, 0, 45, 52, 51, 46, 55, 50, 51, 56, 56, 49, 56, 57, 52, 49, 53, 49, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 50, 57, 0, 48, 46, 53, 56, 55, 49, 49, 50, 56, 54, 50, 53, 57, 50, 48, 50, 57, 0, 56, 46, 54, 53, 57, 48, 53, 54, 53, 57, 52, 54, 50, 53, 54, 49, 0, 48, 46, 50, 50, 57, 48, 54, 50, 50, 54, 51, 56, 52, 52, 51, 48, 50, 0, 45, 56, 46, 48, 55, 49, 51, 51, 49, 54, 48, 56, 49, 49, 55, 50, 51, 0, 45, 48, 46, 50, 49, 51, 53, 49, 52, 56, 56, 55, 48, 48, 55, 53, 52, 51, 0, 49, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 49, 0, 49, 54, 46, 50, 48, 54, 52, 52, 50, 53, 54, 53, 57, 54, 50, 50, 0, 45, 48, 46, 49, 57, 57, 57, 50, 54, 52, 56, 52, 57, 57, 57, 57, 54, 53, 0, 45, 50, 50, 46, 57, 52, 54, 56, 54, 55, 55, 51, 55, 54, 48, 53, 0, 48, 0, 49, 0, 50, 0, 10, 0, 48, 0, 49, 55, 52, 0, 48, 0, 49, 0, 48, 0, 45, 48, 46, 48, 56, 54, 51, 52, 57, 52, 48, 50, 55, 57, 55, 52, 50, 50, 56, 0, 48, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 4850998b
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 46, 51, 50, 49, 51, 49, 48, 53, 57, 57, 54, 53, 54, 56, 56, 55, 0, 49, 57, 46, 53, 57, 54, 52, 57, 56, 49, 52, 55, 49, 55, 56, 50, 0, 45, 48, 46, 48, 52, 53, 48, 54, 52, 56, 53, 57, 49, 48, 48, 49, 57, 53, 55, 0, 45, 51, 46, 51, 48, 53, 52, 50, 52, 49, 48, 52, 55, 48, 56, 53, 54, 0, 50, 46, 55, 55, 53, 53, 53, 55, 53, 54, 49, 53, 54, 50, 56, 57, 69, 45, 49, 55, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 48, 46, 50, 56, 49, 49, 48, 51, 52, 56, 54, 50, 49, 48, 50, 48, 56, 0, 49, 49, 46, 51, 49, 51, 51, 51, 48, 55, 49, 50, 50, 54, 53, 49, 0, 48, 0, 45, 49, 57, 46, 49, 48, 49, 53, 50, 50, 53, 57, 49, 54, 55, 49, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 51, 56, 48, 48, 53, 53, 50, 0, 49, 54, 46, 49, 55, 51, 51, 57, 51, 56, 49, 50, 53, 55, 51, 54, 0, 45, 48, 46, 49, 49, 51, 57, 55, 56, 49, 51, 52, 57, 49, 52, 56, 53, 55, 0, 45, 49, 48, 46, 49, 48, 56, 53, 53, 56, 55, 51, 49, 55, 48, 56, 54, 0, 45, 48, 46, 48, 52, 51, 50, 56, 57, 48, 49, 57, 57, 55, 51, 54, 51, 52, 56, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 4b84dadf
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 4cccc867
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 4e0a542d
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 4e6089c0
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 49, 48, 51, 54, 50, 57, 52, 57, 56, 48, 56, 51, 57, 0, 45, 51, 46, 52, 54, 57, 52, 52, 54, 57, 53, 49, 57, 53, 51, 54, 49, 69, 45, 49, 56, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 49, 0, 48, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 4f0b10f5
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 46, 54, 0, 49, 50, 46, 57, 52, 49, 51, 49, 54, 57, 57, 49, 54, 52, 51, 52, 0, 48, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 50, 0, 48, 0, 49, 0, 48, 0, 45, 48, 46, 49, 51, 52, 54, 55, 55, 52, 55, 48, 53, 49, 52, 57, 48, 50, 0, 48, 46, 48, 50, 56, 57, 51, 48, 52, 52, 52, 54, 49, 54, 52, 49, 55, 52, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 52b0ba8d
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 51, 46, 56, 51, 49, 52, 51, 51, 56, 55, 53, 53, 56, 55, 50, 51, 0, 50, 52, 0, 45, 48, 46, 51, 48, 50, 53, 57, 49, 50, 52, 55, 57, 50, 52, 48, 53, 52, 0, 45, 50, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 50, 46, 54, 52, 55, 50, 57, 55, 53, 48, 52, 49, 53, 49, 56, 57, 0, 49, 53, 46, 50, 55, 53, 48, 57, 54, 57, 54, 48, 49, 53, 52, 0, 45, 48, 46, 55, 57, 56, 50, 50, 53, 57, 55, 55, 56, 49, 56, 57, 55, 56, 0, 45, 49, 54, 46, 49, 57, 50, 57, 56, 50, 48, 55, 56, 52, 52, 50, 57, 0, 48, 46, 55, 55, 50, 57, 56, 48, 54, 54, 49, 48, 55, 50, 56, 53, 53, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 57, 56, 50, 51, 57, 51, 51, 56, 56, 48, 51, 57, 49, 52, 0, 49, 52, 46, 53, 56, 50, 52, 57, 56, 49, 54, 57, 53, 56, 54, 50, 0, 45, 48, 46, 50, 50, 48, 51, 56, 54, 53, 50, 53, 50, 49, 48, 52, 55, 50, 0, 45, 49, 46, 54, 56, 48, 50, 57, 49, 52, 55, 50, 52, 56, 51, 53, 53, 0, 48, 46, 48, 54, 53, 52, 48, 50, 50, 50, 49, 51, 55, 49, 57, 56, 55, 56, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 567e7125
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 57ffbf20
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: 0, 0, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+Float32 SizeXY: 1920, 1080
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: KTID 1ac4ca3a
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: KTID c0994cdc
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: NULL
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: NULL
+Float32 LocalPosition: 0, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: KTID ccd47c77, KTID 14d3dad6, KTID 5cd33935
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,45454544
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 58241546
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 5cd33935
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 5ecb1914
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 48, 51, 54, 54, 48, 53, 51, 54, 57, 51, 57, 55, 54, 0, 45, 51, 46, 52, 54, 57, 52, 52, 54, 57, 53, 49, 57, 53, 51, 54, 49, 69, 45, 49, 56, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 49, 0, 48, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 5f75a049
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 64355ecc
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 51, 46, 54, 52, 53, 48, 48, 48, 54, 56, 57, 49, 56, 54, 56, 51, 0, 49, 57, 46, 51, 57, 52, 50, 53, 54, 54, 48, 52, 52, 53, 54, 53, 0, 45, 48, 46, 49, 55, 57, 55, 48, 56, 50, 48, 54, 52, 56, 51, 52, 57, 54, 0, 45, 53, 46, 57, 54, 57, 54, 54, 54, 56, 52, 50, 52, 48, 48, 57, 0, 48, 46, 49, 55, 56, 54, 53, 53, 57, 50, 51, 55, 52, 51, 50, 54, 50, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 50, 46, 54, 51, 50, 49, 53, 57, 54, 51, 50, 48, 56, 56, 52, 53, 0, 49, 51, 46, 56, 49, 51, 55, 51, 51, 57, 56, 50, 57, 53, 56, 50, 0, 45, 48, 46, 52, 57, 55, 50, 57, 49, 52, 57, 50, 57, 49, 49, 49, 50, 56, 0, 45, 49, 53, 46, 56, 57, 52, 57, 51, 48, 52, 50, 55, 49, 51, 56, 0, 48, 46, 53, 49, 51, 51, 52, 49, 51, 48, 49, 52, 55, 54, 55, 51, 57, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 49, 46, 50, 52, 53, 49, 57, 50, 0, 49, 53, 46, 56, 54, 52, 50, 57, 55, 50, 53, 51, 54, 52, 54, 49, 0, 45, 48, 46, 52, 48, 56, 53, 54, 50, 57, 48, 49, 54, 50, 48, 52, 51, 49, 0, 45, 53, 46, 49, 56, 52, 52, 51, 51, 57, 56, 54, 52, 53, 50, 48, 51, 0, 48, 46, 52, 51, 48, 54, 53, 48, 52, 56, 51, 57, 48, 55, 52, 50, 54, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 646a1acb
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 52, 48, 0, 48, 0, 49, 54, 0, 48, 0, 45, 49, 54, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 0, 49, 0, 48, 0, 45, 49, 0, 48, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 68d22612
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 696bc42c
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 46, 49, 48, 48, 48, 48, 49, 57, 48, 53, 49, 49, 49, 48, 49, 54, 0, 49, 56, 46, 54, 48, 51, 49, 49, 55, 51, 48, 52, 48, 53, 54, 54, 0, 48, 0, 45, 53, 46, 56, 53, 52, 50, 53, 49, 55, 54, 56, 52, 56, 55, 56, 54, 0, 48, 46, 48, 53, 51, 48, 50, 51, 54, 53, 57, 53, 49, 48, 48, 52, 55, 50, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 48, 46, 48, 56, 57, 56, 53, 55, 56, 49, 53, 49, 55, 53, 52, 53, 51, 55, 0, 49, 51, 46, 57, 48, 48, 49, 51, 53, 57, 56, 56, 50, 57, 50, 56, 0, 48, 0, 45, 50, 48, 46, 49, 52, 57, 50, 48, 51, 53, 51, 48, 50, 54, 48, 49, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 48, 55, 57, 55, 50, 57, 52, 48, 53, 51, 49, 49, 51, 56, 54, 51, 0, 49, 52, 46, 56, 57, 48, 49, 51, 48, 53, 50, 57, 55, 48, 53, 57, 0, 45, 48, 46, 48, 53, 49, 56, 57, 50, 52, 49, 52, 57, 56, 49, 49, 56, 50, 51, 0, 45, 49, 51, 46, 52, 56, 50, 57, 48, 50, 54, 53, 50, 52, 49, 52, 50, 0, 48, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 6a7664c8
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 52, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 0, 54, 46, 49, 56, 50, 49, 56, 52, 50, 50, 50, 54, 51, 50, 55, 51, 0, 48, 46, 49, 48, 51, 48, 51, 54, 52, 48, 51, 55, 49, 48, 53, 52, 53, 0, 45, 51, 51, 46, 57, 57, 50, 52, 48, 50, 48, 48, 53, 53, 55, 49, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 50, 57, 0, 48, 46, 53, 56, 55, 49, 49, 50, 56, 54, 50, 53, 57, 50, 48, 50, 57, 0, 49, 48, 46, 53, 53, 57, 56, 55, 57, 50, 50, 50, 56, 50, 57, 53, 0, 48, 46, 50, 54, 49, 49, 53, 50, 53, 49, 50, 56, 57, 48, 52, 53, 49, 0, 45, 55, 46, 54, 52, 52, 51, 50, 50, 51, 55, 56, 55, 57, 50, 54, 52, 0, 45, 48, 46, 49, 56, 57, 48, 52, 56, 57, 52, 50, 51, 54, 51, 56, 57, 54, 0, 49, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 49, 0, 49, 54, 46, 50, 48, 54, 52, 52, 50, 53, 54, 53, 57, 54, 50, 50, 0, 45, 48, 46, 49, 57, 57, 57, 50, 54, 52, 56, 52, 57, 57, 57, 57, 54, 53, 0, 45, 50, 48, 46, 48, 55, 51, 53, 48, 50, 49, 52, 53, 56, 56, 51, 54, 0, 48, 0, 49, 0, 50, 0, 10, 0, 48, 0, 49, 55, 52, 0, 48, 0, 49, 0, 48, 0, 45, 48, 46, 48, 56, 54, 51, 52, 57, 52, 48, 50, 55, 57, 55, 52, 50, 50, 56, 0, 48, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 6f66aa4f
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 51, 46, 56, 51, 49, 52, 51, 51, 56, 55, 53, 53, 56, 55, 50, 51, 0, 50, 52, 0, 45, 48, 46, 51, 48, 50, 53, 57, 49, 50, 52, 55, 57, 50, 52, 48, 53, 52, 0, 45, 50, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 50, 46, 54, 52, 55, 50, 57, 55, 53, 48, 52, 49, 53, 49, 56, 57, 0, 49, 53, 46, 50, 54, 57, 54, 50, 51, 55, 57, 55, 57, 55, 55, 55, 0, 45, 48, 46, 55, 57, 57, 49, 55, 49, 57, 52, 52, 49, 52, 57, 49, 55, 0, 45, 49, 54, 46, 49, 57, 49, 54, 48, 48, 53, 52, 48, 54, 55, 54, 52, 0, 48, 46, 55, 55, 52, 49, 52, 49, 50, 51, 55, 48, 55, 50, 53, 49, 49, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 57, 56, 50, 51, 57, 51, 51, 56, 56, 48, 51, 57, 49, 52, 0, 49, 50, 46, 50, 48, 50, 50, 57, 55, 52, 55, 53, 53, 56, 51, 54, 0, 45, 48, 46, 49, 57, 48, 51, 57, 48, 54, 56, 49, 54, 54, 55, 49, 50, 0, 45, 49, 46, 54, 56, 57, 57, 54, 48, 49, 51, 49, 55, 53, 53, 49, 56, 0, 48, 46, 48, 54, 48, 57, 56, 52, 49, 53, 54, 56, 50, 48, 50, 52, 55, 50, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 70ef6a44
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 76dd68fe
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 49, 48, 51, 54, 50, 57, 52, 57, 56, 48, 56, 51, 57, 0, 45, 48, 46, 48, 48, 54, 53, 52, 52, 51, 56, 50, 49, 55, 55, 48, 56, 51, 57, 55, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 56, 46, 55, 55, 52, 55, 57, 56, 57, 50, 55, 54, 49, 51, 57, 50, 0, 45, 48, 46, 48, 49, 51, 48, 56, 56, 55, 54, 52, 51, 53, 52, 49, 54, 55, 57, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 78190232
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: 0, 0, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 0,96, 0,96
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+Float32 SizeXY: 1300, 976
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: KTID 1ac4ca3a
+UInt32 BlendTexture1NameHash: KTID cca53ddc
+UInt32 BlendTexture2NameHash: KTID cca53ddc
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000003
+UInt32 BlendTexture1BlendModeOfAlpha: KTID 00000001
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000003
+UInt32 BlendTexture2BlendModeOfAlpha: KTID 00000001
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000001
+UInt32 AlphaBlendDstFuncAlpha: NULL
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: KTID 41f9858a
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: KTID bacca156, KTID 36f8c10b, KTID 58241546, KTID 91f98c85
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: KTID 4e6089c0, KTID ca8ca975, KTID ebb7fdb0, KTID 258d74ef
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: KTID 8063ff2b, KTID b41229ec
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: KTID 52b0ba8d, KTID 865ee54e
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: KTID 696bc42c, KTID 9d19eeed
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: KTID 3bb87f8e, KTID 6f66aa4f
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: NULL
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 7fcda224
+Float32 LocalPosition: 0, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: KTID 567e7125, KTID 9c1fb3c4, KTID e1c0f663
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,45454547
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 7a3d722e
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 7b2d99cb
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 51, 46, 49, 53, 54, 53, 53, 50, 54, 57, 56, 50, 56, 49, 53, 0, 49, 57, 46, 56, 49, 49, 57, 55, 55, 51, 55, 56, 50, 55, 50, 53, 0, 45, 48, 46, 49, 56, 53, 52, 49, 50, 48, 53, 56, 50, 49, 54, 57, 57, 0, 45, 53, 46, 56, 53, 52, 50, 49, 53, 49, 51, 49, 54, 48, 51, 55, 0, 48, 46, 50, 49, 56, 53, 51, 54, 51, 56, 57, 52, 56, 55, 51, 54, 57, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 50, 46, 50, 49, 54, 51, 54, 55, 48, 55, 54, 50, 48, 52, 0, 49, 51, 46, 53, 55, 54, 55, 49, 51, 51, 48, 53, 49, 57, 48, 55, 0, 45, 48, 46, 52, 51, 49, 57, 55, 56, 57, 48, 54, 50, 55, 51, 57, 55, 52, 0, 45, 49, 54, 46, 52, 56, 51, 56, 51, 50, 55, 57, 50, 56, 56, 51, 56, 0, 48, 46, 53, 52, 55, 51, 53, 56, 55, 50, 52, 51, 49, 55, 57, 49, 49, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 56, 48, 57, 56, 56, 51, 52, 0, 49, 53, 46, 54, 56, 56, 50, 57, 55, 54, 56, 51, 52, 49, 56, 54, 0, 45, 48, 46, 51, 56, 51, 55, 50, 53, 54, 52, 50, 51, 49, 53, 52, 49, 54, 0, 45, 52, 46, 48, 55, 49, 50, 50, 48, 52, 54, 49, 53, 51, 50, 51, 52, 0, 48, 46, 52, 52, 52, 52, 51, 55, 52, 56, 54, 55, 52, 57, 57, 48, 55, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 7efd30b1
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 50, 46, 50, 49, 54, 52, 48, 50, 50, 51, 49, 49, 52, 54, 50, 56, 0, 57, 46, 56, 54, 54, 57, 54, 50, 49, 48, 51, 57, 53, 52, 49, 52, 0, 45, 48, 46, 48, 48, 54, 49, 52, 55, 51, 55, 55, 54, 56, 48, 50, 48, 49, 52, 54, 0, 45, 53, 46, 57, 54, 57, 54, 54, 54, 56, 52, 50, 52, 48, 48, 57, 0, 48, 46, 49, 55, 56, 54, 53, 53, 57, 50, 51, 55, 52, 51, 50, 54, 50, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 49, 46, 55, 52, 53, 54, 52, 57, 52, 56, 55, 51, 53, 51, 52, 57, 0, 49, 51, 46, 51, 48, 48, 56, 49, 51, 52, 50, 55, 53, 53, 49, 50, 0, 45, 48, 46, 50, 50, 53, 51, 52, 49, 56, 55, 57, 48, 54, 51, 48, 49, 52, 0, 45, 49, 54, 46, 55, 57, 48, 54, 56, 55, 55, 49, 53, 49, 50, 51, 51, 0, 48, 46, 50, 56, 49, 53, 48, 52, 53, 53, 54, 56, 54, 57, 52, 56, 55, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 57, 49, 49, 56, 53, 50, 52, 57, 52, 52, 49, 57, 49, 55, 0, 49, 53, 46, 49, 52, 56, 57, 57, 51, 48, 50, 53, 53, 54, 56, 56, 0, 45, 48, 46, 49, 56, 51, 55, 48, 51, 51, 49, 54, 54, 51, 52, 57, 56, 53, 0, 45, 55, 46, 51, 48, 56, 52, 56, 50, 55, 52, 55, 50, 48, 55, 50, 49, 0, 48, 46, 50, 55, 48, 49, 50, 52, 57, 55, 50, 50, 53, 50, 53, 55, 52, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 7fcda224
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: 0, 0, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 0,96, 0,96
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 50, 50
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: NULL
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID b2234063
+Float32 LocalPosition: 0, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 0,96, 0,96
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 7ff66d4f
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 48, 51, 54, 54, 48, 53, 51, 54, 57, 51, 57, 55, 54, 0, 45, 51, 46, 52, 54, 57, 52, 52, 54, 57, 53, 49, 57, 53, 51, 54, 49, 69, 45, 49, 56, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 49, 0, 48, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 8063ff2b
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 46, 49, 53, 53, 54, 48, 51, 57, 56, 51, 53, 54, 51, 56, 51, 55, 0, 49, 52, 46, 52, 54, 54, 57, 55, 56, 53, 49, 51, 52, 51, 50, 53, 0, 48, 0, 45, 54, 46, 48, 48, 48, 56, 52, 54, 52, 55, 52, 52, 50, 57, 51, 56, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 48, 46, 49, 57, 56, 55, 52, 56, 57, 49, 57, 48, 56, 51, 57, 54, 0, 49, 49, 46, 51, 51, 57, 54, 55, 56, 53, 49, 57, 52, 48, 54, 52, 0, 48, 46, 48, 48, 49, 49, 56, 52, 50, 52, 53, 50, 54, 55, 57, 52, 52, 50, 0, 45, 49, 52, 46, 57, 48, 54, 54, 54, 49, 52, 48, 50, 56, 50, 53, 53, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 50, 52, 49, 51, 53, 57, 56, 53, 50, 55, 57, 49, 48, 49, 53, 0, 49, 49, 46, 55, 57, 55, 49, 49, 51, 50, 53, 49, 48, 50, 57, 55, 0, 48, 0, 45, 57, 46, 52, 49, 54, 57, 56, 49, 50, 55, 49, 48, 54, 49, 48, 53, 0, 48, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 80a0f484
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 853e36ad
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 52, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 0, 56, 46, 49, 55, 52, 49, 48, 52, 55, 57, 52, 55, 49, 51, 51, 0, 48, 0, 45, 51, 48, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 50, 57, 0, 48, 46, 53, 56, 55, 49, 49, 50, 56, 54, 50, 53, 57, 50, 48, 50, 57, 0, 55, 46, 54, 55, 49, 52, 48, 49, 49, 55, 54, 48, 49, 53, 51, 49, 0, 48, 46, 50, 49, 51, 57, 52, 57, 50, 52, 48, 50, 49, 54, 49, 51, 54, 0, 45, 57, 46, 57, 53, 53, 54, 50, 53, 53, 57, 51, 52, 50, 57, 54, 54, 0, 45, 48, 46, 50, 55, 55, 54, 53, 52, 52, 51, 49, 52, 48, 50, 57, 54, 56, 0, 49, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 49, 0, 49, 54, 46, 50, 48, 54, 52, 52, 50, 53, 54, 53, 57, 54, 50, 50, 0, 45, 48, 46, 49, 57, 57, 57, 50, 54, 52, 56, 52, 57, 57, 57, 57, 54, 53, 0, 45, 50, 51, 46, 56, 53, 54, 52, 50, 49, 56, 53, 48, 54, 49, 51, 0, 48, 0, 49, 0, 50, 0, 10, 0, 48, 0, 49, 55, 52, 0, 48, 0, 49, 0, 48, 0, 45, 48, 46, 48, 56, 54, 51, 52, 57, 52, 48, 50, 55, 57, 55, 52, 50, 50, 56, 0, 48, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 865ee54e
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 51, 46, 56, 51, 49, 52, 51, 51, 56, 55, 53, 53, 56, 55, 50, 51, 0, 50, 52, 0, 45, 48, 46, 51, 48, 50, 53, 57, 49, 50, 52, 55, 57, 50, 52, 48, 53, 52, 0, 45, 50, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 50, 46, 54, 52, 55, 50, 57, 55, 53, 48, 52, 49, 53, 49, 56, 57, 0, 49, 53, 46, 50, 52, 55, 56, 55, 51, 48, 52, 56, 53, 50, 53, 49, 0, 45, 48, 46, 55, 57, 56, 55, 50, 53, 53, 52, 48, 52, 51, 56, 48, 50, 53, 0, 45, 49, 54, 46, 49, 56, 54, 49, 48, 48, 48, 53, 48, 50, 49, 57, 52, 0, 48, 46, 55, 55, 52, 50, 49, 54, 52, 48, 53, 50, 50, 53, 57, 50, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 57, 56, 50, 51, 57, 51, 51, 56, 56, 48, 51, 57, 49, 52, 0, 49, 52, 46, 53, 56, 50, 52, 57, 56, 49, 54, 57, 53, 56, 54, 50, 0, 45, 48, 46, 50, 50, 48, 51, 56, 54, 53, 50, 53, 50, 49, 48, 52, 55, 50, 0, 45, 49, 46, 55, 50, 56, 51, 55, 50, 54, 49, 51, 48, 55, 49, 54, 51, 0, 48, 46, 48, 54, 49, 55, 49, 52, 49, 52, 51, 52, 48, 57, 56, 49, 49, 49, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 8b606363
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 8cb23e0a
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 48, 0, 51, 46, 54, 52, 53, 48, 48, 48, 54, 56, 57, 49, 56, 54, 56, 51, 0, 49, 56, 46, 49, 54, 57, 57, 55, 48, 53, 55, 51, 51, 56, 55, 57, 0, 45, 48, 46, 53, 52, 51, 55, 55, 55, 56, 57, 54, 51, 48, 48, 54, 53, 51, 0, 45, 53, 46, 57, 54, 57, 54, 54, 54, 56, 52, 50, 52, 48, 48, 57, 0, 48, 46, 49, 55, 56, 54, 53, 53, 57, 50, 51, 55, 52, 51, 50, 54, 50, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 48, 46, 53, 49, 52, 56, 49, 53, 54, 49, 56, 48, 50, 51, 57, 54, 51, 0, 51, 48, 0, 48, 0, 45, 52, 46, 56, 50, 51, 56, 51, 50, 56, 53, 51, 48, 52, 48, 56, 51, 0, 48, 46, 48, 52, 48, 49, 57, 56, 54, 48, 55, 49, 48, 56, 54, 55, 51, 54, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 91a53ae3
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 48, 51, 54, 54, 48, 53, 51, 54, 57, 51, 57, 55, 54, 0, 48, 46, 48, 49, 51, 48, 56, 56, 55, 54, 52, 51, 53, 52, 49, 54, 55, 57, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 49, 0, 48, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 91e8a36a
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 45, 48, 46, 53, 51, 51, 49, 51, 52, 56, 54, 55, 52, 56, 54, 51, 53, 54, 0, 49, 57, 46, 53, 50, 56, 51, 53, 54, 53, 51, 57, 57, 50, 48, 56, 0, 48, 46, 48, 49, 52, 48, 48, 54, 49, 57, 48, 50, 48, 55, 52, 48, 51, 53, 0, 45, 53, 46, 56, 53, 52, 50, 53, 49, 55, 54, 56, 52, 56, 55, 56, 54, 0, 45, 48, 46, 48, 57, 48, 53, 48, 56, 50, 48, 57, 55, 48, 56, 48, 55, 52, 51, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 45, 48, 46, 52, 54, 51, 54, 49, 53, 52, 51, 50, 52, 53, 55, 55, 49, 57, 0, 49, 49, 46, 50, 57, 55, 49, 50, 56, 54, 52, 48, 49, 52, 56, 49, 0, 48, 46, 48, 53, 55, 49, 50, 56, 52, 54, 50, 53, 55, 50, 50, 56, 48, 51, 0, 45, 49, 52, 46, 53, 56, 52, 49, 52, 54, 56, 57, 53, 55, 56, 51, 52, 0, 45, 48, 46, 48, 53, 52, 49, 49, 49, 50, 55, 52, 57, 54, 55, 48, 52, 51, 54, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 45, 48, 46, 51, 48, 54, 55, 48, 50, 53, 0, 49, 53, 46, 55, 56, 51, 51, 48, 53, 48, 50, 51, 48, 55, 50, 50, 0, 48, 46, 48, 56, 55, 51, 52, 52, 54, 55, 56, 52, 56, 54, 52, 49, 56, 55, 0, 45, 56, 46, 49, 56, 57, 52, 52, 53, 48, 48, 51, 57, 53, 54, 53, 54, 0, 45, 48, 46, 48, 51, 53, 50, 52, 48, 57, 57, 50, 57, 54, 55, 52, 55, 55, 52, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 91f98c85
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 926e0b06
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 92f34406
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 52, 50, 0, 48, 0, 49, 56, 46, 50, 55, 52, 52, 50, 55, 56, 57, 49, 51, 48, 51, 53, 0, 48, 0, 45, 51, 48, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 56, 0, 49, 0, 49, 0, 48, 0, 45, 48, 46, 50, 52, 57, 52, 53, 52, 56, 51, 50, 53, 57, 50, 53, 57, 55, 0, 48, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 95f56bb0
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 50, 46, 48, 50, 49, 56, 57, 52, 49, 54, 55, 54, 50, 54, 50, 51, 0, 49, 48, 46, 48, 57, 54, 54, 48, 51, 48, 53, 50, 49, 49, 49, 56, 0, 45, 48, 46, 48, 48, 52, 52, 52, 53, 53, 52, 54, 50, 55, 53, 55, 51, 52, 54, 0, 45, 53, 46, 56, 53, 52, 50, 49, 53, 49, 51, 49, 54, 48, 51, 55, 0, 48, 46, 50, 49, 56, 53, 51, 54, 51, 56, 57, 52, 56, 55, 51, 54, 57, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 49, 46, 50, 54, 55, 49, 52, 53, 54, 54, 55, 55, 54, 51, 52, 54, 0, 49, 51, 46, 53, 51, 49, 53, 54, 51, 48, 54, 52, 57, 51, 57, 49, 0, 45, 48, 46, 50, 50, 52, 57, 56, 57, 52, 57, 56, 54, 49, 56, 54, 55, 54, 0, 45, 49, 51, 46, 51, 55, 52, 53, 55, 50, 48, 51, 57, 52, 48, 54, 54, 0, 48, 46, 49, 54, 52, 56, 53, 49, 49, 57, 51, 51, 48, 51, 54, 55, 55, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 52, 55, 54, 53, 52, 51, 55, 52, 53, 51, 52, 57, 51, 48, 57, 0, 49, 52, 46, 53, 56, 50, 52, 57, 56, 49, 54, 57, 53, 56, 54, 50, 0, 45, 48, 46, 49, 52, 57, 50, 53, 57, 52, 48, 52, 57, 51, 55, 50, 50, 0, 45, 55, 46, 48, 51, 52, 48, 52, 52, 57, 52, 52, 54, 48, 49, 51, 53, 0, 48, 46, 50, 50, 50, 57, 57, 57, 49, 48, 51, 55, 55, 53, 54, 57, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 96209e08
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 52, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 51, 48, 48, 0, 48, 0, 53, 46, 49, 51, 51, 57, 54, 50, 56, 52, 55, 50, 48, 52, 51, 56, 0, 45, 48, 46, 50, 49, 49, 50, 54, 55, 53, 55, 56, 52, 50, 56, 48, 49, 49, 0, 45, 49, 0, 48, 0, 49, 0, 51, 0, 10, 0, 48, 0, 51, 49, 54, 0, 45, 49, 48, 0, 53, 46, 51, 51, 50, 51, 48, 54, 52, 56, 51, 48, 50, 57, 53, 56, 0, 48, 0, 45, 52, 46, 54, 56, 48, 57, 57, 51, 53, 52, 55, 52, 54, 51, 56, 54, 0, 48, 0, 50, 0, 50, 0, 10, 0, 48, 0, 51, 51, 48, 0, 45, 49, 48, 0, 54, 46, 54, 57, 55, 53, 57, 56, 57, 52, 48, 48, 51, 53, 55, 51, 0, 48, 46, 57, 55, 55, 54, 57, 56, 55, 49, 53, 50, 48, 49, 57, 48, 54, 0, 45, 55, 46, 57, 53, 53, 54, 51, 53, 55, 50, 51, 50, 54, 49, 55, 55, 0, 45, 49, 46, 49, 56, 55, 50, 48, 53, 53, 56, 50, 55, 52, 53, 49, 55, 0, 50, 0, 51, 0, 10, 0, 48, 0, 51, 53, 48, 0, 48, 0, 50, 48, 0, 48, 0, 45, 52, 46, 56, 48, 48, 50, 53, 54, 53, 49, 55, 57, 48, 53, 48, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID 97e3898d
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 51, 46, 54, 54, 56, 49, 48, 52, 55, 48, 55, 51, 55, 54, 49, 55, 0, 49, 57, 46, 52, 51, 50, 51, 49, 52, 57, 50, 53, 53, 51, 57, 53, 0, 45, 48, 46, 49, 56, 49, 49, 53, 55, 50, 50, 48, 52, 48, 51, 57, 53, 51, 0, 45, 53, 46, 57, 55, 52, 50, 51, 50, 49, 49, 48, 52, 51, 49, 53, 57, 0, 48, 46, 49, 55, 49, 51, 51, 53, 49, 48, 53, 48, 49, 51, 56, 57, 56, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 50, 46, 55, 50, 56, 48, 51, 53, 56, 49, 57, 55, 53, 50, 56, 54, 0, 49, 51, 46, 55, 57, 51, 54, 54, 54, 49, 56, 48, 53, 53, 0, 45, 48, 46, 52, 55, 51, 51, 49, 54, 57, 54, 48, 50, 52, 57, 49, 54, 57, 0, 45, 49, 53, 46, 56, 56, 49, 49, 49, 52, 48, 53, 56, 49, 48, 51, 51, 0, 48, 46, 52, 56, 49, 50, 57, 50, 56, 54, 57, 49, 56, 54, 55, 54, 57, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 49, 46, 51, 55, 52, 53, 55, 53, 0, 49, 53, 46, 54, 51, 53, 50, 50, 52, 54, 49, 52, 52, 49, 48, 52, 0, 45, 48, 46, 51, 56, 52, 54, 56, 54, 56, 49, 49, 57, 49, 50, 56, 56, 0, 45, 53, 46, 50, 49, 53, 57, 51, 54, 52, 52, 53, 55, 48, 48, 54, 55, 0, 48, 46, 52, 51, 57, 54, 50, 53, 52, 57, 48, 50, 48, 52, 55, 54, 57, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 9b68c669
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID 9c1cdf36
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: 0, 0, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 0,96, 0,96
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+Float32 SizeXY: 1300, 976
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: KTID 1ac4ca3a
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000001
+UInt32 AlphaBlendDstFuncAlpha: NULL
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: KTID 92f34406
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: NULL
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: KTID 7fcda224
+Float32 LocalPosition: 0, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: KTID c04255a1, KTID 05e39840, KTID 4b84dadf
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,45454547
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID 9c1fb3c4
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID 9d19eeed
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 45, 48, 46, 52, 49, 48, 48, 56, 54, 56, 53, 48, 53, 55, 55, 52, 48, 51, 0, 49, 49, 46, 49, 49, 54, 52, 48, 57, 48, 51, 56, 50, 52, 53, 57, 0, 48, 0, 45, 53, 46, 56, 53, 52, 50, 53, 49, 55, 54, 56, 52, 56, 55, 56, 54, 0, 45, 48, 46, 48, 53, 54, 49, 53, 51, 48, 50, 57, 52, 48, 50, 52, 55, 55, 54, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 45, 48, 46, 51, 56, 49, 52, 48, 48, 56, 48, 55, 51, 48, 54, 56, 57, 49, 0, 49, 48, 46, 57, 50, 51, 49, 50, 52, 57, 48, 53, 54, 52, 48, 53, 0, 48, 0, 45, 50, 48, 46, 49, 51, 48, 54, 57, 57, 51, 51, 50, 49, 54, 56, 55, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 45, 48, 46, 51, 54, 53, 48, 53, 52, 52, 51, 48, 56, 57, 52, 51, 49, 54, 0, 49, 52, 46, 56, 57, 48, 49, 51, 48, 53, 50, 57, 55, 48, 53, 57, 0, 48, 46, 48, 53, 52, 57, 53, 53, 48, 50, 48, 54, 54, 54, 55, 57, 55, 55, 0, 45, 49, 48, 46, 54, 57, 54, 55, 57, 53, 51, 49, 49, 51, 48, 55, 55, 0, 48, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID 9d85d327
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID a3aa7909
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 48, 0, 52, 46, 55, 55, 51, 56, 51, 51, 57, 55, 49, 53, 51, 52, 57, 54, 0, 49, 55, 46, 53, 48, 48, 48, 56, 57, 52, 50, 56, 49, 54, 53, 57, 0, 45, 48, 46, 54, 53, 51, 50, 55, 51, 57, 54, 57, 56, 52, 50, 57, 53, 56, 0, 45, 53, 46, 56, 53, 52, 50, 49, 53, 49, 51, 49, 54, 48, 51, 55, 0, 48, 46, 50, 49, 56, 53, 51, 54, 51, 56, 57, 52, 56, 55, 51, 54, 57, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 48, 46, 48, 57, 53, 54, 55, 57, 54, 56, 49, 54, 56, 54, 54, 51, 53, 50, 0, 49, 48, 0, 48, 0, 45, 55, 46, 52, 57, 51, 51, 48, 51, 53, 57, 51, 53, 49, 48, 52, 54, 0, 45, 48, 46, 51, 55, 52, 54, 54, 53, 49, 55, 57, 54, 55, 53, 53, 50, 51, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID a8e0de69
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 45, 48, 46, 54, 54, 54, 56, 52, 53, 51, 51, 55, 51, 52, 52, 48, 55, 55, 0, 49, 57, 46, 56, 48, 53, 52, 54, 52, 54, 48, 57, 54, 49, 49, 51, 0, 48, 46, 48, 49, 50, 56, 53, 55, 50, 53, 54, 50, 54, 57, 55, 57, 50, 50, 0, 45, 51, 46, 51, 48, 53, 52, 50, 52, 49, 48, 52, 55, 48, 56, 53, 54, 0, 45, 48, 46, 48, 48, 51, 49, 50, 57, 53, 52, 55, 49, 54, 53, 57, 55, 50, 49, 52, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 45, 48, 46, 53, 57, 48, 53, 48, 52, 48, 55, 50, 49, 57, 55, 51, 49, 0, 49, 53, 46, 49, 51, 52, 55, 52, 51, 57, 49, 53, 53, 53, 52, 0, 48, 46, 48, 54, 49, 50, 53, 54, 48, 48, 49, 49, 53, 54, 57, 54, 49, 55, 0, 45, 49, 56, 46, 54, 51, 56, 57, 48, 52, 55, 51, 50, 50, 54, 52, 52, 0, 45, 48, 46, 48, 53, 57, 48, 51, 55, 53, 49, 48, 54, 50, 48, 53, 53, 50, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 45, 48, 46, 51, 56, 56, 56, 57, 54, 51, 0, 49, 54, 46, 49, 55, 51, 51, 57, 51, 56, 49, 50, 53, 55, 51, 54, 0, 48, 46, 49, 48, 57, 48, 53, 57, 55, 50, 48, 57, 50, 53, 55, 55, 51, 0, 45, 55, 46, 49, 54, 55, 55, 54, 54, 55, 56, 53, 49, 53, 52, 49, 49, 0, 45, 48, 46, 48, 56, 51, 55, 54, 48, 57, 53, 54, 53, 51, 48, 49, 50, 57, 53, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID acb0754f
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 46, 49, 49, 52, 53, 54, 48, 50, 49, 50, 49, 52, 55, 57, 48, 50, 0, 49, 48, 46, 49, 49, 53, 48, 49, 57, 51, 50, 54, 51, 50, 50, 49, 0, 45, 48, 46, 48, 48, 50, 54, 50, 49, 53, 52, 56, 52, 52, 57, 49, 57, 54, 51, 57, 0, 45, 53, 46, 56, 53, 52, 50, 53, 49, 55, 54, 56, 52, 56, 55, 56, 54, 0, 45, 48, 46, 48, 57, 48, 53, 48, 56, 50, 48, 57, 55, 48, 56, 48, 55, 52, 51, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 45, 48, 46, 49, 50, 48, 50, 51, 48, 49, 54, 56, 51, 53, 51, 52, 57, 55, 0, 49, 51, 46, 52, 49, 57, 57, 53, 56, 52, 55, 52, 52, 55, 48, 55, 0, 45, 48, 46, 48, 48, 51, 55, 48, 50, 49, 49, 51, 48, 49, 55, 55, 55, 57, 48, 50, 0, 45, 49, 56, 46, 48, 53, 48, 55, 57, 55, 48, 54, 48, 51, 55, 49, 49, 0, 48, 46, 48, 51, 51, 52, 57, 54, 51, 56, 55, 49, 53, 56, 50, 49, 51, 57, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 45, 48, 46, 49, 55, 48, 52, 51, 49, 54, 48, 49, 49, 50, 56, 52, 49, 56, 0, 49, 52, 46, 56, 57, 48, 49, 51, 48, 53, 50, 57, 55, 48, 53, 57, 0, 48, 46, 48, 56, 56, 53, 55, 55, 50, 52, 51, 48, 55, 57, 50, 57, 53, 53, 0, 45, 57, 46, 54, 55, 56, 56, 55, 51, 52, 50, 53, 53, 49, 54, 52, 51, 0, 48, 46, 48, 51, 50, 51, 54, 50, 49, 52, 55, 56, 56, 51, 57, 53, 52, 52, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID aedbc48c
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 50, 46, 53, 56, 49, 48, 52, 56, 49, 51, 48, 51, 49, 49, 56, 50, 0, 49, 57, 46, 54, 48, 51, 53, 50, 55, 54, 50, 53, 51, 51, 50, 57, 0, 45, 48, 46, 49, 56, 56, 53, 49, 48, 49, 49, 53, 48, 56, 51, 48, 53, 55, 0, 45, 53, 46, 56, 53, 52, 50, 49, 53, 49, 51, 49, 54, 48, 51, 55, 0, 48, 46, 49, 55, 50, 56, 52, 55, 49, 56, 51, 49, 57, 53, 51, 57, 49, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 50, 46, 48, 48, 51, 50, 56, 53, 56, 56, 56, 54, 53, 48, 48, 56, 0, 49, 51, 46, 53, 48, 53, 50, 57, 52, 48, 55, 55, 53, 51, 48, 50, 0, 45, 48, 46, 51, 55, 50, 53, 55, 57, 48, 57, 52, 53, 53, 54, 50, 52, 56, 0, 45, 49, 54, 46, 57, 51, 53, 51, 51, 56, 50, 54, 51, 56, 56, 50, 56, 0, 48, 46, 52, 51, 51, 54, 52, 50, 52, 48, 56, 55, 48, 54, 50, 54, 56, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 55, 57, 51, 55, 49, 48, 54, 0, 49, 53, 46, 54, 56, 56, 50, 57, 55, 54, 56, 51, 52, 49, 56, 54, 0, 45, 48, 46, 51, 51, 53, 48, 48, 54, 53, 57, 56, 57, 48, 56, 49, 56, 57, 0, 45, 52, 46, 49, 51, 56, 51, 50, 50, 52, 52, 55, 51, 56, 54, 54, 56, 0, 48, 46, 51, 55, 57, 49, 50, 54, 53, 49, 50, 57, 54, 56, 57, 52, 52, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID b2234063
+TypeInfo: TypeInfo::Object::3D::Placeable::Sprite
+Parent: NULL
+Float32 WorldPosition: 0, 0, 0
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 WorldScale: 1, 1
+Float32 TexCoordOfMainTexture: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture1: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 TexCoordOfBlendTexture2: 0, 0, 1, 0, 0, 1, 1, 1
+Float32 Transparency: 1
+UInt32 DisplaysetObjectNameHash: KTID 1a29d0e4
+UInt32 TexturesRenderStateObjectHash: NULL
+Float32 SizeXY: 50, 50
+UInt32 HVAlignType: KTID 00000004
+Float32 VertexColorLT: 1, 1, 1, 1
+Float32 VertexColorRT: 1, 1, 1, 1
+Float32 VertexColorLB: 1, 1, 1, 1
+Float32 VertexColorRB: 1, 1, 1, 1
+Float32 BlackColorInterpolationRGBA: 0, 0, 0, 0
+Float32 WhiteColorInterpolationRGBA: 1, 1, 1, 1
+UInt32 MainTextureNameHash: NULL
+UInt32 BlendTexture1NameHash: NULL
+UInt32 BlendTexture2NameHash: NULL
+UInt32 BlendTexture1BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture1BlendModeOfAlpha: NULL
+UInt32 BlendTexture2BlendModeOfColor: KTID 00000002
+UInt32 BlendTexture2BlendModeOfAlpha: NULL
+UInt32 AlphaBlendOp: NULL
+UInt32 AlphaBlendSrcFunc: KTID 00000004
+UInt32 AlphaBlendDstFunc: KTID 00000005
+UInt32 AlphaBlendOpAlpha: NULL
+UInt32 AlphaBlendSrcFuncAlpha: KTID 00000004
+UInt32 AlphaBlendDstFuncAlpha: KTID 00000005
+Float32 AlphaThreshold: 0
+UInt32 AlphaThresholdFCurveAnimationDataObjectNameHash: NULL
+UInt32 TransparencyFCurveAnimationDataObjectNameHash: KTID 10b9c039
+UInt32 SizeXYFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 WorldPosFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldRotationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL
+UInt32 WorldScaleFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 VertexColorLTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRTFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorLBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 VertexColorRBFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 BlackColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+UInt32 WhiteColorInterpolationFCurveAnimationDataObjectNameHash: NULL, NULL, NULL, NULL
+Float32 UVTransXY_OfMainTexture: 0, 0
+Float32 UVScaleXY_OfMainTexture: 1, 1
+Float32 UVRotation_OfMainTexture: 0
+Float32 UVTransXY_OfBlendTexture1: 0, 0
+Float32 UVScaleXY_OfBlendTexture1: 1, 1
+Float32 UVRotation_OfBlendTexture1: 0
+Float32 UVTransXY_OfBlendTexture2: 0, 0
+Float32 UVScaleXY_OfBlendTexture2: 1, 1
+Float32 UVRotation_OfBlendTexture2: 0
+UInt32 UVTransXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_MainTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture1FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 UVTransXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVScaleXY_BlendTexture2FCurveAnimationDataObjectNameHash: NULL, NULL
+UInt32 UVRotation_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_MainTextureFCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture1FCurveAnimationDataObjectNameHash: NULL
+UInt32 TexturePattern_BlendTexture2FCurveAnimationDataObjectNameHash: NULL
+UInt32 VisibilityFCurveAnimationDataObjectNameHash: NULL
+UInt32 DisplayConfigurationType: KTID 00000001
+UInt32 AnimationState: NULL
+UInt32 AnimationFrame: NULL
+UInt32 AlphaTestCmpType: KTID 00000007
+UInt32 ParentSpriteNameHash: NULL
+Float32 LocalPosition: -250, 0, 0
+Float32 LocalQuaternion: 0, 0, 0, 1
+Float32 LocalScale: 1, 1
+Float32 Diffuse: 1, 1, 1
+Float32 Ambient: 1, 1, 1
+UInt32 TexturePatternAnimDataObjectNameHash: NULL, NULL, NULL
+UInt32 AnimationLoopSectionFrame: NULL, NULL
+UInt32 HVAlignTypeOnParent: KTID 00000004
+Int32 InfluencedAlpha: 1
+Int32 IsOpaque: 0
+Float32 ScaleForCalcOfIndirectTexture: 1, 1
+UInt32 ScaleForCalcOfIndirectTextureFCurveAnimationDataObjectNameHash: NULL, NULL
+Float32 SaturationScale: 1
+Int32 IsEnableGammaCorrection: 0
+Float32 GammaCorrectionValue: 0,454545
+Int32 ContrastCorrectionValueOfTexture0: 0
+Int32 ContrastCorrectionValueOfTexture1: 0
+Int32 ContrastCorrectionValueOfTexture2: 0
+UInt32 KTID 0ab5e645: NULL
+
+KTID: KTID b2ab5b72
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 50, 46, 50, 51, 57, 53, 48, 54, 50, 52, 57, 51, 51, 53, 54, 50, 0, 49, 48, 46, 50, 55, 48, 52, 53, 52, 54, 52, 56, 49, 51, 56, 51, 0, 48, 46, 48, 48, 50, 55, 52, 53, 49, 57, 53, 51, 48, 57, 49, 48, 52, 54, 56, 0, 45, 53, 46, 57, 55, 52, 50, 51, 50, 49, 49, 48, 52, 51, 49, 53, 57, 0, 48, 46, 49, 55, 49, 51, 51, 53, 49, 48, 53, 48, 49, 51, 56, 57, 56, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 49, 46, 56, 54, 49, 55, 56, 53, 56, 53, 52, 54, 52, 48, 52, 55, 0, 49, 51, 46, 51, 55, 56, 50, 52, 56, 56, 50, 49, 56, 50, 51, 53, 0, 45, 48, 46, 50, 48, 51, 49, 53, 54, 52, 50, 52, 55, 51, 48, 51, 53, 51, 0, 45, 49, 54, 46, 54, 48, 50, 54, 54, 54, 49, 51, 51, 57, 55, 51, 51, 0, 48, 46, 50, 51, 52, 57, 51, 54, 50, 55, 52, 53, 54, 55, 52, 49, 50, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 49, 46, 48, 52, 49, 50, 51, 52, 57, 57, 54, 50, 55, 57, 52, 53, 0, 49, 52, 46, 52, 48, 56, 54, 55, 55, 56, 54, 50, 54, 57, 53, 56, 0, 45, 48, 46, 49, 53, 57, 49, 49, 48, 50, 57, 54, 50, 50, 54, 55, 56, 52, 0, 45, 55, 46, 50, 53, 57, 52, 48, 48, 51, 56, 57, 56, 49, 50, 51, 51, 0, 48, 46, 50, 57, 52, 56, 54, 49, 54, 53, 50, 55, 51, 51, 48, 51, 56, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID b41229ec
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 45, 48, 46, 50, 50, 54, 50, 54, 48, 48, 56, 57, 52, 57, 53, 53, 55, 51, 0, 55, 46, 49, 49, 50, 52, 54, 50, 48, 48, 54, 48, 55, 57, 48, 54, 0, 45, 48, 46, 48, 48, 50, 52, 49, 54, 49, 55, 56, 51, 48, 56, 51, 49, 52, 50, 51, 0, 45, 54, 46, 48, 48, 48, 56, 52, 54, 52, 55, 52, 52, 50, 57, 51, 56, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 45, 48, 46, 49, 56, 49, 57, 48, 50, 52, 50, 48, 48, 57, 55, 51, 55, 52, 0, 49, 49, 46, 51, 51, 57, 54, 55, 56, 53, 49, 57, 52, 48, 54, 52, 0, 48, 46, 48, 48, 49, 49, 56, 52, 50, 52, 53, 50, 54, 55, 57, 52, 52, 49, 49, 0, 45, 50, 57, 46, 54, 55, 48, 50, 51, 49, 51, 49, 57, 50, 54, 48, 51, 0, 45, 48, 46, 48, 48, 51, 48, 57, 56, 53, 55, 51, 56, 50, 52, 53, 49, 52, 52, 56, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 45, 48, 46, 49, 56, 56, 54, 56, 50, 56, 49, 53, 50, 49, 50, 57, 48, 52, 0, 49, 49, 46, 55, 57, 55, 49, 49, 51, 50, 53, 49, 48, 50, 57, 55, 0, 50, 46, 55, 55, 53, 53, 53, 55, 53, 54, 49, 53, 54, 50, 56, 57, 69, 45, 49, 55, 0, 45, 57, 46, 52, 49, 54, 57, 56, 49, 50, 55, 49, 48, 54, 49, 48, 53, 0, 55, 46, 54, 55, 52, 55, 49, 51, 52, 48, 48, 55, 52, 56, 54, 53, 69, 45, 49, 56, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID b690ace3
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID b9cbe48e
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID ba6582a8
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 48, 0, 45, 48, 46, 48, 53, 49, 55, 57, 48, 49, 51, 51, 51, 49, 48, 55, 51, 49, 54, 0, 49, 55, 46, 56, 55, 51, 56, 56, 48, 48, 50, 55, 53, 55, 57, 54, 0, 48, 46, 50, 55, 54, 51, 51, 52, 54, 57, 53, 56, 52, 50, 57, 53, 51, 0, 45, 53, 46, 56, 53, 52, 50, 53, 49, 55, 54, 56, 52, 56, 55, 56, 54, 0, 45, 48, 46, 48, 57, 48, 53, 48, 56, 50, 48, 57, 55, 48, 56, 48, 55, 52, 51, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 45, 48, 46, 48, 50, 50, 52, 54, 50, 50, 51, 57, 57, 48, 54, 51, 48, 51, 53, 0, 56, 0, 48, 0, 45, 54, 46, 48, 50, 54, 50, 50, 52, 49, 50, 50, 56, 57, 50, 54, 51, 0, 48, 0, 49, 0, 51, 0, 10, 0, 10
+
+KTID: KTID ba766bc3
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID bacca156
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 46, 54, 0, 49, 50, 46, 57, 52, 49, 51, 49, 54, 57, 57, 49, 54, 52, 51, 52, 0, 48, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 50, 0, 48, 0, 49, 0, 48, 0, 45, 48, 46, 51, 55, 50, 51, 53, 54, 50, 55, 48, 52, 55, 57, 54, 0, 48, 46, 48, 50, 50, 55, 50, 51, 53, 52, 57, 50, 50, 53, 57, 56, 54, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID bf74f349
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 53, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 51, 48, 48, 0, 48, 0, 54, 46, 49, 55, 50, 50, 52, 52, 56, 57, 55, 57, 53, 57, 50, 50, 0, 48, 46, 48, 48, 49, 55, 54, 48, 55, 49, 48, 56, 56, 52, 55, 52, 50, 48, 51, 0, 45, 49, 0, 48, 0, 49, 0, 51, 0, 10, 0, 48, 0, 51, 49, 52, 0, 50, 53, 0, 51, 46, 53, 49, 57, 53, 50, 50, 55, 50, 56, 48, 52, 57, 54, 53, 0, 48, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 51, 50, 56, 0, 45, 50, 0, 49, 46, 50, 50, 54, 52, 48, 56, 48, 48, 52, 49, 55, 53, 57, 52, 0, 45, 48, 46, 54, 54, 50, 49, 50, 56, 48, 48, 50, 49, 51, 56, 49, 50, 57, 0, 45, 56, 46, 57, 56, 51, 53, 48, 54, 56, 48, 57, 56, 56, 49, 54, 53, 0, 52, 46, 56, 53, 48, 49, 50, 52, 52, 50, 53, 49, 50, 51, 56, 49, 0, 50, 0, 51, 0, 10, 0, 48, 0, 51, 51, 50, 0, 48, 0, 55, 46, 52, 48, 57, 55, 55, 50, 56, 51, 53, 48, 50, 56, 56, 57, 0, 48, 46, 55, 57, 56, 48, 48, 54, 54, 48, 56, 49, 49, 56, 54, 49, 53, 0, 45, 49, 46, 52, 52, 52, 57, 51, 48, 57, 48, 56, 55, 56, 51, 57, 49, 0, 48, 46, 48, 52, 56, 54, 48, 49, 54, 57, 56, 50, 57, 51, 51, 48, 56, 56, 0, 50, 0, 50, 0, 10, 0, 48, 0, 51, 53, 48, 0, 48, 0, 49, 52, 0, 48, 0, 45, 54, 46, 54, 54, 55, 57, 48, 54, 53, 56, 50, 52, 53, 55, 51, 57, 0, 48, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID c04255a1
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID c06068cb
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 48, 0, 51, 46, 54, 54, 56, 49, 48, 52, 55, 48, 55, 51, 55, 54, 49, 55, 0, 49, 55, 46, 50, 55, 53, 48, 56, 49, 50, 53, 57, 48, 49, 54, 54, 0, 45, 48, 46, 52, 57, 53, 52, 51, 50, 51, 53, 49, 50, 57, 50, 51, 50, 54, 0, 45, 53, 46, 57, 55, 52, 50, 51, 50, 49, 49, 48, 52, 51, 49, 53, 57, 0, 48, 46, 49, 55, 49, 51, 51, 53, 49, 48, 53, 48, 49, 51, 56, 57, 56, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 48, 46, 54, 55, 54, 53, 52, 51, 55, 52, 53, 51, 52, 57, 51, 48, 56, 0, 51, 48, 0, 48, 0, 45, 56, 46, 51, 52, 50, 51, 48, 56, 54, 50, 51, 57, 48, 51, 52, 50, 0, 48, 46, 48, 54, 57, 53, 49, 57, 50, 51, 56, 53, 51, 50, 53, 50, 56, 51, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID c0994cdc
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 52, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 50, 50, 48, 0, 48, 0, 48, 46, 56, 53, 48, 53, 50, 55, 53, 52, 48, 57, 51, 56, 55, 51, 54, 0, 48, 0, 45, 49, 0, 48, 0, 49, 0, 50, 0, 10, 0, 48, 0, 51, 54, 48, 0, 49, 0, 49, 51, 46, 49, 49, 55, 50, 57, 57, 51, 56, 52, 57, 57, 48, 50, 0, 48, 46, 48, 55, 51, 48, 54, 54, 52, 55, 49, 52, 57, 51, 51, 52, 55, 50, 0, 45, 55, 52, 46, 54, 52, 48, 48, 48, 48, 51, 48, 51, 51, 51, 54, 56, 0, 45, 48, 46, 52, 49, 53, 55, 54, 50, 53, 50, 48, 52, 57, 55, 55, 52, 50, 0, 49, 0, 50, 0, 10, 0, 48, 0, 52, 48, 48, 0, 49, 0, 57, 48, 0, 48, 0, 45, 49, 51, 46, 52, 53, 50, 53, 50, 49, 51, 49, 53, 53, 49, 51, 56, 0, 45, 48, 46, 48, 55, 52, 55, 51, 54, 50, 50, 57, 53, 51, 48, 54, 51, 50, 50, 0, 49, 0, 50, 0, 10, 0, 48, 0, 52, 48, 52, 0, 48, 0, 50, 0, 48, 0, 45, 50, 0, 48, 46, 53, 0, 49, 0, 51, 0, 10, 0, 10
+
+KTID: KTID c3a8b04e
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 45, 48, 46, 53, 51, 57, 48, 57, 51, 55, 53, 55, 55, 53, 49, 49, 53, 55, 0, 49, 48, 46, 51, 50, 52, 51, 48, 48, 51, 52, 48, 55, 50, 48, 54, 0, 45, 48, 46, 48, 48, 49, 50, 54, 57, 52, 56, 55, 55, 55, 57, 53, 56, 48, 55, 57, 0, 45, 51, 46, 51, 48, 53, 52, 50, 52, 49, 48, 52, 55, 48, 56, 53, 54, 0, 45, 48, 46, 48, 48, 51, 49, 50, 57, 53, 52, 55, 49, 54, 53, 57, 55, 50, 49, 52, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 45, 48, 46, 51, 54, 54, 56, 56, 57, 50, 54, 56, 53, 56, 56, 50, 49, 0, 49, 51, 46, 52, 53, 48, 57, 54, 48, 56, 50, 57, 57, 55, 53, 56, 0, 48, 46, 48, 50, 50, 54, 51, 56, 48, 50, 50, 50, 49, 56, 49, 51, 56, 0, 45, 57, 46, 56, 57, 52, 51, 55, 51, 55, 55, 55, 48, 51, 51, 53, 50, 0, 45, 48, 46, 48, 50, 53, 56, 49, 54, 54, 55, 48, 52, 53, 50, 54, 50, 57, 52, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 45, 48, 46, 49, 56, 49, 55, 49, 53, 53, 48, 50, 55, 52, 51, 51, 51, 50, 0, 49, 54, 46, 49, 50, 48, 51, 54, 55, 53, 49, 53, 54, 53, 54, 57, 0, 48, 46, 48, 50, 51, 50, 51, 55, 52, 53, 54, 50, 49, 49, 52, 57, 55, 51, 0, 45, 55, 46, 49, 55, 49, 53, 56, 48, 55, 56, 48, 54, 52, 49, 51, 54, 0, 45, 48, 46, 48, 50, 50, 51, 51, 51, 55, 48, 54, 55, 55, 57, 51, 48, 54, 49, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID c596ce2b
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 45, 48, 46, 54, 56, 50, 52, 52, 56, 50, 50, 49, 48, 51, 54, 49, 56, 50, 0, 49, 57, 46, 56, 55, 48, 55, 57, 54, 57, 56, 49, 53, 49, 48, 57, 0, 48, 46, 48, 49, 54, 51, 54, 56, 50, 56, 51, 55, 49, 53, 56, 56, 56, 55, 0, 45, 53, 46, 56, 53, 52, 50, 53, 49, 55, 54, 56, 52, 56, 55, 56, 54, 0, 48, 46, 48, 55, 55, 52, 50, 56, 49, 57, 55, 49, 53, 50, 49, 56, 49, 53, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 45, 48, 46, 54, 48, 54, 50, 49, 54, 49, 50, 49, 50, 57, 52, 57, 50, 50, 0, 49, 51, 46, 52, 52, 53, 50, 53, 50, 48, 54, 57, 57, 50, 49, 52, 0, 48, 46, 48, 55, 49, 51, 51, 53, 49, 51, 49, 51, 49, 50, 55, 49, 55, 54, 0, 45, 49, 57, 46, 48, 56, 55, 53, 54, 56, 55, 49, 54, 51, 57, 57, 0, 45, 48, 46, 48, 53, 48, 53, 53, 56, 49, 51, 52, 50, 52, 54, 57, 50, 53, 49, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 45, 48, 46, 50, 57, 55, 48, 48, 54, 51, 0, 49, 53, 46, 55, 56, 51, 51, 48, 53, 48, 50, 51, 48, 55, 50, 50, 0, 48, 46, 48, 56, 56, 57, 53, 56, 55, 57, 51, 48, 49, 50, 54, 48, 52, 52, 0, 45, 55, 46, 48, 57, 57, 57, 56, 50, 52, 56, 55, 52, 48, 51, 49, 49, 0, 45, 48, 46, 48, 54, 50, 49, 52, 56, 54, 53, 55, 55, 56, 55, 52, 54, 55, 56, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID c6da2868
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID c9a39671
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 49, 46, 57, 50, 55, 51, 56, 50, 50, 48, 56, 49, 48, 53, 49, 56, 0, 49, 48, 46, 49, 51, 57, 48, 49, 51, 50, 49, 57, 48, 57, 54, 50, 0, 45, 48, 46, 48, 48, 52, 49, 56, 56, 49, 55, 49, 52, 56, 50, 49, 51, 49, 48, 50, 0, 45, 53, 46, 56, 53, 52, 50, 49, 53, 49, 51, 49, 54, 48, 51, 55, 0, 48, 46, 49, 55, 50, 56, 52, 55, 49, 56, 51, 49, 57, 53, 51, 57, 49, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 49, 46, 48, 54, 52, 57, 56, 57, 56, 48, 52, 54, 49, 51, 48, 52, 0, 49, 51, 46, 52, 54, 50, 56, 54, 56, 54, 52, 50, 55, 51, 48, 55, 0, 45, 48, 46, 49, 54, 52, 49, 53, 52, 48, 52, 48, 48, 48, 53, 48, 50, 55, 0, 45, 49, 52, 46, 53, 48, 51, 54, 53, 55, 50, 49, 57, 52, 52, 49, 53, 0, 48, 46, 50, 49, 56, 51, 51, 56, 50, 57, 57, 52, 55, 50, 48, 55, 49, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 52, 54, 48, 51, 55, 48, 57, 51, 50, 54, 49, 54, 55, 55, 52, 0, 49, 52, 46, 53, 56, 50, 52, 57, 56, 49, 54, 57, 53, 56, 54, 50, 0, 45, 48, 46, 49, 48, 54, 57, 56, 49, 50, 54, 56, 51, 56, 53, 53, 52, 50, 0, 45, 55, 46, 49, 51, 48, 51, 56, 53, 50, 57, 50, 53, 52, 49, 52, 0, 48, 46, 49, 56, 52, 51, 48, 51, 48, 50, 51, 51, 55, 57, 48, 57, 50, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID ca8ca975
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 49, 48, 51, 54, 50, 57, 52, 57, 56, 48, 56, 51, 57, 0, 45, 51, 46, 52, 54, 57, 52, 52, 54, 57, 53, 49, 57, 53, 51, 54, 49, 69, 45, 49, 56, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 49, 0, 48, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID cb3730aa
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID ccd47c77
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID cff6ef2d
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 50, 46, 53, 51, 56, 55, 51, 56, 48, 52, 55, 55, 56, 57, 57, 50, 0, 49, 56, 46, 52, 50, 50, 49, 52, 54, 49, 53, 55, 56, 56, 50, 49, 0, 45, 48, 46, 49, 51, 56, 56, 48, 56, 57, 50, 57, 55, 50, 50, 49, 56, 51, 0, 45, 53, 46, 57, 51, 51, 57, 51, 48, 49, 52, 52, 54, 57, 50, 51, 49, 0, 48, 46, 50, 52, 55, 57, 50, 56, 56, 52, 49, 51, 51, 54, 55, 53, 53, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 49, 46, 56, 55, 49, 56, 49, 50, 51, 51, 56, 56, 55, 52, 50, 53, 0, 49, 51, 46, 54, 54, 51, 54, 50, 51, 54, 49, 51, 49, 53, 49, 55, 0, 45, 48, 46, 50, 57, 53, 56, 54, 48, 57, 54, 52, 52, 57, 50, 51, 50, 56, 0, 45, 49, 52, 46, 52, 48, 54, 49, 55, 48, 55, 55, 53, 49, 55, 53, 55, 0, 48, 46, 51, 51, 52, 49, 56, 51, 53, 53, 49, 51, 52, 48, 53, 51, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 57, 52, 52, 50, 50, 51, 56, 0, 49, 53, 46, 55, 57, 51, 57, 49, 52, 54, 51, 53, 55, 54, 53, 53, 0, 45, 48, 46, 50, 54, 53, 51, 52, 49, 57, 48, 48, 54, 51, 57, 53, 52, 53, 0, 45, 53, 46, 52, 48, 56, 49, 50, 48, 55, 49, 52, 54, 51, 57, 56, 52, 0, 48, 46, 51, 50, 55, 57, 57, 48, 55, 50, 50, 49, 52, 56, 54, 55, 54, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID d101a602
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID d15dbda7
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 48, 0, 48, 46, 51, 52, 50, 53, 50, 50, 53, 56, 50, 56, 55, 53, 54, 55, 55, 0, 51, 49, 46, 50, 48, 57, 53, 53, 51, 48, 52, 55, 53, 56, 56, 56, 0, 48, 46, 48, 50, 57, 53, 52, 56, 57, 51, 54, 56, 57, 56, 48, 53, 50, 53, 0, 45, 51, 46, 51, 48, 53, 52, 50, 52, 49, 48, 52, 55, 48, 56, 53, 54, 0, 45, 48, 46, 48, 48, 51, 49, 50, 57, 53, 52, 55, 49, 54, 53, 57, 55, 50, 49, 52, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 45, 48, 46, 49, 49, 50, 51, 49, 49, 49, 57, 57, 53, 51, 49, 52, 57, 0, 49, 0, 48, 0, 45, 48, 46, 57, 48, 52, 50, 51, 50, 49, 56, 48, 52, 50, 48, 53, 57, 52, 0, 48, 0, 49, 0, 51, 0, 10, 0, 10
+
+KTID: KTID d53e3da8
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID d637f529
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 52, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 0, 51, 46, 50, 55, 54, 55, 57, 54, 49, 52, 52, 57, 54, 50, 54, 53, 0, 48, 46, 49, 48, 50, 56, 55, 51, 48, 52, 55, 50, 57, 51, 51, 53, 54, 0, 45, 51, 48, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 50, 57, 0, 48, 46, 53, 56, 55, 49, 49, 50, 56, 54, 50, 53, 57, 50, 48, 50, 57, 0, 49, 51, 46, 56, 57, 57, 56, 57, 51, 54, 48, 48, 49, 54, 56, 55, 0, 48, 46, 50, 55, 48, 51, 50, 57, 56, 53, 53, 49, 56, 52, 48, 53, 51, 0, 45, 57, 46, 49, 56, 54, 57, 51, 53, 52, 56, 55, 55, 51, 54, 50, 57, 0, 45, 48, 46, 49, 55, 56, 54, 55, 48, 54, 52, 51, 57, 50, 49, 54, 56, 0, 49, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 49, 0, 49, 54, 46, 50, 48, 54, 52, 52, 50, 53, 54, 53, 57, 54, 50, 50, 0, 45, 48, 46, 49, 57, 57, 57, 50, 54, 52, 56, 52, 57, 57, 57, 57, 54, 53, 0, 45, 49, 50, 46, 52, 50, 49, 53, 50, 52, 48, 54, 51, 54, 50, 51, 52, 0, 48, 0, 49, 0, 50, 0, 10, 0, 48, 0, 49, 55, 52, 0, 48, 0, 49, 0, 48, 0, 45, 48, 46, 48, 56, 54, 51, 52, 57, 52, 48, 50, 55, 57, 55, 52, 50, 50, 56, 0, 48, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID d758a3ca
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 48, 0, 52, 46, 52, 51, 56, 56, 50, 53, 55, 48, 55, 55, 56, 57, 54, 0, 49, 55, 46, 53, 48, 48, 48, 56, 57, 52, 50, 56, 49, 54, 53, 57, 0, 45, 48, 46, 53, 49, 54, 54, 57, 52, 53, 54, 56, 56, 52, 48, 57, 49, 54, 0, 45, 53, 46, 56, 53, 52, 50, 49, 53, 49, 51, 49, 54, 48, 51, 55, 0, 48, 46, 49, 55, 50, 56, 52, 55, 49, 56, 51, 49, 57, 53, 51, 57, 49, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 48, 46, 49, 55, 54, 53, 52, 51, 55, 52, 53, 51, 52, 57, 51, 48, 56, 0, 49, 48, 0, 48, 0, 45, 55, 46, 52, 57, 51, 51, 48, 51, 53, 57, 51, 53, 49, 48, 52, 54, 0, 45, 48, 46, 51, 55, 52, 54, 54, 53, 49, 55, 57, 54, 55, 53, 53, 50, 51, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID dc8f092a
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 45, 48, 46, 51, 53, 53, 54, 51, 51, 55, 54, 55, 57, 48, 48, 51, 56, 0, 49, 55, 46, 48, 55, 49, 55, 57, 52, 55, 49, 48, 54, 56, 49, 55, 0, 48, 0, 45, 51, 46, 51, 48, 53, 52, 50, 52, 49, 48, 52, 55, 48, 56, 53, 54, 0, 45, 48, 46, 48, 48, 50, 54, 56, 50, 52, 54, 56, 57, 57, 57, 52, 48, 52, 52, 52, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 45, 48, 46, 50, 55, 52, 50, 49, 56, 51, 53, 51, 55, 50, 51, 49, 48, 53, 0, 57, 46, 51, 55, 48, 54, 54, 51, 50, 49, 50, 57, 56, 54, 54, 54, 0, 48, 46, 48, 51, 55, 52, 48, 49, 55, 49, 51, 50, 53, 55, 50, 50, 48, 54, 0, 45, 49, 56, 46, 48, 51, 49, 54, 48, 53, 52, 50, 55, 48, 55, 50, 50, 0, 45, 48, 46, 48, 54, 56, 53, 54, 57, 56, 48, 55, 54, 51, 56, 50, 51, 55, 54, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 45, 48, 46, 49, 55, 50, 50, 49, 48, 53, 0, 49, 54, 46, 49, 55, 51, 51, 57, 51, 56, 49, 50, 53, 55, 51, 54, 0, 48, 46, 49, 53, 57, 48, 48, 52, 56, 53, 51, 48, 55, 51, 53, 55, 53, 0, 45, 49, 50, 46, 52, 55, 53, 51, 57, 48, 57, 51, 54, 53, 50, 54, 52, 0, 48, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID e05ea010
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 45, 48, 46, 49, 50, 56, 57, 52, 51, 55, 57, 51, 52, 53, 52, 55, 53, 57, 0, 49, 48, 46, 48, 51, 48, 52, 54, 48, 53, 50, 52, 51, 51, 57, 52, 0, 45, 48, 46, 48, 48, 54, 50, 50, 54, 54, 51, 56, 56, 56, 57, 48, 50, 50, 50, 53, 0, 45, 53, 46, 56, 53, 52, 50, 53, 49, 55, 54, 56, 52, 56, 55, 56, 54, 0, 48, 46, 48, 55, 55, 52, 50, 56, 49, 57, 55, 49, 53, 50, 49, 56, 49, 53, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 48, 46, 48, 49, 51, 52, 50, 50, 56, 50, 57, 53, 51, 50, 56, 50, 56, 57, 0, 49, 53, 46, 48, 53, 52, 50, 49, 56, 54, 50, 54, 57, 54, 50, 52, 0, 48, 46, 48, 53, 56, 50, 54, 51, 48, 51, 48, 54, 53, 49, 52, 51, 51, 50, 0, 45, 49, 53, 46, 48, 50, 57, 53, 55, 54, 53, 50, 48, 56, 57, 50, 49, 0, 45, 48, 46, 48, 55, 50, 49, 51, 50, 48, 49, 51, 54, 57, 51, 48, 52, 50, 54, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 51, 48, 51, 54, 51, 51, 57, 55, 50, 48, 57, 52, 48, 48, 53, 0, 49, 52, 46, 56, 57, 48, 49, 51, 48, 53, 50, 57, 55, 48, 53, 57, 0, 45, 48, 46, 48, 55, 53, 55, 55, 54, 50, 56, 56, 56, 51, 48, 49, 54, 55, 53, 0, 45, 54, 46, 55, 52, 49, 55, 55, 52, 57, 54, 52, 52, 48, 56, 54, 0, 45, 48, 46, 49, 48, 49, 52, 51, 49, 50, 49, 49, 53, 51, 50, 50, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID e1c0f663
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID e29ef95f
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 48, 51, 54, 54, 48, 53, 51, 54, 57, 51, 57, 55, 54, 0, 45, 51, 46, 52, 54, 57, 52, 52, 54, 57, 53, 49, 57, 53, 51, 54, 49, 69, 45, 49, 56, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 49, 0, 48, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID e3498094
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 46, 53, 57, 49, 56, 54, 50, 49, 49, 57, 49, 51, 51, 51, 54, 53, 0, 49, 50, 46, 57, 52, 49, 51, 49, 54, 57, 57, 49, 54, 52, 51, 52, 0, 48, 0, 45, 52, 0, 48, 0, 49, 0, 51, 0, 10, 0, 48, 0, 49, 53, 50, 0, 48, 0, 49, 0, 48, 0, 48, 0, 45, 48, 46, 48, 49, 57, 54, 51, 51, 49, 52, 54, 53, 51, 49, 50, 53, 49, 57, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID e6ef2a2c
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 51, 46, 57, 57, 56, 48, 48, 50, 56, 48, 49, 56, 54, 56, 54, 57, 0, 49, 56, 46, 55, 53, 50, 49, 55, 53, 50, 56, 56, 54, 48, 57, 54, 0, 45, 48, 46, 49, 50, 50, 56, 56, 56, 54, 49, 57, 54, 50, 49, 55, 53, 56, 0, 45, 53, 46, 56, 53, 52, 50, 49, 53, 49, 51, 49, 54, 48, 51, 55, 0, 48, 46, 49, 56, 48, 52, 54, 50, 48, 53, 48, 57, 49, 48, 55, 50, 49, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 50, 46, 53, 57, 49, 56, 49, 49, 56, 54, 56, 48, 56, 57, 56, 49, 0, 49, 48, 46, 48, 48, 52, 51, 51, 48, 57, 52, 49, 51, 56, 53, 57, 0, 45, 48, 46, 53, 52, 48, 48, 48, 57, 52, 49, 48, 48, 52, 57, 56, 56, 50, 0, 45, 49, 50, 46, 48, 53, 49, 53, 51, 52, 55, 50, 50, 51, 54, 57, 53, 0, 48, 46, 55, 52, 54, 52, 49, 48, 48, 52, 56, 54, 49, 48, 48, 53, 56, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 49, 46, 48, 53, 54, 56, 49, 56, 0, 49, 53, 46, 54, 56, 56, 50, 57, 55, 54, 56, 51, 52, 49, 56, 54, 0, 45, 48, 46, 50, 57, 54, 55, 55, 48, 53, 52, 50, 54, 51, 55, 54, 51, 50, 0, 45, 52, 46, 57, 53, 49, 57, 54, 50, 57, 57, 55, 53, 54, 50, 48, 54, 0, 48, 46, 52, 48, 57, 53, 50, 56, 50, 51, 51, 51, 48, 53, 57, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID e8c9488a
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID ebb7fdb0
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 49, 48, 51, 54, 50, 57, 52, 57, 56, 48, 56, 51, 57, 0, 45, 51, 46, 52, 54, 57, 52, 52, 54, 57, 53, 49, 57, 53, 51, 54, 49, 69, 45, 49, 56, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 49, 0, 48, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID ec6284e5
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID ee13ad69
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 48, 0, 48, 46, 51, 53, 49, 57, 57, 53, 54, 57, 57, 56, 57, 57, 54, 51, 0, 49, 55, 46, 56, 55, 51, 56, 56, 48, 48, 50, 55, 53, 55, 57, 54, 0, 45, 48, 46, 50, 51, 54, 51, 57, 57, 53, 49, 57, 55, 54, 52, 51, 49, 0, 45, 53, 46, 56, 53, 52, 50, 53, 49, 55, 54, 56, 52, 56, 55, 56, 54, 0, 48, 46, 48, 55, 55, 52, 50, 56, 49, 57, 55, 49, 53, 50, 49, 56, 49, 53, 0, 49, 0, 50, 0, 10, 0, 48, 0, 54, 48, 0, 45, 48, 46, 50, 54, 48, 53, 54, 49, 57, 56, 50, 57, 49, 51, 48, 53, 56, 0, 56, 0, 48, 0, 45, 54, 46, 48, 50, 54, 50, 50, 52, 49, 50, 50, 56, 57, 50, 54, 51, 0, 48, 0, 49, 0, 51, 0, 10, 0, 10
+
+KTID: KTID f02e7da9
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 48, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 10
+
+KTID: KTID f30988b3
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 49, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 0, 50, 48, 46, 49, 48, 51, 54, 50, 57, 52, 57, 56, 48, 56, 51, 57, 0, 45, 48, 46, 48, 48, 54, 53, 52, 52, 51, 56, 50, 49, 55, 55, 48, 56, 51, 57, 55, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 48, 0, 49, 0, 56, 46, 55, 55, 52, 55, 57, 56, 57, 50, 55, 54, 49, 51, 57, 50, 0, 45, 48, 46, 48, 49, 51, 48, 56, 56, 55, 54, 52, 51, 53, 52, 49, 54, 55, 57, 0, 45, 51, 46, 49, 53, 48, 49, 51, 52, 48, 52, 56, 50, 53, 55, 52, 0, 45, 48, 46, 48, 48, 55, 49, 49, 49, 55, 53, 53, 50, 55, 51, 56, 51, 56, 53, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID f756db0f
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 46, 49, 53, 55, 56, 55, 55, 52, 53, 55, 54, 50, 55, 49, 50, 51, 0, 49, 48, 46, 53, 51, 52, 55, 53, 49, 49, 57, 57, 53, 49, 57, 56, 0, 45, 48, 46, 48, 48, 48, 53, 53, 49, 48, 50, 53, 53, 51, 50, 49, 56, 56, 48, 52, 0, 45, 51, 46, 51, 48, 53, 52, 50, 52, 49, 48, 52, 55, 48, 56, 53, 54, 0, 45, 48, 46, 48, 48, 50, 54, 56, 50, 52, 54, 56, 57, 57, 57, 52, 48, 52, 52, 52, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 48, 46, 49, 57, 56, 49, 53, 53, 48, 55, 54, 55, 55, 48, 56, 48, 51, 0, 49, 51, 46, 51, 49, 53, 51, 49, 48, 49, 49, 49, 51, 53, 53, 50, 0, 48, 46, 48, 49, 56, 55, 48, 57, 49, 51, 51, 49, 57, 48, 53, 56, 48, 49, 0, 45, 49, 49, 46, 52, 55, 54, 49, 57, 49, 50, 56, 56, 54, 54, 49, 55, 0, 45, 48, 46, 48, 49, 54, 51, 51, 55, 53, 52, 57, 52, 55, 53, 51, 52, 52, 50, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 50, 54, 52, 49, 53, 53, 57, 52, 49, 50, 57, 56, 48, 54, 51, 0, 49, 54, 46, 49, 50, 48, 51, 54, 55, 53, 49, 53, 54, 53, 54, 57, 0, 48, 46, 48, 49, 57, 57, 49, 55, 56, 49, 57, 54, 48, 57, 56, 53, 51, 56, 0, 45, 55, 46, 51, 55, 56, 48, 57, 48, 53, 52, 57, 52, 57, 50, 52, 52, 0, 45, 48, 46, 48, 50, 50, 51, 53, 52, 52, 56, 57, 57, 54, 54, 52, 49, 57, 49, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID f8a88a6a
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 48, 0, 48, 0, 45, 48, 46, 48, 49, 48, 49, 48, 54, 50, 57, 48, 56, 51, 53, 54, 56, 53, 49, 0, 45, 53, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 45, 48, 46, 48, 48, 49, 54, 57, 50, 54, 54, 53, 55, 56, 51, 49, 56, 52, 53, 50, 0, 49, 48, 46, 50, 54, 50, 49, 51, 51, 55, 56, 55, 56, 49, 48, 57, 0, 48, 46, 48, 48, 48, 57, 53, 51, 56, 56, 51, 53, 51, 50, 51, 49, 48, 49, 57, 53, 0, 45, 51, 51, 46, 49, 54, 57, 55, 52, 50, 49, 52, 57, 57, 49, 49, 56, 0, 45, 48, 46, 48, 48, 51, 48, 56, 51, 49, 56, 54, 51, 52, 57, 49, 53, 52, 53, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 0, 52, 54, 0, 48, 0, 45, 49, 48, 46, 56, 54, 56, 57, 51, 51, 49, 48, 54, 48, 57, 52, 54, 0, 48, 0, 50, 0, 51, 0, 10, 0, 10
+
+KTID: KTID fc31ef82
+TypeInfo: TypeInfo::Object::Sprite::TexPatternAnimData
+Parent: NULL
+UInt32 TexturesRenderStateObjectHash: KTID 50422f20
+UInt32 StaticTextureObjectHashArray: NULL
+
+KTID: KTID fdaa33cb
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 51, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 48, 48, 0, 45, 48, 46, 48, 49, 54, 52, 55, 49, 49, 50, 55, 54, 54, 54, 57, 52, 49, 56, 0, 49, 53, 46, 49, 55, 54, 53, 50, 51, 48, 52, 53, 57, 55, 53, 55, 0, 48, 0, 45, 53, 46, 56, 53, 52, 50, 53, 49, 55, 54, 56, 52, 56, 55, 56, 54, 0, 45, 48, 46, 48, 50, 54, 48, 55, 55, 57, 52, 49, 53, 49, 51, 51, 54, 55, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 52, 48, 0, 48, 46, 50, 50, 53, 53, 50, 51, 50, 56, 52, 49, 49, 50, 55, 53, 51, 0, 49, 49, 46, 57, 56, 57, 54, 56, 56, 56, 51, 56, 55, 50, 51, 51, 0, 48, 46, 48, 55, 48, 49, 48, 48, 54, 48, 53, 57, 51, 49, 51, 54, 48, 49, 0, 45, 49, 53, 46, 52, 48, 56, 49, 57, 51, 50, 49, 51, 54, 57, 51, 57, 0, 45, 48, 46, 49, 49, 48, 57, 52, 53, 49, 50, 49, 53, 50, 53, 49, 54, 53, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 54, 52, 0, 48, 46, 52, 48, 51, 51, 51, 55, 53, 57, 54, 52, 50, 53, 53, 56, 52, 0, 49, 53, 46, 55, 56, 51, 51, 48, 53, 48, 50, 51, 48, 55, 50, 50, 0, 45, 48, 46, 49, 51, 54, 49, 55, 55, 54, 49, 55, 50, 56, 52, 57, 51, 49, 0, 45, 55, 46, 48, 57, 57, 57, 56, 50, 52, 56, 55, 52, 48, 51, 49, 49, 0, 45, 48, 46, 48, 48, 54, 57, 56, 53, 56, 50, 55, 51, 54, 48, 53, 49, 56, 55, 53, 0, 50, 0, 50, 0, 10, 0, 10
+
+KTID: KTID fe115279
+TypeInfo: TypeInfo::Object::Animation::Data::FCurve
+Parent: NULL
+Byte ByteCode: 67, 111, 110, 115, 116, 0, 50, 0, 50, 48, 0, 49, 0, 48, 0, 45, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 46, 55, 57, 55, 54, 57, 69, 43, 51, 48, 56, 0, 49, 0, 48, 0, 10, 0, 48, 0, 49, 50, 48, 0, 48, 46, 54, 0, 49, 50, 46, 57, 52, 49, 51, 49, 54, 57, 57, 49, 54, 52, 51, 52, 0, 48, 0, 45, 52, 0, 48, 0, 50, 0, 51, 0, 10, 0, 48, 0, 49, 53, 50, 0, 48, 0, 49, 0, 48, 0, 45, 48, 46, 51, 55, 50, 51, 53, 54, 50, 55, 48, 52, 55, 57, 54, 0, 48, 46, 48, 51, 49, 56, 49, 50, 57, 54, 56, 57, 49, 54, 51, 56, 48, 52, 0, 50, 0, 51, 0, 10, 0, 10
+

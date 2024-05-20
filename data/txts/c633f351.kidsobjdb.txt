@@ -1,0 +1,196 @@
+[2021-11-28T16:11:14][FileList]Loading filelist for unknown-rdb
+[2021-11-28T16:11:14][FileList]Loading filelist for RDBShared-rdb
+[2021-11-28T16:11:14][FileList]Loading filelist for PropertyList-rdb
+KTID: KTID 258f8703
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 90f5edf6
+Float32 WorldScale: 100, 1,081671, 80
+Float32 WorldPosition: 54379,26, 6340,087, 52000
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 50, -50, 50, 109,7983, -50, 90,30743, 118,881, -50, -39,7249, 66,49992, -50, -98,26632, 20,23265, -50, -99,8961, 24,46926, -50, -69,97462, 76,7457, -50, -59,32666, 84,1048, -50, -31,35806, 72,11738, -50, 1,89502, 50, -50, -50, -0,3441032, -50, -87,34273, -30,84898, -50, -78,74931, -50, -50, -50, -59,84813, -50, -12,28311, -66,26887, -50, 48,69258
+UInt32 BankObjectNameHash: KTID 9f329e28
+UInt32 ProgId: KTID cae01463
+Float32 Tune: -300
+
+KTID: KTID 33c25006
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID eebd42ab
+Float32 WorldScale: 1, 1, 1
+Float32 WorldPosition: 79288,836, 5002,478, 49997,098
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 322,1563, 42,17969, 983,6172, 180,4688, -0,7895508, -75, -1,46875, 82,0752, 331,6172
+UInt32 SegmentIndexArray: NULL, KTID 00000002, KTID 00000001, KTID 00000002
+UInt32 BankObjectNameHash: KTID f50239d1
+UInt32 ProgId: KTID c6683289
+Float32 Tune: -400
+
+KTID: KTID 4270c085
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID eebd42ab
+Float32 WorldScale: 1, 1, 1
+Float32 WorldPosition: 71471,49, 5292,7773, 90142,95
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 726,2188, 115,8354, 2616,375, 353,3906, 25,57178, -100,5859
+UInt32 SegmentIndexArray: NULL, KTID 00000001
+UInt32 BankObjectNameHash: KTID f50239d1
+UInt32 ProgId: KTID c6683289
+Float32 Level: 0,98
+Float32 Tune: 200
+
+KTID: KTID 4a050832
+TypeInfo: TypeInfo::Object::Sound::ReverbPreset
+Parent: NULL
+Float32 Room: -10000
+Float32 RoomHF: 0
+Float32 DecayTime: 1
+Float32 DecayHFRatio: 0,5
+Float32 Reflections: -10000
+Float32 ReflectionsDelay: 0,02
+Float32 Reverb: -10000
+Float32 ReverbDelay: 0,04
+Float32 Diffusion: 100
+Float32 Density: 100
+Float32 HFReference: 5000
+
+KTID: KTID 511f3104
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID eebd42ab
+Float32 WorldScale: 1, 1, 1
+Float32 WorldPosition: 69233,94, 5487,2534, 91303,52
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: -6342,863, 115,0342, 726,4141, -743,2578, 8,249512, -58,14844, -687,9688, -111,2554, 775,0781, -2911,539, 62,69336, 441,9688, -4078,66, 28,59863, 253,6797, -4502,73, -108,3398, 773,6953, -6051,078, -161,4087, 998,5313
+UInt32 SegmentIndexArray: NULL, KTID 00000006, KTID 00000005, KTID 00000006, KTID 00000004, KTID 00000005, KTID 00000003, KTID 00000004, KTID 00000002, KTID 00000003, KTID 00000001, KTID 00000002
+UInt32 BankObjectNameHash: KTID f50239d1
+UInt32 ProgId: KTID c6683289
+
+KTID: KTID 5e6fe7a2
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 90f5edf6
+Float32 WorldScale: 50, 1, 30
+Float32 WorldPosition: 25000, 6000, 70151,71
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 50, -50, 50, 77,83472, -50, -121,013, 82,13074, -50, -487,8252, 122,5703, -50, -575,4045, 120,2891, -50, -664,7154, 37,07605, -50, -718,9868, -20,00961, -50, 95,02188
+UInt32 BankObjectNameHash: KTID 9f329e28
+UInt32 ProgId: KTID cae01463
+Float32 Tune: -300
+
+KTID: KTID 5fcda183
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID eebd42ab
+Float32 WorldScale: 1, 1, 1
+Float32 WorldPosition: 71062,46, 5300, 95424,664
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 1445,492, 130,6665, -72,07031, -5388,445, 24,84033, 378,6328, -984,7656, 114,2168, 1710,813, -1504,523, -0,3964844, 273,6719, -3160,891, 63,16943, 555,7656
+UInt32 SegmentIndexArray: NULL, KTID 00000002, KTID 00000001, KTID 00000004, KTID 00000003, KTID 00000004, KTID 00000002, KTID 00000003
+UInt32 BankObjectNameHash: KTID f50239d1
+UInt32 ProgId: KTID d018a269
+
+KTID: KTID 649aca89
+TypeInfo: TypeInfo::Object::Sound::ReverbSetting
+Parent: NULL
+UInt32 DefaultPresetNameHash: KTID 4a050832
+Float32 DefaultVolume: 1
+Int32 DefaultFadeTime: 0
+
+KTID: KTID 6e7c1202
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID eebd42ab
+Float32 WorldScale: 1, 1, 1
+Float32 WorldPosition: 71164,75, 5300,55, 87717,08
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: -1177,016, 164,3555, 1496,484, -1995,039, 186,4463, -2405,367, -1172,102, 170,5596, -491,5078
+UInt32 SegmentIndexArray: NULL, KTID 00000002, KTID 00000001, KTID 00000002
+UInt32 BankObjectNameHash: KTID f50239d1
+UInt32 ProgId: KTID d018a269
+Float32 Level: 0,99333334
+Float32 Tune: -200
+
+KTID: KTID 7d2a8281
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID eebd42ab
+Float32 WorldScale: 1, 1, 1
+Float32 WorldPosition: 72121,94, 5300,157, 87713,56
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 724,8438, 43,92529, -468,1406, -1295,336, 590,9795, -3690,625, -54,91406, 187,7368, -2014,422, -550,5547, 99,52588, -3186,813
+UInt32 SegmentIndexArray: NULL, KTID 00000002, KTID 00000001, KTID 00000003, KTID 00000002, KTID 00000003
+UInt32 BankObjectNameHash: KTID f50239d1
+UInt32 ProgId: KTID d018a269
+Float32 Tune: 200
+
+KTID: KTID 8af03d85
+TypeInfo: TypeInfo::Object::Sound::AmbientSetting
+Parent: NULL
+UInt32 BankObjectNameHash0: KTID 9f329e28
+UInt32 ProgId0: KTID 69fe83e4
+Byte UseAmbientOcc0: 0
+Byte UseSmoothOcc0: 0
+UInt32 OccRegionIndexArray0: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 BankObjectNameHash1: NULL
+UInt32 ProgId1: NULL
+Byte UseAmbientOcc1: 0
+Byte UseSmoothOcc1: 0
+UInt32 OccRegionIndexArray1: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 BankObjectNameHash2: NULL
+UInt32 ProgId2: NULL
+Byte UseAmbientOcc2: 0
+Byte UseSmoothOcc2: 0
+UInt32 OccRegionIndexArray2: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 BankObjectNameHash3: NULL
+UInt32 ProgId3: NULL
+Byte UseAmbientOcc3: 0
+Byte UseSmoothOcc3: 0
+UInt32 OccRegionIndexArray3: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray0: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray1: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray2: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+UInt32 GateSwitchIndexArray3: NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL
+
+KTID: KTID 8bd8f300
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID eebd42ab
+Float32 WorldScale: 1, 1, 1
+Float32 WorldPosition: 77735,34, 5083,2295, 41348,508
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: -22,46875, 4,599609, 765,4141, -743,2578, 8,249512, -58,14844
+UInt32 SegmentIndexArray: NULL, KTID 00000001
+UInt32 BankObjectNameHash: KTID f50239d1
+UInt32 ProgId: KTID d018a269
+Float32 Level: 0,6
+Float32 Tune: -400
+
+KTID: KTID 97504841
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID 90f5edf6
+Float32 WorldScale: 20, 10, 30
+Float32 WorldPosition: 71133,05, 5500, 88932,99
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 102,9238, -50, 219,3498, 100,8285, -50, -40,69506, -6,759766, -50, -180,4328, -144,3496, -50, -156,3154, -159,9774, -50, 52,26172, -449,8588, -50, 85,8359, -241,3684, -50, 132,6851, -336,7143, -50, 264,9349, -11,65391, -50, 278,7146
+UInt32 BankObjectNameHash: KTID f50239d1
+UInt32 ProgId: KTID 88a14b09
+Float32 Level: 0,42
+Float32 Tune: 850
+
+KTID: KTID 9a87637f
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID eebd42ab
+Float32 WorldScale: 1, 1, 1
+Float32 WorldPosition: 75939,99, 4950,2925, 43454,63
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: -22,46875, 4,599609, 765,4141, -743,2578, 8,249512, -58,14844
+UInt32 SegmentIndexArray: NULL, KTID 00000001
+UInt32 BankObjectNameHash: KTID f50239d1
+UInt32 ProgId: KTID d018a269
+Float32 Level: 0,6
+Float32 Tune: -400
+
+KTID: KTID a935d3fe
+TypeInfo: Field_Common.kidsobjdb
+Parent: KTID eebd42ab
+Float32 WorldScale: 1, 1, 1
+Float32 WorldPosition: 81767,8, 5053,9277, 50535,39
+Float32 WorldQuaternion: 0, 0, 0, 1
+Float32 PositionArray: 147,5078, 32,73682, 307,6016, -532,1797, -15,87354, -150,5742
+UInt32 SegmentIndexArray: NULL, KTID 00000001
+UInt32 BankObjectNameHash: KTID f50239d1
+UInt32 ProgId: KTID d018a269
+

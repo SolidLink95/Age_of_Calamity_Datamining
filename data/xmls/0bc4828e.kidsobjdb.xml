@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KidsObjDB version="0" platform="16" name_file="0x5b0ac2c7">
+    <Object version="0" name="0x0c55b96d" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x793bcbc1" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="1" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x2df417f4" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x3c2d0c37" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="2" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x3b430aaf" type="TypeInfo::Object::3D::TextureArrayInfo">
+        <Column name="Textures" type="uint32">
+            <Row value="0xe1a8128f" />
+            <Row value="0x9f863fef" />
+            <Row value="0x4cf2e7aa" />
+            <Row value="0x66480493" />
+            <Row value="0x7ec60486" />
+            <Row value="0xe59ec447" />
+            <Row value="0xe339ba92" />
+            <Row value="0x824854c8" />
+            <Row value="0x9e69dc2f" />
+            <Row value="0x05429bf0" />
+            <Row value="0x13c74489" />
+            <Row value="0xb2d5debf" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x4003e42e" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x793bcbc1" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="2" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x6319ee39" type="TypeInfo::Object::Render::State::3D::Textures">
+        <Column name="TextureBindTableCSVFileResourceHash" type="uint32">
+            <Row value="0x24b36a5d" />
+        </Column>
+        <Column name="TextureObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x66d010b2" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x3c2d0c37" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="4" />
+        </Column>
+    </Object>
+    <Object version="0" name="0x91861b95" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x3c2d0c37" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="1" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xb490dc0b" type="0x774ddc07">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="0x0c47e481" type="uint32">
+            <Row value="0xd435b443" />
+        </Column>
+        <Column name="0xe9cc029e" type="uint32">
+            <Row value="0xeb05ae79" />
+        </Column>
+        <Column name="0xa45ad0e0" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="0xf4553a8d" type="uint32">
+            <Row value="0x10c834a9" />
+        </Column>
+        <Column name="0x45b41815" type="uint32">
+            <Row value="0x3b430aaf" />
+        </Column>
+        <Column name="Flag" type="uint32">
+            <Row value="0x00000010" />
+        </Column>
+        <Column name="0x43aea90c" type="float">
+            <Row value="0.5" />
+        </Column>
+        <Column name="0x70cb1a2d" type="float">
+            <Row value="8000.0" />
+        </Column>
+        <Column name="0x2913bb1d" type="float">
+            <Row value="2000.0" />
+        </Column>
+        <Column name="0x0575b6f4" type="float">
+            <Row value="1.29999995" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xca621453" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x3c2d0c37" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="3" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd435b443" type="TypeInfo::Object::Render::State::3D::Textures">
+        <Column name="TextureBindTableCSVFileResourceHash" type="uint32">
+            <Row value="0x897c9c13" />
+        </Column>
+        <Column name="TextureObjectNameHash" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xd8a78eac" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x793bcbc1" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xeb05ae79" type="0x468415d9">
+        <Column name="WorldPosition" type="float">
+            <Row value="0.0" />
+            <Row value="0.0" />
+            <Row value="0.0" />
+        </Column>
+        <Column name="0xf981bc3d" type="uint32">
+            <Row value="0x499f5934" />
+        </Column>
+        <Column name="0xdc491051" type="uint32">
+            <Row value="0x6319ee39" />
+        </Column>
+        <Column name="0xf17661e1" type="uint32">
+            <Row value="0xf7c895ec" />
+        </Column>
+        <Column name="0x848cf8fc" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+        <Column name="0x52cbb8aa" type="uint32">
+            <Row value="0x00000000" />
+        </Column>
+    </Object>
+    <Object version="0" name="0xf5181f36" type="TypeInfo::Object::Render::Texture::Static">
+        <Column name="KTGLTexContextResourceHash" type="uint32">
+            <Row value="0x3c2d0c37" />
+        </Column>
+        <Column name="TID" type="int32">
+            <Row value="0" />
+        </Column>
+    </Object>
+</KidsObjDB>
