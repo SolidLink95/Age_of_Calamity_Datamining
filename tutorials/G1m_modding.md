@@ -12,11 +12,14 @@ Only CharacterEditor models were tested. Use [this spreadsheet](https://docs.goo
 
 ## 3. Importing
 
+
 - Go to `path/to/raw/files/CharacterEditor/g1m`
 - Copy the g1m file into the separate folder
 - Open blender, click on `Active Tool and workspace settings`
+![](https://raw.githubusercontent.com/SolidLink95/Age_of_Calamity_Datamining/main/tutorials/pngs/1.png)
 - Choose the path to the game's raw files (`Dump path`)
 - Go to `File -> Import -> 3DMigoto G1M raw buffers (.g1m)`
+![](https://raw.githubusercontent.com/SolidLink95/Age_of_Calamity_Datamining/main/tutorials/pngs/2.png)
 - Navigate to the folder with g1m file and click `Import`
 
 
